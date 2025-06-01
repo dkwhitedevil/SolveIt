@@ -1,0 +1,667 @@
+{
+    "category": "Technology",
+    "levels": [
+      {
+        "level": 1,
+        "complexity": "Easy",
+        "questions": [
+          {
+            "id": 1,
+            "question": "What does 'HTTP' stand for?",
+            "options": ["HyperText Transfer Protocol", "Hyper Transfer Text Protocol", "HyperText Transmission Protocol", "None of the above"],
+            "answer": "HyperText Transfer Protocol"
+          },
+          {
+            "id": 2,
+            "question": "Which programming language is primarily used for web development?",
+            "options": ["Python", "JavaScript", "C++", "Java"],
+            "answer": "JavaScript"
+          },
+          {
+            "id": 3,
+            "question": "True or False: The first version of Windows was released in 1985.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 4,
+            "question": "Which company developed the iPhone?",
+            "options": ["Microsoft", "Apple", "Samsung", "Nokia"],
+            "answer": "Apple"
+          },
+          {
+            "id": 5,
+            "question": "Where is the headquarters of Google located?",
+            "options": ["London", "New York", "San Francisco", "Mountain View"],
+            "answer": "Mountain View"
+          },
+          {
+            "id": 6,
+            "question": "Fill in the blank: The most popular programming language for Android development is ____.",
+            "options": ["Java", "Swift", "C#", "Python"],
+            "answer": "Java"
+          },
+          {
+            "id": 7,
+            "question": "Which of the following is not a search engine?",
+            "options": ["Google", "Yahoo", "Bing", "Facebook"],
+            "answer": "Facebook"
+          },
+          {
+            "id": 8,
+            "question": "Which of these is a type of database?",
+            "options": ["Windows", "MySQL", "iOS", "Linux"],
+            "answer": "MySQL"
+          },
+          {
+            "id": 9,
+            "question": "Scenario: You are developing an application that needs to display real-time stock market data. Which technology would you most likely use?",
+            "options": ["REST API", "SOAP API", "WebSockets", "FTP"],
+            "answer": "WebSockets"
+          },
+          {
+            "id": 10,
+            "question": "What is the purpose of the 'git' command in software development?",
+            "options": ["Compiling code", "Version control", "Debugging", "Data storage"],
+            "answer": "Version control"
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "complexity": "Moderate",
+        "questions": [
+          {
+            "id": 11,
+            "question": "Which HTML tag is used to display a picture on a webpage?",
+            "options": ["<img>", "<picture>", "<image>", "<src>"],
+            "answer": "<img>"
+          },
+          {
+            "id": 12,
+            "question": "True or False: Python is a statically typed programming language.",
+            "options": ["True", "False"],
+            "answer": "False"
+          },
+          {
+            "id": 13,
+            "question": "Which of these is a version control system?",
+            "options": ["Git", "Java", "Oracle", "Android"],
+            "answer": "Git"
+          },
+          {
+            "id": 14,
+            "question": "What does the term 'API' stand for?",
+            "options": ["Application Programming Interface", "Automated Programming Interface", "Advanced Programming Interface", "None of the above"],
+            "answer": "Application Programming Interface"
+          },
+          {
+            "id": 15,
+            "question": "Scenario: You are tasked with building a web page for a restaurant's menu. Which programming language would you primarily use for the structure of the page?",
+            "options": ["HTML", "CSS", "JavaScript", "PHP"],
+            "answer": "HTML"
+          },
+          {
+            "id": 16,
+            "question": "Which company developed the Android operating system?",
+            "options": ["Apple", "Microsoft", "Google", "IBM"],
+            "answer": "Google"
+          },
+          {
+            "id": 17,
+            "question": "Fill in the blank: A ____ is a tool for automating repetitive tasks in software development.",
+            "options": ["Framework", "Compiler", "Script", "Build Tool"],
+            "answer": "Build Tool"
+          },
+          {
+            "id": 18,
+            "question": "What is the default file extension for an Android app?",
+            "options": [".apk", ".exe", ".app", ".dmg"],
+            "answer": ".apk"
+          },
+          {
+            "id": 19,
+            "question": "Which of the following is a popular front-end JavaScript framework?",
+            "options": ["React", "Node.js", "Django", "Spring"],
+            "answer": "React"
+          },
+          {
+            "id": 20,
+            "question": "What is the primary purpose of a firewall?",
+            "options": ["To store data", "To block unauthorized access", "To provide internet access", "To improve network speed"],
+            "answer": "To block unauthorized access"
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "complexity": "Advanced",
+        "questions": [
+          {
+            "id": 21,
+            "question": "Which protocol is used for secure communication over the internet?",
+            "options": ["HTTP", "HTTPS", "FTP", "SMTP"],
+            "answer": "HTTPS"
+          },
+          {
+            "id": 22,
+            "question": "Fill in the blank: In object-oriented programming, the process of hiding the internal implementation of an object is called ____.",
+            "options": ["Encapsulation", "Inheritance", "Polymorphism", "Abstraction"],
+            "answer": "Encapsulation"
+          },
+          {
+            "id": 23,
+            "question": "True or False: JavaScript is a synchronous programming language.",
+            "options": ["True", "False"],
+            "answer": "False"
+          },
+          {
+            "id": 24,
+            "question": "Which of the following technologies is most commonly used for building RESTful APIs?",
+            "options": ["JavaScript", "Java", "Node.js", "PHP"],
+            "answer": "Node.js"
+          },
+          {
+            "id": 25,
+            "question": "Scenario: You need to store data that can be accessed frequently and is read-heavy. Which type of database would you choose?",
+            "options": ["NoSQL", "SQL", "Graph Database", "In-memory Database"],
+            "answer": "In-memory Database"
+          },
+          {
+            "id": 26,
+            "question": "What does the 'MVC' design pattern stand for?",
+            "options": ["Model-View-Controller", "Module-View-Controller", "Model-Validation-Controller", "None of the above"],
+            "answer": "Model-View-Controller"
+          },
+          {
+            "id": 27,
+            "question": "Which of these is used to store passwords securely?",
+            "options": ["Encryption", "Hashing", "Base64 encoding", "Plaintext"],
+            "answer": "Hashing"
+          },
+          {
+            "id": 28,
+            "question": "What is the purpose of the 'constructor' method in object-oriented programming?",
+            "options": ["Initialize object properties", "Define the object behavior", "Create a new instance of a class", "None of the above"],
+            "answer": "Initialize object properties"
+          },
+          {
+            "id": 29,
+            "question": "True or False: The cloud computing model that allows resources to be shared among multiple clients is called multi-cloud.",
+            "options": ["True", "False"],
+            "answer": "False"
+          },
+          {
+            "id": 30,
+            "question": "Which of the following is a cloud service provider?",
+            "options": ["AWS", "GCP", "Azure", "All of the above"],
+            "answer": "All of the above"
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "complexity": "Expert",
+        "questions": [
+          {
+            "id": 31,
+            "question": "What is the term for a software vulnerability that allows attackers to execute arbitrary code in a system?",
+            "options": ["Buffer Overflow", "SQL Injection", "Cross-Site Scripting", "Code Injection"],
+            "answer": "Buffer Overflow"
+          },
+          {
+            "id": 32,
+            "question": "Fill in the blank: A ____ is a software layer that interacts with hardware resources in an operating system.",
+            "options": ["Kernel", "Shell", "API", "Driver"],
+            "answer": "Kernel"
+          },
+          {
+            "id": 33,
+            "question": "True or False: Kubernetes is primarily used for deploying and managing containerized applications.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 34,
+            "question": "Which of the following is a distributed version control system?",
+            "options": ["SVN", "Git", "Mercurial", "Both B and C"],
+            "answer": "Both B and C"
+          },
+          {
+            "id": 35,
+            "question": "Scenario: You need to ensure that a piece of software can scale easily to handle an increase in traffic. Which architecture would you implement?",
+            "options": ["Monolithic", "Microservices", "Client-Server", "Peer-to-Peer"],
+            "answer": "Microservices"
+          },
+          {
+            "id": 36,
+            "question": "Which of these is a widely used protocol for exchanging files over the internet?",
+            "options": ["FTP", "SMTP", "SNMP", "IMAP"],
+            "answer": "FTP"
+          },
+          {
+            "id": 37,
+            "question": "What is the purpose of the 'git merge' command?",
+            "options": ["Combine branches", "Create a new branch", "Delete a branch", "Push changes to remote"],
+            "answer": "Combine branches"
+          },
+          {
+            "id": 38,
+            "question": "Fill in the blank: In machine learning, the process of tuning model parameters is called ____.",
+            "options": ["Optimization", "Training", "Testing", "Inference"],
+            "answer": "Optimization"
+          },
+          {
+            "id": 39,
+            "question": "True or False: Blockchain technology can be used for secure, decentralized transactions.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 40,
+            "question": "Which of the following is an example of a NoSQL database?",
+            "options": ["MySQL", "PostgreSQL", "MongoDB", "Oracle"],
+            "answer": "MongoDB"
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "complexity": "Master",
+        "questions": [
+          {
+            "id": 41,
+            "question": "What is the purpose of a 'load balancer' in cloud computing?",
+            "options": ["Distribute traffic among servers", "Store data", "Encrypt communication", "Monitor network security"],
+            "answer": "Distribute traffic among servers"
+          },
+          {
+            "id": 42,
+            "question": "Fill in the blank: In cloud computing, ____ refers to the ability to scale resources up or down based on demand.",
+            "options": ["Elasticity", "Scalability", "Redundancy", "Portability"],
+            "answer": "Elasticity"
+          },
+          {
+            "id": 43,
+            "question": "True or False: Docker containers are primarily used to run virtual machines.",
+            "options": ["True", "False"],
+            "answer": "False"
+          },
+          {
+            "id": 44,
+            "question": "Which of these is an example of a continuous integration tool?",
+            "options": ["Jenkins", "Eclipse", "IntelliJ", "NetBeans"],
+            "answer": "Jenkins"
+          },
+          {
+            "id": 45,
+            "question": "Scenario: You are developing a high-traffic e-commerce website. You need to ensure that user sessions are securely stored. What technology would you use?",
+            "options": ["Cookies", "Sessions", "JWT", "LocalStorage"],
+            "answer": "JWT"
+          },
+          {
+            "id": 46,
+            "question": "Which of the following is a common design pattern used for building flexible and reusable code in software engineering?",
+            "options": ["Singleton", "Observer", "Decorator", "All of the above"],
+            "answer": "All of the above"
+          },
+          {
+            "id": 47,
+            "question": "What does 'CI/CD' stand for in DevOps practices?",
+            "options": ["Continuous Integration/Continuous Delivery", "Continuous Input/Continuous Development", "Continuous Integration/Continuous Development", "None of the above"],
+            "answer": "Continuous Integration/Continuous Delivery"
+          },
+          {
+            "id": 48,
+            "question": "Fill in the blank: A ____ attack occurs when attackers intercept and modify communication between two parties.",
+            "options": ["Man-in-the-middle", "SQL Injection", "Cross-Site Scripting", "Buffer Overflow"],
+            "answer": "Man-in-the-middle"
+          },
+          {
+            "id": 49,
+            "question": "True or False: An API gateway is used to manage microservices architecture by routing requests to the appropriate service.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 50,
+            "question": "Which of these is an example of a cloud storage solution?",
+            "options": ["Google Drive", "Dropbox", "AWS S3", "All of the above"],
+            "answer": "All of the above"
+          }
+        ]
+      },
+          {
+            "level": 6,
+            "complexity": "Advanced",
+            "questions": [
+              {
+                "id": 51,
+                "question": "What is the purpose of the 'Spring Framework' in Java?",
+                "options": ["Data Encryption", "Application Development", "Web Hosting", "System Monitoring"],
+                "answer": "Application Development"
+              },
+              {
+                "id": 52,
+                "question": "True or False: Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.",
+                "options": ["True", "False"],
+                "answer": "True"
+              },
+              {
+                "id": 53,
+                "question": "Which of these is NOT a NoSQL database?",
+                "options": ["MongoDB", "Cassandra", "PostgreSQL", "Redis"],
+                "answer": "PostgreSQL"
+              },
+              {
+                "id": 54,
+                "question": "Fill in the blank: The __ protocol is used for sending email.",
+                "options": ["SMTP", "IMAP", "FTP", "HTTP"],
+                "answer": "SMTP"
+              },
+              {
+                "id": 55,
+                "question": "Scenario: You are tasked with ensuring high availability for an application deployed on AWS. Which AWS service would you use to automatically distribute incoming traffic across multiple instances?",
+                "options": ["Elastic Load Balancer", "EC2", "S3", "CloudFront"],
+                "answer": "Elastic Load Balancer"
+              },
+              {
+                "id": 56,
+                "question": "Which algorithm is commonly used for sorting large datasets efficiently?",
+                "options": ["QuickSort", "BubbleSort", "InsertionSort", "SelectionSort"],
+                "answer": "QuickSort"
+              },
+              {
+                "id": 57,
+                "question": "True or False: The concept of 'Containers' in Docker is analogous to virtual machines in traditional virtualization technology.",
+                "options": ["True", "False"],
+                "answer": "False"
+              },
+              {
+                "id": 58,
+                "question": "What does 'REST' stand for in the context of web services?",
+                "options": ["Real-time Event Streaming", "Representational State Transfer", "Remote System Transaction", "None of the above"],
+                "answer": "Representational State Transfer"
+              },
+              {
+                "id": 59,
+                "question": "What is the primary function of an API Gateway in a microservices architecture?",
+                "options": ["Routing requests to appropriate services", "Data storage", "Monitoring service performance", "None of the above"],
+                "answer": "Routing requests to appropriate services"
+              },
+              {
+                "id": 60,
+                "question": "Fill in the blank: In machine learning, the technique of reducing a model's complexity to prevent overfitting is called ____.",
+                "options": ["Regularization", "Cross-validation", "Clustering", "Dimensionality reduction"],
+                "answer": "Regularization"
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "complexity": "Expert",
+            "questions": [
+              {
+                "id": 61,
+                "question": "What is a common use case of a message queue in distributed systems?",
+                "options": ["Database replication", "Asynchronous task processing", "Data encryption", "Network routing"],
+                "answer": "Asynchronous task processing"
+              },
+              {
+                "id": 62,
+                "question": "True or False: The 'MapReduce' framework is primarily used for parallel processing of large data sets.",
+                "options": ["True", "False"],
+                "answer": "True"
+              },
+              {
+                "id": 63,
+                "question": "Fill in the blank: The ____ design pattern ensures that a class has only one instance and provides a global point of access to that instance.",
+                "options": ["Singleton", "Observer", "Factory", "Decorator"],
+                "answer": "Singleton"
+              },
+              {
+                "id": 64,
+                "question": "Which of these is an essential component of Kubernetes?",
+                "options": ["Pod", "Cluster", "Service", "All of the above"],
+                "answer": "All of the above"
+              },
+              {
+                "id": 65,
+                "question": "Scenario: You are working with an application that requires real-time data updates. Which protocol would you use to enable bi-directional communication between the client and server?",
+                "options": ["HTTP", "WebSocket", "FTP", "SMTP"],
+                "answer": "WebSocket"
+              },
+              {
+                "id": 66,
+                "question": "What does the 'CAP Theorem' in distributed systems stand for?",
+                "options": ["Consistency, Availability, Partition Tolerance", "Cost, Availability, Performance", "Consistency, Algorithm, Partitioning", "Cloud, Availability, Protocol"],
+                "answer": "Consistency, Availability, Partition Tolerance"
+              },
+              {
+                "id": 67,
+                "question": "True or False: An event-driven architecture is based on the principle of 'Request-Response' interaction between components.",
+                "options": ["True", "False"],
+                "answer": "False"
+              },
+              {
+                "id": 68,
+                "question": "Which of these is used to measure the performance of a system in terms of time to process a request?",
+                "options": ["Latency", "Throughput", "Bandwidth", "Availability"],
+                "answer": "Latency"
+              },
+              {
+                "id": 69,
+                "question": "Fill in the blank: The process of dividing a software system into multiple independent services, each running its own process and communicating via network protocols, is called ____.",
+                "options": ["Microservices architecture", "Monolithic design", "Service-oriented architecture", "None of the above"],
+                "answer": "Microservices architecture"
+              },
+              {
+                "id": 70,
+                "question": "Which of the following is NOT a primary characteristic of cloud computing?",
+                "options": ["Scalability", "On-demand availability", "Fixed cost", "Elasticity"],
+                "answer": "Fixed cost"
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "complexity": "Master",
+            "questions": [
+              {
+                "id": 71,
+                "question": "True or False: In a blockchain, each block contains a cryptographic hash of the previous block.",
+                "options": ["True", "False"],
+                "answer": "True"
+              },
+              {
+                "id": 72,
+                "question": "Which of these techniques can help in improving a model's performance by selecting relevant features?",
+                "options": ["Feature selection", "Feature extraction", "Regularization", "All of the above"],
+                "answer": "All of the above"
+              },
+              {
+                "id": 73,
+                "question": "Scenario: You need to implement a solution that provides secure, decentralized transactions without intermediaries. Which technology would you choose?",
+                "options": ["Blockchain", "Cloud computing", "Machine learning", "None of the above"],
+                "answer": "Blockchain"
+              },
+              {
+                "id": 74,
+                "question": "Fill in the blank: In cybersecurity, a ____ is a type of attack where the attacker impersonates a legitimate user to gain unauthorized access.",
+                "options": ["Phishing", "Man-in-the-middle", "Spoofing", "None of the above"],
+                "answer": "Spoofing"
+              },
+              {
+                "id": 75,
+                "question": "What is the primary purpose of the 'Spring Boot' framework?",
+                "options": ["To provide a framework for developing desktop applications", "To simplify the development of Java-based web applications", "To develop mobile applications", "None of the above"],
+                "answer": "To simplify the development of Java-based web applications"
+              },
+              {
+                "id": 76,
+                "question": "Which of the following algorithms is best suited for classification tasks in machine learning?",
+                "options": ["K-means clustering", "Decision trees", "K-nearest neighbors", "Both B and C"],
+                "answer": "Both B and C"
+              },
+              {
+                "id": 77,
+                "question": "True or False: The 'OAuth' protocol is used for securely transmitting passwords over the internet.",
+                "options": ["True", "False"],
+                "answer": "False"
+              },
+              {
+                "id": 78,
+                "question": "Which of the following is a cloud-native database service provided by Amazon Web Services?",
+                "options": ["RDS", "DynamoDB", "S3", "All of the above"],
+                "answer": "DynamoDB"
+              },
+              {
+                "id": 79,
+                "question": "Scenario: Your application requires users to upload and store files. Which AWS service would you use for efficient and scalable storage?",
+                "options": ["S3", "EC2", "Lambda", "RDS"],
+                "answer": "S3"
+              },
+              {
+                "id": 80,
+                "question": "Fill in the blank: The process of converting unstructured data into a structured format for analysis is called ____.",
+                "options": ["Data cleaning", "Data processing", "Data mining", "Data transformation"],
+                "answer": "Data transformation"
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "complexity": "Expert+",
+            "questions": [
+              {
+                "id": 81,
+                "question": "True or False: In machine learning, an ensemble model combines multiple weak models to create a stronger model.",
+                "options": ["True", "False"],
+                "answer": "True"
+              },
+              {
+                "id": 82,
+                "question": "Which of the following programming languages is most commonly used for developing Android mobile applications?",
+                "options": ["Kotlin", "Swift", "Java", "Objective-C"],
+                "answer": "Kotlin"
+              },
+              {
+                "id": 83,
+                "question": "Fill in the blank: In cloud computing, ____ allows users to rent virtual servers to run applications without worrying about hardware management.",
+                "options": ["IaaS", "SaaS", "PaaS", "FaaS"],
+                "answer": "IaaS"
+              },
+              {
+                "id": 84,
+                "question": "Scenario: You are tasked with creating a serverless architecture that can scale automatically. Which AWS service would you use?",
+                "options": ["Lambda", "EC2", "Elastic Beanstalk", "RDS"],
+                "answer": "Lambda"
+              },
+              {
+                "id": 85,
+                "question": "Which of the following is a common way to optimize a database for faster query performance?",
+                "options": ["Indexing", "Data normalization", "Data denormalization", "All of the above"],
+                "answer": "All of the above"
+              },
+              {
+                "id": 86,
+                "question": "True or False: The 'BFS' algorithm is used for finding the shortest path in a graph.",
+                "options": ["True", "False"],
+                "answer": "True"
+              },
+              {
+                "id": 87,
+                "question": "Which of the following is NOT an example of a front-end JavaScript framework?",
+                "options": ["React", "Vue", "Angular", "Django"],
+                "answer": "Django"
+              },
+              {
+                "id": 88,
+                "question": "Fill in the blank: A ____ is a unique identifier assigned to a resource in a microservices-based architecture.",
+                "options": ["Service Discovery", "Service ID", "Request ID", "Session ID"],
+                "answer": "Service ID"
+              },
+              {
+                "id": 89,
+                "question": "What is the purpose of the 'docker-compose' command?",
+                "options": ["To build Docker images", "To manage multiple containers", "To deploy to cloud", "To store images"],
+                "answer": "To manage multiple containers"
+              },
+              {
+                "id": 90,
+                "question": "Scenario: You need to run code in response to an event in an S3 bucket. Which AWS service would you use?",
+                "options": ["Lambda", "S3 Event Notifications", "SNS", "EC2"],
+                "answer": "Lambda"
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "complexity": "Master+",
+            "questions": [
+              {
+                "id": 91,
+                "question": "True or False: In distributed systems, 'event sourcing' stores changes to data as a sequence of immutable events.",
+                "options": ["True", "False"],
+                "answer": "True"
+              },
+              {
+                "id": 92,
+                "question": "What is the core function of Kubernetes in a microservices architecture?",
+                "options": ["Load balancing", "Container orchestration", "Server monitoring", "Application development"],
+                "answer": "Container orchestration"
+              },
+              {
+                "id": 93,
+                "question": "Fill in the blank: The principle of 'Least Privilege' in cybersecurity means granting ____ access to users.",
+                "options": ["Unlimited", "Minimal", "Elevated", "Temporary"],
+                "answer": "Minimal"
+              },
+              {
+                "id": 94,
+                "question": "Scenario: You are working with a large-scale, real-time data stream processing system. Which framework would you likely use?",
+                "options": ["Apache Spark", "Apache Kafka", "Hadoop", "Redis"],
+                "answer": "Apache Kafka"
+              },
+              {
+                "id": 95,
+                "question": "Which of these is a technique used for optimizing machine learning models by removing irrelevant or redundant features?",
+                "options": ["Feature selection", "Dimensionality reduction", "Regularization", "All of the above"],
+                "answer": "All of the above"
+              },
+              {
+                "id": 96,
+                "question": "True or False: In the context of cloud computing, 'FaaS' stands for 'Function as a Service'.",
+                "options": ["True", "False"],
+                "answer": "True"
+              },
+              {
+                "id": 97,
+                "question": "What is the best tool for managing containerized applications in Kubernetes?",
+                "options": ["Docker", "Kubelet", "Kubernetes API", "Helm"],
+                "answer": "Helm"
+              },
+              {
+                "id": 98,
+                "question": "Which type of machine learning algorithm is used when you want to predict a continuous value, such as house prices?",
+                "options": ["Classification", "Regression", "Clustering", "Reinforcement Learning"],
+                "answer": "Regression"
+              },
+              {
+                "id": 99,
+                "question": "Fill in the blank: A ____ is a special type of function in programming that allows for a lazy evaluation of its result.",
+                "options": ["Lazy function", "Generator", "Coroutine", "Recursive function"],
+                "answer": "Generator"
+              },
+              {
+                "id": 100,
+                "question": "Which of these cloud services allows you to host virtual machines on-demand?",
+                "options": ["AWS EC2", "Google Cloud Functions", "AWS Lambda", "Google App Engine"],
+                "answer": "AWS EC2"
+              }
+            ]
+          }
+      
+    ]
+  }
+  

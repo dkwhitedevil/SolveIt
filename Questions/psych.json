@@ -1,0 +1,665 @@
+{
+    "category": "Psychology",
+    "levels": [
+      {
+        "level": 1,
+        "complexity": "Easy",
+        "questions": [
+          {
+            "id": 1,
+            "question": "What is the study of psychology primarily concerned with?",
+            "options": ["Behavior and mental processes", "Physical health", "Genetic disorders", "Environmental studies"],
+            "answer": "Behavior and mental processes"
+          },
+          {
+            "id": 2,
+            "question": " Sigmund Freud is known as the father of psychoanalysis.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 3,
+            "question": " The part of the brain responsible for reasoning and decision-making is the ______ cortex.",
+            "options": ["prefrontal", "parietal", "temporal", "occipital"],
+            "answer": "prefrontal"
+          },
+          {
+            "id": 4,
+            "question": "Which psychological perspective focuses on the influence of childhood experiences?",
+            "options": ["Psychoanalytic", "Behavioral", "Humanistic", "Cognitive"],
+            "answer": "Psychoanalytic"
+          },
+          {
+            "id": 5,
+            "question": "What does the acronym 'DSM' stand for in psychology?",
+            "options": ["Diagnostic and Statistical Manual", "Developmental Systems Model", "Dynamic Stress Measurement", "Decision Support Methodology"],
+            "answer": "Diagnostic and Statistical Manual"
+          },
+          {
+            "id": 6,
+            "question": " Classical conditioning was first studied by Ivan Pavlov.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 7,
+            "question": "What is the primary neurotransmitter involved in the 'fight or flight' response?",
+            "options": ["Dopamine", "Serotonin", "Norepinephrine", "GABA"],
+            "answer": "Norepinephrine"
+          },
+          {
+            "id": 8,
+            "question": " The process by which we interpret sensory information is called ______.",
+            "options": ["perception", "sensation", "cognition", "memory"],
+            "answer": "perception"
+          },
+          {
+            "id": 9,
+            "question": "Which psychological approach emphasizes free will and self-actualization?",
+            "options": ["Humanistic", "Cognitive", "Behavioral", "Psychoanalytic"],
+            "answer": "Humanistic"
+          },
+          {
+            "id": 10,
+            "question": " The unconscious mind is a key concept in cognitive psychology.",
+            "options": ["True", "False"],
+            "answer": "False"
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "complexity": "Beginner",
+        "questions": [
+          {
+            "id": 11,
+            "question": "What is the term for the ability to store and retrieve information over time?",
+            "options": ["Memory", "Learning", "Perception", "Cognition"],
+            "answer": "Memory"
+          },
+          {
+            "id": 12,
+            "question": " Maslow's hierarchy of needs places self-actualization at the top of the pyramid.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 13,
+            "question": " The ______ effect occurs when people remember items at the beginning and end of a list better than those in the middle.",
+            "options": ["recency", "serial position", "primacy", "interference"],
+            "answer": "serial position"
+          },
+          {
+            "id": 14,
+            "question": "Which type of conditioning involves learning through rewards and punishments?",
+            "options": ["Classical conditioning", "Operant conditioning", "Observational learning", "Cognitive learning"],
+            "answer": "Operant conditioning"
+          },
+          {
+            "id": 15,
+            "question": "What part of the brain is primarily responsible for emotions and memory?",
+            "options": ["Amygdala", "Cerebellum", "Hippocampus", "Thalamus"],
+            "answer": "Hippocampus"
+          },
+          {
+            "id": 16,
+            "question": " Carl Rogers developed client-centered therapy.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 17,
+            "question": " ______ bias occurs when individuals overestimate their ability to have predicted an event after it has happened.",
+            "options": ["Hindsight", "Confirmation", "Availability", "Anchoring"],
+            "answer": "Hindsight"
+          },
+          {
+            "id": 18,
+            "question": "Which term describes the psychological discomfort of holding conflicting beliefs?",
+            "options": ["Cognitive dissonance", "Confirmation bias", "Hindsight bias", "Social facilitation"],
+            "answer": "Cognitive dissonance"
+          },
+          {
+            "id": 19,
+            "question": " The 'Big Five' personality traits include openness and neuroticism.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 20,
+            "question": "What is the psychological term for the influence of a group on individual behavior?",
+            "options": ["Groupthink", "Social loafing", "Conformity", "Deindividuation"],
+            "answer": "Conformity"
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "complexity": "Intermediate",
+        "questions": [
+          {
+            "id": 21,
+            "question": "What is the term for the process by which behavior is strengthened or weakened through consequences?",
+            "options": ["Reinforcement", "Punishment", "Extinction", "Modeling"],
+            "answer": "Reinforcement"
+          },
+          {
+            "id": 22,
+            "question": " Observational learning is also known as vicarious learning.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 23,
+            "question": " ______ is a defense mechanism where unwanted impulses are pushed into the unconscious mind.",
+            "options": ["Repression", "Projection", "Sublimation", "Regression"],
+            "answer": "Repression"
+          },
+          {
+            "id": 24,
+            "question": "Which psychological test is designed to measure intelligence?",
+            "options": ["Wechsler Adult Intelligence Scale", "Rorschach Inkblot Test", "Thematic Apperception Test", "MMPI"],
+            "answer": "Wechsler Adult Intelligence Scale"
+          },
+          {
+            "id": 25,
+            "question": " The placebo effect demonstrates the power of expectation in influencing outcomes.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 26,
+            "question": "What is the term for the ability to identify and manage one's emotions and the emotions of others?",
+            "options": ["Emotional intelligence", "Social intelligence", "Empathy", "Self-awareness"],
+            "answer": "Emotional intelligence"
+          },
+          {
+            "id": 27,
+            "question": " ______ memory refers to memory for specific events or experiences.",
+            "options": ["Episodic", "Semantic", "Procedural", "Implicit"],
+            "answer": "Episodic"
+          },
+          {
+            "id": 28,
+            "question": "Which theory of motivation is based on the principle of homeostasis?",
+            "options": ["Drive-reduction theory", "Incentive theory", "Expectancy theory", "Self-determination theory"],
+            "answer": "Drive-reduction theory"
+          },
+          {
+            "id": 29,
+            "question": " Introverts gain energy from social interactions.",
+            "options": ["True", "False"],
+            "answer": "False"
+          },
+          {
+            "id": 30,
+            "question": "What term refers to the process by which children learn the values and norms of their culture?",
+            "options": ["Socialization", "Enculturation", "Acculturation", "Assimilation"],
+            "answer": "Socialization"
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "complexity": "Advanced",
+        "questions": [
+          {
+            "id": 31,
+            "question": "What term describes the phenomenon where group members strive for consensus at the cost of critical thinking?",
+            "options": ["Groupthink", "Conformity", "Social facilitation", "Deindividuation"],
+            "answer": "Groupthink"
+          },
+          {
+            "id": 32,
+            "question": " The Schachter-Singer theory suggests that emotions are determined by physiological arousal and cognitive interpretation.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 33,
+            "question": " ______ is a defense mechanism in which an individual attributes their own unacceptable thoughts or feelings to someone else.",
+            "options": ["Projection", "Repression", "Displacement", "Rationalization"],
+            "answer": "Projection"
+          },
+          {
+            "id": 34,
+            "question": "Which area of psychology focuses on workplace productivity and employee behavior?",
+            "options": ["Industrial-organizational psychology", "Clinical psychology", "Cognitive psychology", "Developmental psychology"],
+            "answer": "Industrial-organizational psychology"
+          },
+          {
+            "id": 35,
+            "question": "Which term refers to a mental shortcut that allows people to make decisions quickly?",
+            "options": ["Heuristic", "Algorithm", "Schema", "Bias"],
+            "answer": "Heuristic"
+          },
+          {
+            "id": 36,
+            "question": " Operant conditioning relies on associations between stimuli and automatic responses.",
+            "options": ["True", "False"],
+            "answer": "False"
+          },
+          {
+            "id": 37,
+            "question": " ______ is a state of awareness where a person focuses attention on an idea or activity to the exclusion of everything else.",
+            "options": ["Flow", "Mindfulness", "Meditation", "Attention"],
+            "answer": "Flow"
+          },
+          {
+            "id": 38,
+            "question": "Which type of memory is involved in temporarily holding information for processing?",
+            "options": ["Working memory", "Long-term memory", "Episodic memory", "Semantic memory"],
+            "answer": "Working memory"
+          },
+          {
+            "id": 39,
+            "question": " The hippocampus is critical for forming new memories.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 40,
+            "question": "What term describes the intentional effort to encode information for storage in long-term memory?",
+            "options": ["Elaborative rehearsal", "Maintenance rehearsal", "Chunking", "Encoding specificity"],
+            "answer": "Elaborative rehearsal"
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "complexity": "Expert",
+        "questions": [
+          {
+            "id": 41,
+            "question": "Which psychological principle explains why people feel more positive about familiar stimuli?",
+            "options": ["Mere exposure effect", "Priming", "Confirmation bias", "Recency effect"],
+            "answer": "Mere exposure effect"
+          },
+          {
+            "id": 42,
+            "question": " Erik Erikson proposed stages of psychosocial development throughout the lifespan.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 43,
+            "question": " ______ therapy focuses on changing negative patterns of thinking.",
+            "options": ["Cognitive-behavioral", "Psychoanalytic", "Humanistic", "Gestalt"],
+            "answer": "Cognitive-behavioral"
+          },
+          {
+            "id": 44,
+            "question": "Which researcher is known for the Bobo doll experiment on observational learning?",
+            "options": ["Albert Bandura", "Jean Piaget", "Sigmund Freud", "John Watson"],
+            "answer": "Albert Bandura"
+          },
+          {
+            "id": 45,
+            "question": "What is the term for the gradual reduction in response to a stimulus after repeated exposure?",
+            "options": ["Habituation", "Desensitization", "Adaptation", "Saturation"],
+            "answer": "Habituation"
+          },
+          {
+            "id": 46,
+            "question": " In Maslow's hierarchy of needs, esteem needs come after safety needs.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 47,
+            "question": " ______ psychology focuses on human strengths and factors that contribute to well-being.",
+            "options": ["Positive", "Clinical", "Behavioral", "Developmental"],
+            "answer": "Positive"
+          },
+          {
+            "id": 48,
+            "question": "Which term refers to the extent to which a test measures what it claims to measure?",
+            "options": ["Validity", "Reliability", "Consistency", "Precision"],
+            "answer": "Validity"
+          },
+          {
+            "id": 49,
+            "question": " Anxiety disorders are the most common type of mental health disorder.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 50,
+            "question": "Which psychologist is associated with the concept of self-efficacy?",
+            "options": ["Albert Bandura", "Carl Rogers", "B.F. Skinner", "Jean Piaget"],
+            "answer": "Albert Bandura"
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "complexity": "Mastery",
+        "questions": [
+          {
+            "id": 51,
+            "question": "In Jungian psychology, what term refers to the unconscious aspect of personality that is repressed and unacknowledged?",
+            "options": ["Shadow", "Persona", "Self", "Ego"],
+            "answer": "Shadow"
+          },
+          {
+            "id": 52,
+            "question": " Classical conditioning is a type of associative learning first demonstrated by Ivan Pavlov.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 53,
+            "question": " The ______ approach in psychology focuses on how unconscious drives and conflicts shape behavior.",
+            "options": ["Psychodynamic", "Behavioral", "Humanistic", "Cognitive"],
+            "answer": "Psychodynamic"
+          },
+          {
+            "id": 54,
+            "question": "Which psychological disorder is characterized by alternating periods of extreme euphoria and depression?",
+            "options": ["Bipolar disorder", "Major depressive disorder", "Schizophrenia", "Obsessive-compulsive disorder"],
+            "answer": "Bipolar disorder"
+          },
+          {
+            "id": 55,
+            "question": "Which term describes the extent to which genetic factors influence a trait or behavior?",
+            "options": ["Heritability", "Plasticity", "Adaptability", "Epigenetics"],
+            "answer": "Heritability"
+          },
+          {
+            "id": 56,
+            "question": " Mirror neurons are believed to play a role in empathy and understanding others' actions.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 57,
+            "question": " The process of interpreting sensory information is known as ______.",
+            "options": ["Perception", "Sensation", "Cognition", "Assimilation"],
+            "answer": "Perception"
+          },
+          {
+            "id": 58,
+            "question": "Which type of validity examines whether a test appears to measure what it is supposed to at face value?",
+            "options": ["Face validity", "Construct validity", "Content validity", "Criterion validity"],
+            "answer": "Face validity"
+          },
+          {
+            "id": 59,
+            "question": " Freud's psychosexual stages of development include a latency stage where sexual impulses are dormant.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 60,
+            "question": "Which psychologist is known for his theory of multiple intelligences?",
+            "options": ["Howard Gardner", "Alfred Binet", "Jean Piaget", "Lev Vygotsky"],
+            "answer": "Howard Gardner"
+          }
+        ]
+      },
+      {
+        "level": 7,
+        "complexity": "Mastery",
+        "questions": [
+          {
+            "id": 61,
+            "question": "What term describes the learned helplessness observed when an individual believes they cannot control their environment?",
+            "options": ["Learned helplessness", "Operant extinction", "Classical despair", "Cognitive bias"],
+            "answer": "Learned helplessness"
+          },
+          {
+            "id": 62,
+            "question": " Cognitive dissonance refers to the discomfort experienced when holding conflicting beliefs.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 63,
+            "question": " The ______ perspective in psychology focuses on observable behaviors and the processes of learning.",
+            "options": ["Behavioral", "Cognitive", "Humanistic", "Psychodynamic"],
+            "answer": "Behavioral"
+          },
+          {
+            "id": 64,
+            "question": "Which term describes the phenomenon where people overestimate the degree to which others share their beliefs and behaviors?",
+            "options": ["False consensus effect", "Self-serving bias", "Halo effect", "Fundamental attribution error"],
+            "answer": "False consensus effect"
+          },
+          {
+            "id": 65,
+            "question": "What is the process called where children learn the norms and values of their culture?",
+            "options": ["Socialization", "Enculturation", "Assimilation", "Acculturation"],
+            "answer": "Socialization"
+          },
+          {
+            "id": 66,
+            "question": " Attachment theory was developed by John Bowlby and later expanded by Mary Ainsworth.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 67,
+            "question": " In Pavlov's experiment, the bell was originally a ______ stimulus that became conditioned.",
+            "options": ["Neutral", "Unconditioned", "Conditioned", "Generalized"],
+            "answer": "Neutral"
+          },
+          {
+            "id": 68,
+            "question": "Which psychological principle suggests people are motivated by the desire to achieve congruence between self-image and experiences?",
+            "options": ["Self-actualization", "Cognitive dissonance", "Homeostasis", "Self-concept"],
+            "answer": "Self-concept"
+          },
+          {
+            "id": 69,
+            "question": " Schema refers to a mental framework used to organize and interpret information.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 70,
+            "question": "What is the term for the ability to think abstractly and solve problems without relying on acquired knowledge?",
+            "options": ["Fluid intelligence", "Crystallized intelligence", "Emotional intelligence", "Practical intelligence"],
+            "answer": "Fluid intelligence"
+          }
+        ]
+      },
+      {
+        "level": 8,
+        "complexity": "Expert",
+        "questions": [
+          {
+            "id": 71,
+            "question": "Which bias involves attributing others' behavior to internal factors while overlooking external factors?",
+            "options": ["Fundamental attribution error", "Self-serving bias", "Actor-observer bias", "Confirmation bias"],
+            "answer": "Fundamental attribution error"
+          },
+          {
+            "id": 72,
+            "question": " Emotions are universally experienced and expressed in the same way across all cultures.",
+            "options": ["True", "False"],
+            "answer": "False"
+          },
+          {
+            "id": 73,
+            "question": " The ______ theory of emotion suggests that physiological arousal comes before the emotional experience.",
+            "options": ["James-Lange", "Cannon-Bard", "Schachter-Singer", "Two-Factor"],
+            "answer": "James-Lange"
+          },
+          {
+            "id": 74,
+            "question": "Which psychological disorder involves persistent, intrusive thoughts and repetitive behaviors?",
+            "options": ["Obsessive-compulsive disorder", "Schizophrenia", "Bipolar disorder", "Major depressive disorder"],
+            "answer": "Obsessive-compulsive disorder"
+          },
+          {
+            "id": 75,
+            "question": " In psychology, the term 'stereotype threat' refers to the fear of confirming negative stereotypes about one's group.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 76,
+            "question": "Which cognitive bias involves the tendency to overestimate our ability to predict future events after they have already happened?",
+            "options": ["Hindsight bias", "Anchoring bias", "Overconfidence bias", "Framing effect"],
+            "answer": "Hindsight bias"
+          },
+          {
+            "id": 77,
+            "question": " In cognitive development, Jean Piaget emphasized the concept of ______, where individuals actively construct their own knowledge through interactions with their environment.",
+            "options": ["Schemas", "Equilibration", "Accommodation", "Assimilation"],
+            "answer": "Schemas"
+          },
+          {
+            "id": 78,
+            "question": "Which type of intelligence is characterized by the ability to recognize and manage emotions in oneself and others?",
+            "options": ["Emotional intelligence", "Crystallized intelligence", "Fluid intelligence", "Social intelligence"],
+            "answer": "Emotional intelligence"
+          },
+          {
+            "id": 79,
+            "question": " According to the theory of cognitive dissonance, people are motivated to maintain consistency between their beliefs and behaviors.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 80,
+            "question": "Which approach in psychology emphasizes the role of unconscious thoughts and early childhood experiences in shaping behavior?",
+            "options": ["Psychodynamic", "Cognitive", "Behavioral", "Humanistic"],
+            "answer": "Psychodynamic"
+          }
+        ]
+      },
+      {
+        "level": 9,
+        "complexity": "Advanced Expert",
+        "questions": [
+          {
+            "id": 81,
+            "question": "What psychological theory proposes that behavior is influenced by both individual traits and environmental factors?",
+            "options": ["Social cognitive theory", "Humanistic theory", "Cognitive-behavioral theory", "Behaviorism"],
+            "answer": "Social cognitive theory"
+          },
+          {
+            "id": 82,
+            "question": " According to Freud's stages of psychosexual development, the latency stage occurs from ages 6 to puberty.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 83,
+            "question": " The ______ effect occurs when individuals perform better on simple tasks when in the presence of others.",
+            "options": ["Social facilitation", "Social inhibition", "Groupthink", "Deindividuation"],
+            "answer": "Social facilitation"
+          },
+          {
+            "id": 84,
+            "question": "Which phenomenon refers to the tendency for people to exert less effort when working in a group compared to when working alone?",
+            "options": ["Social loafing", "Social facilitation", "Groupthink", "Deindividuation"],
+            "answer": "Social loafing"
+          },
+          {
+            "id": 85,
+            "question": " The placebo effect refers to the phenomenon where individuals experience real changes in their health after receiving a treatment that has no therapeutic effect.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 86,
+            "question": "Which cognitive bias occurs when people believe they understand an event after it has occurred, even if they didn't predict it?",
+            "options": ["Hindsight bias", "Confirmation bias", "Availability heuristic", "Representativeness heuristic"],
+            "answer": "Hindsight bias"
+          },
+          {
+            "id": 87,
+            "question": " The ______ theory of intelligence posits that intelligence is a set of abilities that can be measured by standardized tests.",
+            "options": ["Spearman's theory", "Gardner's theory", "Sternberg's theory", "Goleman's theory"],
+            "answer": "Spearman's theory"
+          },
+          {
+            "id": 88,
+            "question": "Which psychologist is known for his work on operant conditioning and reinforcement?",
+            "options": ["B.F. Skinner", "John Watson", "Albert Bandura", "Ivan Pavlov"],
+            "answer": "B.F. Skinner"
+          },
+          {
+            "id": 89,
+            "question": " Cognitive behavioral therapy (CBT) focuses on changing negative thought patterns to improve emotional regulation and behavior.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 90,
+            "question": "Which term refers to the ability to adapt to and deal with stress or difficult situations?",
+            "options": ["Resilience", "Self-esteem", "Self-actualization", "Coping"],
+            "answer": "Resilience"
+          }
+        ]
+      },
+      {
+        "level": 10,
+        "complexity": "Mastery",
+        "questions": [
+          {
+            "id": 91,
+            "question": "What term refers to the process by which individuals attribute their own actions to external causes but others' actions to internal causes?",
+            "options": ["Actor-observer bias", "Fundamental attribution error", "Self-serving bias", "Cognitive bias"],
+            "answer": "Actor-observer bias"
+          },
+          {
+            "id": 92,
+            "question": " The Big Five personality traits include Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 93,
+            "question": " According to Maslow's hierarchy of needs, the highest level of needs is ______.",
+            "options": ["Self-actualization", "Esteem", "Belongingness", "Safety"],
+            "answer": "Self-actualization"
+          },
+          {
+            "id": 94,
+            "question": "Which psychological disorder involves persistent feelings of sadness, hopelessness, and a loss of interest in daily activities?",
+            "options": ["Major depressive disorder", "Generalized anxiety disorder", "Panic disorder", "Schizophrenia"],
+            "answer": "Major depressive disorder"
+          },
+          {
+            "id": 95,
+            "question": " The 'foot-in-the-door' phenomenon refers to the tendency for people to comply with a large request after first agreeing to a smaller request.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 96,
+            "question": "Which concept refers to the mental shortcuts or rules of thumb that simplify decision-making processes?",
+            "options": ["Heuristics", "Cognitive distortions", "Schemas", "Biases"],
+            "answer": "Heuristics"
+          },
+          {
+            "id": 97,
+            "question": " The process of forming a new memory by associating it with an existing cognitive structure is known as ______.",
+            "options": ["Encoding", "Consolidation", "Retrieval", "Storage"],
+            "answer": "Encoding"
+          },
+          {
+            "id": 98,
+            "question": "Which model of memory suggests that information is processed through sensory memory, short-term memory, and long-term memory?",
+            "options": ["Atkinson-Shiffrin model", "Baddeley model", "Levels of processing model", "Working memory model"],
+            "answer": "Atkinson-Shiffrin model"
+          },
+          {
+            "id": 99,
+            "question": " The 'bystander effect' refers to the phenomenon where individuals are less likely to help someone in need when there are other people around.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 100,
+            "question": "Which term refers to a tendency for people to seek out information that supports their pre-existing beliefs?",
+            "options": ["Confirmation bias", "Availability heuristic", "Anchoring effect", "Framing effect"],
+            "answer": "Confirmation bias"
+          }
+        ]
+      }
+    ]
+}

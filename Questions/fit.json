@@ -1,0 +1,687 @@
+{
+    "category": "Health and Fitness",
+    "levels": [
+      {
+        "level": 1,
+        "complexity": "Beginner",
+        "questions": [
+          {
+            "id": 1,
+            "question": "What is the recommended daily intake of water for an average adult?",
+            "options": ["2-3 liters", "4-5 liters", "1 liter", "3-4 liters"],
+            "answer": "2-3 liters"
+          },
+          {
+            "id": 2,
+            "question": "True or False: A sedentary lifestyle can increase the risk of heart disease.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 3,
+            "question": "Which of the following is considered a cardio exercise?",
+            "options": ["Jogging", "Weightlifting", "Yoga", "Pilates"],
+            "answer": "Jogging"
+          },
+          {
+            "id": 4,
+            "question": "Where is the largest muscle group located in the human body?",
+            "options": ["Legs", "Arms", "Back", "Abdomen"],
+            "answer": "Legs"
+          },
+          {
+            "id": 5,
+            "question": "What does BMI stand for?",
+            "options": ["Body Mass Index", "Body Muscle Indicator", "Basic Metabolic Intake", "Bone Mass Indicator"],
+            "answer": "Body Mass Index"
+          },
+          {
+            "id": 6,
+            "question": "Which vitamin is primarily gained through sunlight exposure?",
+            "options": ["Vitamin D", "Vitamin A", "Vitamin C", "Vitamin B12"],
+            "answer": "Vitamin D"
+          },
+          {
+            "id": 7,
+            "question": "True or False: Drinking sugary drinks can lead to weight gain.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 8,
+            "question": "What is the main function of protein in the body?",
+            "options": ["Build and repair tissues", "Store energy", "Regulate body temperature", "Transport oxygen"],
+            "answer": "Build and repair tissues"
+          },
+          {
+            "id": 9,
+            "question": "Which of the following is a benefit of regular exercise?",
+            "options": ["Improved sleep quality", "Increased stress", "Increased risk of disease", "Fatigue"],
+            "answer": "Improved sleep quality"
+          },
+          {
+            "id": 10,
+            "question": "Which food is high in healthy fats?",
+            "options": ["Avocados", "Bread", "Chicken breast", "Rice"],
+            "answer": "Avocados"
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "complexity": "Intermediate",
+        "questions": [
+          {
+            "id": 11,
+            "question": "True or False: Stretching before a workout can help prevent injury.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 12,
+            "question": "Which of the following exercises primarily targets the core muscles?",
+            "options": ["Crunches", "Squats", "Push-ups", "Lunges"],
+            "answer": "Crunches"
+          },
+          {
+            "id": 13,
+            "question": "What is the recommended duration for moderate-intensity exercise each week?",
+            "options": ["150 minutes", "200 minutes", "60 minutes", "100 minutes"],
+            "answer": "150 minutes"
+          },
+          {
+            "id": 14,
+            "question": "Where is the bicep muscle located?",
+            "options": ["Upper arm", "Upper leg", "Chest", "Back"],
+            "answer": "Upper arm"
+          },
+          {
+            "id": 15,
+            "question": "What type of exercise is best for improving flexibility?",
+            "options": ["Yoga", "Running", "Cycling", "Weightlifting"],
+            "answer": "Yoga"
+          },
+          {
+            "id": 16,
+            "question": "Which nutrient is important for bone health?",
+            "options": ["Calcium", "Iron", "Vitamin C", "Magnesium"],
+            "answer": "Calcium"
+          },
+          {
+            "id": 17,
+            "question": "What does HIIT stand for in fitness?",
+            "options": ["High Intensity Interval Training", "Heavy Intensity Indoor Training", "High Impact Intense Training", "Healthy Interval Integrated Training"],
+            "answer": "High Intensity Interval Training"
+          },
+          {
+            "id": 18,
+            "question": "True or False: Running can help increase cardiovascular endurance.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 19,
+            "question": "Which of the following is a source of protein?",
+            "options": ["Eggs", "Apples", "Rice", "Cucumber"],
+            "answer": "Eggs"
+          },
+          {
+            "id": 20,
+            "question": "What is the primary function of carbohydrates in the body?",
+            "options": ["Provide energy", "Build muscle", "Regulate metabolism", "Support immune function"],
+            "answer": "Provide energy"
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "complexity": "Advanced",
+        "questions": [
+          {
+            "id": 21,
+            "question": "Which of the following is a benefit of strength training?",
+            "options": ["Increased muscle mass", "Reduced metabolism", "Increased body fat", "Decreased endurance"],
+            "answer": "Increased muscle mass"
+          },
+          {
+            "id": 22,
+            "question": "What is the primary function of the cardiovascular system?",
+            "options": ["Transport oxygen and nutrients", "Control metabolism", "Build muscle", "Regulate body temperature"],
+            "answer": "Transport oxygen and nutrients"
+          },
+          {
+            "id": 23,
+            "question": "True or False: Carbohydrates are essential for athletes to maintain energy levels during exercise.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 24,
+            "question": "Where are the quadriceps muscles located?",
+            "options": ["Front of the thigh", "Back of the thigh", "Chest", "Back"],
+            "answer": "Front of the thigh"
+          },
+          {
+            "id": 25,
+            "question": "Which of these is an example of an anaerobic exercise?",
+            "options": ["Weightlifting", "Jogging", "Cycling", "Swimming"],
+            "answer": "Weightlifting"
+          },
+          {
+            "id": 26,
+            "question": "What is a common cause of muscle soreness after a workout?",
+            "options": ["Microtears in muscle fibers", "Dehydration", "Excessive carbohydrates", "Lack of sleep"],
+            "answer": "Microtears in muscle fibers"
+          },
+          {
+            "id": 27,
+            "question": "True or False: Adequate sleep is essential for muscle recovery and performance.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 28,
+            "question": "Which of the following is a common symptom of dehydration?",
+            "options": ["Dry mouth", "Increased muscle mass", "Faster heart rate", "Low blood pressure"],
+            "answer": "Dry mouth"
+          },
+          {
+            "id": 29,
+            "question": "What is the optimal rest time between strength training sets for muscle growth?",
+            "options": ["1-2 minutes", "3-5 minutes", "30 seconds", "10 minutes"],
+            "answer": "1-2 minutes"
+          },
+          {
+            "id": 30,
+            "question": "Which type of fat is considered healthy?",
+            "options": ["Unsaturated fats", "Saturated fats", "Trans fats", "None of the above"],
+            "answer": "Unsaturated fats"
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "complexity": "Expert",
+        "questions": [
+          {
+            "id": 31,
+            "question": "What is the primary function of the immune system?",
+            "options": ["Protect the body from infections", "Regulate metabolism", "Support digestion", "Control heart rate"],
+            "answer": "Protect the body from infections"
+          },
+          {
+            "id": 32,
+            "question": "True or False: Consuming protein immediately after a workout is beneficial for muscle repair.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 33,
+            "question": "Which of the following exercises primarily targets the gluteal muscles?",
+            "options": ["Squats", "Push-ups", "Crunches", "Bicep curls"],
+            "answer": "Squats"
+          },
+          {
+            "id": 34,
+            "question": "What is the best way to avoid injuries during exercise?",
+            "options": ["Warm-up properly", "Lift as heavy as possible", "Work out daily", "Ignore pain"],
+            "answer": "Warm-up properly"
+          },
+          {
+            "id": 35,
+            "question": "What is the main benefit of interval training?",
+            "options": ["Improved cardiovascular fitness", "Increased body fat", "Decreased energy levels", "Reduced muscle mass"],
+            "answer": "Improved cardiovascular fitness"
+          },
+          {
+            "id": 36,
+            "question": "What is 'muscle hypertrophy'?",
+            "options": ["Increase in muscle size", "Increase in bone density", "Decrease in fat storage", "Increase in blood pressure"],
+            "answer": "Increase in muscle size"
+          },
+          {
+            "id": 37,
+            "question": "Where do most of the body's metabolic processes occur?",
+            "options": ["In the liver", "In the heart", "In the lungs", "In the stomach"],
+            "answer": "In the liver"
+          },
+          {
+            "id": 38,
+            "question": "True or False: Rest days are important for muscle recovery and growth.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 39,
+            "question": "Which of the following is an example of an aerobic exercise?",
+            "options": ["Running", "Deadlifting", "Push-ups", "Jumping jacks"],
+            "answer": "Running"
+          },
+          {
+            "id": 40,
+            "question": "Which macronutrient is essential for building muscle mass?",
+            "options": ["Protein", "Carbohydrates", "Fat", "Fiber"],
+            "answer": "Protein"
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "complexity": "Advanced Expert",
+        "questions": [
+          {
+            "id": 41,
+            "question": "What is the function of cortisol in the body?",
+            "options": ["Stress hormone that helps regulate metabolism", "Growth hormone for muscle development", "A neurotransmitter for brain function", "Fat storage regulator"],
+            "answer": "Stress hormone that helps regulate metabolism"
+          },
+          {
+            "id": 42,
+            "question": "True or False: Resistance training can improve bone density.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 43,
+            "question": "What is the most effective way to improve flexibility?",
+            "options": ["Static stretching", "Cardio workouts", "High-intensity interval training", "Strength training"],
+            "answer": "Static stretching"
+          },
+          {
+            "id": 44,
+            "question": "Which of the following hormones is released during exercise and helps with muscle growth?",
+            "options": ["Testosterone", "Insulin", "Estrogen", "Cortisol"],
+            "answer": "Testosterone"
+          },
+          {
+            "id": 45,
+            "question": "What is the optimal time to consume carbohydrates after exercise?",
+            "options": ["Within 30 minutes", "After 3 hours", "Before exercise", "During exercise"],
+            "answer": "Within 30 minutes"
+          },
+          {
+            "id": 46,
+            "question": "What is the term for the body's ability to efficiently deliver oxygen to muscles during physical activity?",
+            "options": ["Cardiovascular endurance", "Muscle hypertrophy", "Metabolic flexibility", "Joint mobility"],
+            "answer": "Cardiovascular endurance"
+          },
+          {
+            "id": 47,
+            "question": "Which of the following is the best form of cardiovascular exercise for burning fat?",
+            "options": ["Running", "Walking", "Cycling", "Swimming"],
+            "answer": "Running"
+          },
+          {
+            "id": 48,
+            "question": "True or False: Adequate protein intake is crucial for muscle repair and recovery after intense exercise.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 49,
+            "question": "What is the role of antioxidants in exercise?",
+            "options": ["Protect cells from oxidative stress", "Increase muscle strength", "Boost energy", "Regulate body temperature"],
+            "answer": "Protect cells from oxidative stress"
+          },
+          {
+            "id": 50,
+            "question": "Which exercise is considered the best for improving lower body strength?",
+            "options": ["Squats", "Bench press", "Deadlift", "Pull-ups"],
+            "answer": "Squats"
+          }
+        ]
+      },
+          {
+            "level": 6,
+            "complexity": "Advanced",
+            "questions": [
+              {
+                "id": 51,
+                "question": "Which of the following is a macronutrient?",
+                "options": ["Vitamins", "Minerals", "Carbohydrates", "Fiber"],
+                "answer": "Carbohydrates"
+              },
+              {
+                "id": 52,
+                "question": "True or False: Aerobic exercise improves cardiovascular health.",
+                "options": ["True", "False"],
+                "answer": "True"
+              },
+              {
+                "id": 53,
+                "question": " The recommended daily water intake for an average adult is about ____ liters.",
+                "answer": "2"
+              },
+              {
+                "id": 54,
+                "question": " You feel dizzy after running for 30 minutes. What should you do first?",
+                "options": [
+                  "Take a nap",
+                  "Drink water",
+                  "Eat a snack",
+                  "Sit down and rest"
+                ],
+                "answer": "Drink water"
+              },
+              {
+                "id": 55,
+                "question": "What is the primary function of the protein in the human body?",
+                "options": ["Provide energy", "Build and repair tissues", "Support immune function", "Store energy"],
+                "answer": "Build and repair tissues"
+              },
+              {
+                "id": 56,
+                "question": "Which vitamin is most commonly associated with boosting immunity?",
+                "options": ["Vitamin C", "Vitamin D", "Vitamin A", "Vitamin E"],
+                "answer": "Vitamin C"
+              },
+              {
+                "id": 57,
+                "question": "Where is the muscle group 'quadriceps' located?",
+                "options": ["Back", "Legs", "Arms", "Abdomen"],
+                "answer": "Legs"
+              },
+              {
+                "id": 58,
+                "question": "Which of the following exercises targets the core muscles?",
+                "options": ["Push-up", "Plank", "Squat", "Leg press"],
+                "answer": "Plank"
+              },
+              {
+                "id": 59,
+                "question": "True or False: A higher intake of fiber can help in digestion and prevent constipation.",
+                "options": ["True", "False"],
+                "answer": "True"
+              },
+              {
+                "id": 60,
+                "question": "What is the term for the body's ability to maintain a stable internal environment?",
+                "options": ["Homeostasis", "Metabolism", "Circulation", "Respiration"],
+                "answer": "Homeostasis"
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "complexity": "Expert",
+            "questions": [
+              {
+                "id": 61,
+                "question": "Which type of fat is considered healthy for the body?",
+                "options": ["Trans fats", "Saturated fats", "Monounsaturated fats", "Cholesterol"],
+                "answer": "Monounsaturated fats"
+              },
+              {
+                "id": 62,
+                "question": "True or False: Strength training helps increase bone density and reduce the risk of osteoporosis.",
+                "options": ["True", "False"],
+                "answer": "True"
+              },
+              {
+                "id": 63,
+                "question": " To maintain muscle mass, it is essential to consume adequate amounts of ____.",
+                "answer": "protein"
+              },
+              {
+                "id": 64,
+                "question": " After an intense workout, you feel sore the next day. What is the best method to reduce muscle soreness?",
+                "options": [
+                  "Sleep more",
+                  "Use ice or cold compress",
+                  "Ignore the pain and continue exercising",
+                  "Eat a large meal"
+                ],
+                "answer": "Use ice or cold compress"
+              },
+              {
+                "id": 65,
+                "question": "Which macronutrient is the body’s primary source of energy during high-intensity exercise?",
+                "options": ["Carbohydrates", "Proteins", "Fats", "Vitamins"],
+                "answer": "Carbohydrates"
+              },
+              {
+                "id": 66,
+                "question": "Which mineral is essential for muscle function and preventing cramps?",
+                "options": ["Calcium", "Iron", "Magnesium", "Potassium"],
+                "answer": "Magnesium"
+              },
+              {
+                "id": 67,
+                "question": "Where is the 'deltoid' muscle located?",
+                "options": ["Shoulders", "Thighs", "Chest", "Back"],
+                "answer": "Shoulders"
+              },
+              {
+                "id": 68,
+                "question": "What is the recommended amount of physical activity for adults per week?",
+                "options": ["60 minutes", "150 minutes", "200 minutes", "90 minutes"],
+                "answer": "150 minutes"
+              },
+              {
+                "id": 69,
+                "question": "True or False: Drinking water during exercise can help maintain performance and prevent dehydration.",
+                "options": ["True", "False"],
+                "answer": "True"
+              },
+              {
+                "id": 70,
+                "question": "Which type of workout is most effective for improving cardiovascular endurance?",
+                "options": ["Weightlifting", "Running", "Yoga", "Pilates"],
+                "answer": "Running"
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "complexity": "Advanced Expert",
+            "questions": [
+              {
+                "id": 71,
+                "question": "Which nutrient helps in the absorption of fat-soluble vitamins?",
+                "options": ["Water", "Carbohydrates", "Fats", "Proteins"],
+                "answer": "Fats"
+              },
+              {
+                "id": 72,
+                "question": "True or False: Stretching before exercise helps prevent injuries and improves flexibility.",
+                "options": ["True", "False"],
+                "answer": "True"
+              },
+              {
+                "id": 73,
+                "question": " During exercise, the body uses oxygen to convert food into ____.",
+                "answer": "energy"
+              },
+              {
+                "id": 74,
+                "question": " You are training for a marathon and feeling fatigued. What would be the most effective strategy to overcome fatigue?",
+                "options": [
+                  "Stop training and rest completely",
+                  "Reduce your training intensity and increase rest",
+                  "Continue running at the same pace",
+                  "Increase your calorie intake while running"
+                ],
+                "answer": "Reduce your training intensity and increase rest"
+              },
+              {
+                "id": 75,
+                "question": "Which of the following exercises helps increase flexibility?",
+                "options": ["Running", "Weightlifting", "Yoga", "Swimming"],
+                "answer": "Yoga"
+              },
+              {
+                "id": 76,
+                "question": "What is the term for the total energy expenditure of an individual at rest?",
+                "options": ["Basal metabolic rate (BMR)", "Active metabolic rate", "Exercise-induced thermogenesis", "Thermic effect of food"],
+                "answer": "Basal metabolic rate (BMR)"
+              },
+              {
+                "id": 77,
+                "question": "Which of the following foods is a source of Omega-3 fatty acids?",
+                "options": ["Salmon", "Beef", "Chicken", "Rice"],
+                "answer": "Salmon"
+              },
+              {
+                "id": 78,
+                "question": "Where in the body is glucose stored?",
+                "options": ["Liver", "Muscles", "Kidneys", "Heart"],
+                "answer": "Liver"
+              },
+              {
+                "id": 79,
+                "question": "True or False: Dehydration can impair physical performance and cognitive function.",
+                "options": ["True", "False"],
+                "answer": "True"
+              },
+              {
+                "id": 80,
+                "question": "Which of the following is a key benefit of regular aerobic exercise?",
+                "options": ["Increased muscle mass", "Improved heart health", "Increased bone density", "Improved posture"],
+                "answer": "Improved heart health"
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "complexity": "Challenger",
+            "questions": [
+              {
+                "id": 81,
+                "question": "Which of the following foods is rich in antioxidants?",
+                "options": ["Blueberries", "Bananas", "Potatoes", "Bread"],
+                "answer": "Blueberries"
+              },
+              {
+                "id": 82,
+                "question": "True or False: A balanced diet should consist of 50% carbohydrates, 30% fats, and 20% proteins.",
+                "options": ["True", "False"],
+                "answer": "True"
+              },
+              {
+                "id": 83,
+                "question": " High-intensity interval training (HIIT) involves alternating between short bursts of ____ and low-intensity recovery periods.",
+                "answer": "activity"
+              },
+              {
+                "id": 84,
+                "question": " After completing a heavy workout session, you start to feel lightheaded. What is the first step you should take?",
+                "options": [
+                  "Eat a large meal",
+                  "Drink water and rest",
+                  "Lie down immediately",
+                  "Take a cold shower"
+                ],
+                "answer": "Drink water and rest"
+              },
+              {
+                "id": 85,
+                "question": "Which type of exercise is most beneficial for bone health?",
+                "options": ["Resistance training", "Cycling", "Swimming", "Running"],
+                "answer": "Resistance training"
+              },
+              {
+                "id": 86,
+                "question": "True or False: Carbohydrates are the body's main source of energy, especially during exercise.",
+                "options": ["True", "False"],
+                "answer": "True"
+              },
+              {
+                "id": 87,
+                "question": "Where is the 'gastrocnemius' muscle located?",
+                "options": ["Calf", "Shoulder", "Thigh", "Back"],
+                "answer": "Calf"
+              },
+              {
+                "id": 88,
+                "question": "What type of exercise helps improve cardiovascular health and endurance?",
+                "options": ["Strength training", "Cardio exercise", "Stretching", "Isometric exercises"],
+                "answer": "Cardio exercise"
+              },
+              {
+                "id": 89,
+                "question": " Consuming protein after a workout helps in ____ muscle recovery.",
+                "answer": "accelerating"
+              },
+              {
+                "id": 90,
+                "question": "Which of the following is a benefit of strength training?",
+                "options": ["Improved flexibility", "Improved posture", "Improved balance", "All of the above"],
+                "answer": "All of the above"
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "complexity": "Master",
+            "questions": [
+              {
+                "id": 91,
+                "question": "What is the most energy-efficient exercise?",
+                "options": ["Running", "Cycling", "Swimming", "Walking"],
+                "answer": "Walking"
+              },
+              {
+                "id": 92,
+                "question": "True or False: Consuming protein before exercise can improve performance and support muscle growth.",
+                "options": ["True", "False"],
+                "answer": "True"
+              },
+              {
+                "id": 93,
+                "question": " You have completed a high-intensity workout. How much time should you allow for recovery before working the same muscle group again?",
+                "options": [
+                  "12-24 hours",
+                  "24-48 hours",
+                  "48-72 hours",
+                  "72-96 hours"
+                ],
+                "answer": "48-72 hours"
+              },
+              {
+                "id": 94,
+                "question": " ____ is essential for transporting oxygen throughout the body during exercise.",
+                "answer": "Hemoglobin"
+              },
+              {
+                "id": 95,
+                "question": "Which of the following is not a benefit of regular physical activity?",
+                "options": ["Improved lung capacity", "Better sleep", "Increased cholesterol levels", "Reduced stress"],
+                "answer": "Increased cholesterol levels"
+              },
+              {
+                "id": 96,
+                "question": "Where is the 'rectus abdominis' muscle located?",
+                "options": ["Chest", "Back", "Abdomen", "Legs"],
+                "answer": "Abdomen"
+              },
+              {
+                "id": 97,
+                "question": "Which of the following is a nutrient that helps prevent muscle cramps during exercise?",
+                "options": ["Calcium", "Iron", "Magnesium", "Vitamin D"],
+                "answer": "Magnesium"
+              },
+              {
+                "id": 98,
+                "question": "True or False: Proper warm-up before exercise can improve performance and reduce the risk of injury.",
+                "options": ["True", "False"],
+                "answer": "True"
+              },
+              {
+                "id": 99,
+                "question": "What type of exercise is most effective in burning calories and losing fat?",
+                "options": ["Aerobic exercise", "Resistance training", "Stretching", "Yoga"],
+                "answer": "Aerobic exercise"
+              },
+              {
+                "id": 100,
+                "question": "Which of the following is a major benefit of a balanced diet?",
+                "options": ["Boosts metabolism", "Supports immune function", "Enhances muscle growth", "All of the above"],
+                "answer": "All of the above"
+              }
+            ]
+          }
+       
+      
+    ]
+  }
+  

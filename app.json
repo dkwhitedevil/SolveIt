@@ -4,11 +4,10 @@
     "slug": "solveit",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/Iconic.png",
     "userInterfaceStyle": "light",
-    "newArchEnabled": true,
     "splash": {
-      "image": "./assets/splash-icon.png",
+      "image": "./assets/Iconic.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -17,12 +16,18 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/Iconic.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.whitedevil200.solveit"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/Iconic.jpg"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "00546077-a2c0-4e5d-9510-0a6e104d4308"
+      }
     }
   }
 }

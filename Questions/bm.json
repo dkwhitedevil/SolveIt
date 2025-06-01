@@ -1,0 +1,665 @@
+{
+    "category": "Business and Management",
+    "levels": [
+      {
+        "level": 1,
+        "complexity": "Easy",
+        "questions": [
+          {
+            "id": 1,
+            "question": "What does 'CEO' stand for?",
+            "options": ["Chief Executive Officer", "Chief Economic Officer", "Chief Entrepreneurial Officer", "Corporate Executive Officer"],
+            "answer": "Chief Executive Officer"
+          },
+          {
+            "id": 2,
+            "question": "What is the main goal of a business?",
+            "options": ["Profit maximization", "Customer satisfaction", "Employee welfare", "Product development"],
+            "answer": "Profit maximization"
+          },
+          {
+            "id": 3,
+            "question": "Which of the following is a financial statement?",
+            "options": ["Balance Sheet", "Market Share", "Product Inventory", "Customer Feedback"],
+            "answer": "Balance Sheet"
+          },
+          {
+            "id": 4,
+            "question": "What does the term 'ROI' stand for in business?",
+            "options": ["Return on Investment", "Return on Income", "Risk of Investment", "Revenue over Interest"],
+            "answer": "Return on Investment"
+          },
+          {
+            "id": 5,
+            "question": "Which of the following is a type of business ownership?",
+            "options": ["Sole Proprietorship", "Retail Business", "Marketing Department", "Employee Welfare"],
+            "answer": "Sole Proprietorship"
+          },
+          {
+            "id": 6,
+            "question": "Which of the following is an example of a fixed cost in a business?",
+            "options": ["Rent", "Raw materials", "Advertising", "Shipping fees"],
+            "answer": "Rent"
+          },
+          {
+            "id": 7,
+            "question": "Which of the following best defines a 'partnership'?",
+            "options": ["Two or more people sharing ownership", "A single owner", "A company with no profits", "A business that operates online"],
+            "answer": "Two or more people sharing ownership"
+          },
+          {
+            "id": 8,
+            "question": "Which of these is a common objective of a business?",
+            "options": ["Maximizing shareholder value", "Reducing product prices", "Increasing employee workload", "Avoiding customer feedback"],
+            "answer": "Maximizing shareholder value"
+          },
+          {
+            "id": 9,
+            "question": "What is the first step in creating a business plan?",
+            "options": ["Defining your business objectives", "Creating a financial projection", "Designing a logo", "Writing an employee handbook"],
+            "answer": "Defining your business objectives"
+          },
+          {
+            "id": 10,
+            "question": "What is the currency of the European Union?",
+            "options": ["Euro", "Pound", "Dollar", "Yen"],
+            "answer": "Euro"
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "complexity": "Moderate",
+        "questions": [
+          {
+            "id": 11,
+            "question": "Which management theory is associated with Frederick Taylor?",
+            "options": ["Scientific Management", "Theory X", "Theory Y", "Human Relations Theory"],
+            "answer": "Scientific Management"
+          },
+          {
+            "id": 12,
+            "question": "What is the main purpose of marketing in business?",
+            "options": ["To increase sales", "To improve product quality", "To manage finances", "To hire employees"],
+            "answer": "To increase sales"
+          },
+          {
+            "id": 13,
+            "question": "Which of the following is a part of the '4 Ps' of marketing?",
+            "options": ["Product", "Profit", "People", "Process"],
+            "answer": "Product"
+          },
+          {
+            "id": 14,
+            "question": "What is the role of a human resources department in a business?",
+            "options": ["Hiring and managing employees", "Designing products", "Managing marketing campaigns", "Handling customer complaints"],
+            "answer": "Hiring and managing employees"
+          },
+          {
+            "id": 15,
+            "question": "What does 'B2B' stand for in business?",
+            "options": ["Business to Business", "Business to Buyer", "Buyer to Business", "Brand to Business"],
+            "answer": "Business to Business"
+          },
+          {
+            "id": 16,
+            "question": "Which of these is a common method of market research?",
+            "options": ["Surveys", "Filing taxes", "Legal contracts", "Writing business plans"],
+            "answer": "Surveys"
+          },
+          {
+            "id": 17,
+            "question": "What is a common method of pricing a product?",
+            "options": ["Cost-plus pricing", "Subsidized pricing", "Free pricing", "Competitive pricing"],
+            "answer": "Cost-plus pricing"
+          },
+          {
+            "id": 18,
+            "question": "Which financial document shows a company’s revenue and expenses over a specific period?",
+            "options": ["Income Statement", "Balance Sheet", "Cash Flow Statement", "Statement of Shareholder Equity"],
+            "answer": "Income Statement"
+          },
+          {
+            "id": 19,
+            "question": "Which of these is a characteristic of a monopoly?",
+            "options": ["Single seller, no competition", "Multiple sellers with similar products", "Easy entry for new firms", "Perfect competition"],
+            "answer": "Single seller, no competition"
+          },
+          {
+            "id": 20,
+            "question": "What does 'CRM' stand for in business?",
+            "options": ["Customer Relationship Management", "Cost Reduction Method", "Corporate Risk Management", "Customer Return Management"],
+            "answer": "Customer Relationship Management"
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "complexity": "Challenging",
+        "questions": [
+          {
+            "id": 21,
+            "question": "Who is considered the father of modern management?",
+            "options": ["Peter Drucker", "Henry Ford", "Frederick Taylor", "Elton Mayo"],
+            "answer": "Peter Drucker"
+          },
+          {
+            "id": 22,
+            "question": "What is a SWOT analysis used for in business?",
+            "options": ["To evaluate strengths, weaknesses, opportunities, and threats", "To measure financial performance", "To assess customer satisfaction", "To determine employee benefits"],
+            "answer": "To evaluate strengths, weaknesses, opportunities, and threats"
+          },
+          {
+            "id": 23,
+            "question": "What is the primary goal of corporate social responsibility (CSR)?",
+            "options": ["To give back to society", "To increase profits", "To attract customers", "To reduce taxes"],
+            "answer": "To give back to society"
+          },
+          {
+            "id": 24,
+            "question": "Which of the following is a method of financial forecasting?",
+            "options": ["Budgeting", "Customer surveys", "Employee training", "Inventory management"],
+            "answer": "Budgeting"
+          },
+          {
+            "id": 25,
+            "question": "Which financial metric is used to measure a company’s profitability?",
+            "options": ["Net Profit Margin", "Revenue", "Gross Income", "Operating Expenses"],
+            "answer": "Net Profit Margin"
+          },
+          {
+            "id": 26,
+            "question": "Which term refers to the strategy of reducing costs to improve profitability?",
+            "options": ["Cost leadership", "Differentiation", "Focus strategy", "Diversification"],
+            "answer": "Cost leadership"
+          },
+          {
+            "id": 27,
+            "question": "Which of the following is a key principle of Agile project management?",
+            "options": ["Iterative development", "Strict hierarchical structure", "Fixed budgets", "Centralized decision making"],
+            "answer": "Iterative development"
+          },
+          {
+            "id": 28,
+            "question": "What is 'blue ocean strategy' in business?",
+            "options": ["Creating a new market space, making the competition irrelevant", "Competing in existing market spaces", "Expanding into international markets", "Creating low-cost products to compete with established brands"],
+            "answer": "Creating a new market space, making the competition irrelevant"
+          },
+          {
+            "id": 29,
+            "question": "What does the 'Critical Path' refer to in project management?",
+            "options": ["The sequence of tasks that determines the minimum project duration", "The most expensive tasks in a project", "The tasks with the highest risk", "The tasks that are completed first"],
+            "answer": "The sequence of tasks that determines the minimum project duration"
+          },
+          {
+            "id": 30,
+            "question": "What is a key function of a Chief Financial Officer (CFO)?",
+            "options": ["Managing the company’s financial actions", "Hiring new employees", "Designing marketing strategies", "Handling customer relationships"],
+            "answer": "Managing the company’s financial actions"
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "complexity": "Advanced",
+        "questions": [
+          {
+            "id": 31,
+            "question": "What does the term 'leverage' refer to in business finance?",
+            "options": ["Using borrowed capital to increase potential returns", "Managing inventory levels", "Hiring additional staff to expand operations", "Increasing marketing expenditure to boost sales"],
+            "answer": "Using borrowed capital to increase potential returns"
+          },
+          {
+            "id": 32,
+            "question": "Which of the following is a method used for business risk management?",
+            "options": ["Diversification", "Increasing debt", "Centralization", "Reducing market share"],
+            "answer": "Diversification"
+          },
+          {
+            "id": 33,
+            "question": "What is a competitive advantage in business?",
+            "options": ["A unique edge that allows a company to outperform its competitors", "The ability to reduce costs", "A government subsidy", "A well-known company logo"],
+            "answer": "A unique edge that allows a company to outperform its competitors"
+          },
+          {
+            "id": 34,
+            "question": "In business, what does the term 'capital structure' refer to?",
+            "options": ["The mix of debt and equity used by a company", "The process of managing human resources", "The design of a company’s logo", "The number of employees in a company"],
+            "answer": "The mix of debt and equity used by a company"
+          },
+          {
+            "id": 35,
+            "question": "What is 'supply chain management'?",
+            "options": ["The management of the flow of goods and services", "The management of customer relations", "The management of employee benefits", "The management of marketing campaigns"],
+            "answer": "The management of the flow of goods and services"
+          },
+          {
+            "id": 36,
+            "question": "What is the purpose of market segmentation?",
+            "options": ["To divide the market into groups with similar characteristics", "To reduce product prices", "To consolidate competitors", "To increase employee salaries"],
+            "answer": "To divide the market into groups with similar characteristics"
+          },
+          {
+            "id": 37,
+            "question": "What is a merger in business?",
+            "options": ["The combination of two companies into one", "A reduction in company size", "The sale of a company’s assets", "The process of hiring new employees"],
+            "answer": "The combination of two companies into one"
+          },
+          {
+            "id": 38,
+            "question": "Which financial statement shows a company’s assets, liabilities, and equity?",
+            "options": ["Balance Sheet", "Income Statement", "Cash Flow Statement", "Revenue Report"],
+            "answer": "Balance Sheet"
+          },
+          {
+            "id": 39,
+            "question": "What does 'IPO' stand for in business?",
+            "options": ["Initial Public Offering", "Internal Purchase Order", "International Product Opportunity", "Individual Payment Offering"],
+            "answer": "Initial Public Offering"
+          },
+          {
+            "id": 40,
+            "question": "What is a business’s primary source of competitive advantage in a knowledge-based economy?",
+            "options": ["Intellectual property", "Cheap labor", "Capital investment", "Advertising budget"],
+            "answer": "Intellectual property"
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "complexity": "Expert",
+        "questions": [
+          {
+            "id": 41,
+            "question": "What is the primary purpose of an IPO (Initial Public Offering)?",
+            "options": ["To raise capital by offering shares to the public", "To reduce company debt", "To increase the stock price", "To acquire other businesses"],
+            "answer": "To raise capital by offering shares to the public"
+          },
+          {
+            "id": 42,
+            "question": "Which business model is characterized by offering subscription-based products or services?",
+            "options": ["Subscription model", "Freemium model", "Marketplace model", "Direct sales model"],
+            "answer": "Subscription model"
+          },
+          {
+            "id": 43,
+            "question": "What is 'just-in-time' inventory management?",
+            "options": ["A method where materials are ordered and delivered only when needed", "A method where products are stored in large quantities", "A system used for forecasting sales", "A way to track employee performance"],
+            "answer": "A method where materials are ordered and delivered only when needed"
+          },
+          {
+            "id": 44,
+            "question": "Which of the following is a method for managing organizational change?",
+            "options": ["Lewin's Change Model", "Cost-Benefit Analysis", "Blue Ocean Strategy", "Porter's Five Forces"],
+            "answer": "Lewin's Change Model"
+          },
+          {
+            "id": 45,
+            "question": "Which of these is a common strategy used to enter international markets?",
+            "options": ["Exporting", "Branding", "Cost-cutting", "Employee expansion"],
+            "answer": "Exporting"
+          },
+          {
+            "id": 46,
+            "question": "What does 'KPI' stand for in business performance management?",
+            "options": ["Key Performance Indicator", "Knowledge Process Integration", "Key Profit Indicator", "Knowledge Performance Indicator"],
+            "answer": "Key Performance Indicator"
+          },
+          {
+            "id": 47,
+            "question": "What is the primary function of corporate governance?",
+            "options": ["To oversee management and ensure accountability", "To design marketing strategies", "To recruit employees", "To manage financial reporting"],
+            "answer": "To oversee management and ensure accountability"
+          },
+          {
+            "id": 48,
+            "question": "Which concept involves focusing on a niche market to gain a competitive advantage?",
+            "options": ["Focus strategy", "Differentiation", "Cost leadership", "Diversification"],
+            "answer": "Focus strategy"
+          },
+          {
+            "id": 49,
+            "question": "What is the role of a Chief Marketing Officer (CMO)?",
+            "options": ["Overseeing the marketing and branding strategy", "Managing financial decisions", "Monitoring employee productivity", "Handling legal matters"],
+            "answer": "Overseeing the marketing and branding strategy"
+          },
+          {
+            "id": 50,
+            "question": "What is the purpose of a business’s value proposition?",
+            "options": ["To communicate the unique value offered to customers", "To identify competitors", "To analyze profit margins", "To manage employee performance"],
+            "answer": "To communicate the unique value offered to customers"
+          }
+        ]
+      },
+          {
+            "level": 6,
+            "complexity": "Advanced Expert",
+            "questions": [
+              {
+                "id": 51,
+                "question": "What is the primary goal of Lean Six Sigma?",
+                "options": ["To improve process efficiency and reduce defects", "To increase market share", "To lower employee turnover", "To enhance corporate governance"],
+                "answer": "To improve process efficiency and reduce defects"
+              },
+              {
+                "id": 52,
+                "question": "What is the concept of 'core competency' in strategic management?",
+                "options": ["A business’s unique strengths that are difficult for competitors to replicate", "A marketing strategy for increasing revenue", "A management practice to boost employee performance", "A customer relationship tool to improve service"],
+                "answer": "A business’s unique strengths that are difficult for competitors to replicate"
+              },
+              {
+                "id": 53,
+                "question": "Which of the following is a key principle of Michael Porter's Five Forces model?",
+                "options": ["The threat of new entrants", "Customer segmentation", "Market diversification", "Profit maximization"],
+                "answer": "The threat of new entrants"
+              },
+              {
+                "id": 54,
+                "question": "In business, what does 'economic moat' refer to?",
+                "options": ["A competitive advantage that protects a company from competitors", "A financial crisis that weakens a company", "A strategic partnership with another business", "A pricing strategy to attract customers"],
+                "answer": "A competitive advantage that protects a company from competitors"
+              },
+              {
+                "id": 55,
+                "question": "Which of these strategies focuses on achieving cost leadership?",
+                "options": ["Cost-cutting and economies of scale", "Targeting niche markets", "Product differentiation", "Expanding product lines"],
+                "answer": "Cost-cutting and economies of scale"
+              },
+              {
+                "id": 56,
+                "question": "What does the term 'capital budgeting' refer to?",
+                "options": ["The process of planning and managing investments in long-term assets", "The strategy for increasing short-term cash flow", "The allocation of funds for employee benefits", "The process of paying off business debt"],
+                "answer": "The process of planning and managing investments in long-term assets"
+              },
+              {
+                "id": 57,
+                "question": "What is a 'buyout' in business?",
+                "options": ["The purchase of a company by another company or individual", "A merger between two companies", "A strategy to reduce operational costs", "A method to increase production efficiency"],
+                "answer": "The purchase of a company by another company or individual"
+              },
+              {
+                "id": 58,
+                "question": "What is a key characteristic of a 'matrix organization'?",
+                "options": ["Employees report to more than one manager", "The focus is on single functional areas", "Centralized decision-making", "Limited collaboration between teams"],
+                "answer": "Employees report to more than one manager"
+              },
+              {
+                "id": 59,
+                "question": "What does 'scalability' refer to in a business context?",
+                "options": ["The ability to handle increased demand without compromising performance", "The process of expanding into international markets", "The ability to diversify product offerings", "The ability to increase the size of the workforce"],
+                "answer": "The ability to handle increased demand without compromising performance"
+              },
+              {
+                "id": 60,
+                "question": "Which of these is a key focus of corporate sustainability?",
+                "options": ["Reducing environmental impact", "Increasing market share", "Maximizing short-term profits", "Expanding into new geographic regions"],
+                "answer": "Reducing environmental impact"
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "complexity": "Expert",
+            "questions": [
+              {
+                "id": 61,
+                "question": "What is 'organizational culture' in business?",
+                "options": ["The values, beliefs, and behaviors that define how a company operates", "The strategy used to maximize shareholder value", "The financial structure of a business", "The training and development programs for employees"],
+                "answer": "The values, beliefs, and behaviors that define how a company operates"
+              },
+              {
+                "id": 62,
+                "question": "Which of the following is a characteristic of an entrepreneurial orientation?",
+                "options": ["Innovativeness, risk-taking, and proactiveness", "Focus on process efficiency", "Strict adherence to organizational hierarchy", "Centralized decision-making"],
+                "answer": "Innovativeness, risk-taking, and proactiveness"
+              },
+              {
+                "id": 63,
+                "question": "What is 'business diversification'?",
+                "options": ["Expanding a company's operations into different markets or industries", "Focusing on a single product line", "Reducing the number of product offerings", "Reorganizing company structure"],
+                "answer": "Expanding a company's operations into different markets or industries"
+              },
+              {
+                "id": 64,
+                "question": "What is the purpose of a strategic alliance?",
+                "options": ["To create a partnership between two businesses to achieve mutual goals", "To increase competition in the market", "To reduce employee turnover", "To expand marketing efforts"],
+                "answer": "To create a partnership between two businesses to achieve mutual goals"
+              },
+              {
+                "id": 65,
+                "question": "What does the term 'disruptive innovation' refer to?",
+                "options": ["Innovations that create new markets and value networks", "Improving existing products", "Enhancing customer service", "Increasing production efficiency"],
+                "answer": "Innovations that create new markets and value networks"
+              },
+              {
+                "id": 66,
+                "question": "What is the purpose of 'risk management' in business?",
+                "options": ["To identify, assess, and mitigate risks that could impact business objectives", "To increase company profits", "To improve customer satisfaction", "To recruit and hire new employees"],
+                "answer": "To identify, assess, and mitigate risks that could impact business objectives"
+              },
+              {
+                "id": 67,
+                "question": "What is the purpose of a 'business incubator'?",
+                "options": ["To support startups with resources and services", "To acquire competitor companies", "To streamline production processes", "To monitor employee performance"],
+                "answer": "To support startups with resources and services"
+              },
+              {
+                "id": 68,
+                "question": "What does 'market penetration' mean in business strategy?",
+                "options": ["Increasing the market share of existing products", "Launching new products in the market", "Entering a new geographical market", "Establishing a global presence"],
+                "answer": "Increasing the market share of existing products"
+              },
+              {
+                "id": 69,
+                "question": "Which of these is a major benefit of a franchise business model?",
+                "options": ["Access to a proven business model and brand", "Full control over all aspects of operations", "Lower initial investment", "Ability to set unique pricing strategies"],
+                "answer": "Access to a proven business model and brand"
+              },
+              {
+                "id": 70,
+                "question": "What is 'crowdfunding'?",
+                "options": ["Raising small amounts of money from a large number of people, usually through the internet", "A form of venture capital", "A type of corporate sponsorship", "A government subsidy for businesses"],
+                "answer": "Raising small amounts of money from a large number of people, usually through the internet"
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "complexity": "High Expert",
+            "questions": [
+              {
+                "id": 71,
+                "question": "What is the main purpose of 'Mergers and Acquisitions' (M&A)?",
+                "options": ["To increase market share and expand business operations", "To minimize risk", "To improve employee morale", "To reduce marketing expenses"],
+                "answer": "To increase market share and expand business operations"
+              },
+              {
+                "id": 72,
+                "question": "Which of these models emphasizes understanding customer needs and creating solutions to satisfy them?",
+                "options": ["Customer-centric business model", "Freemium business model", "B2B business model", "Cost-leadership model"],
+                "answer": "Customer-centric business model"
+              },
+              {
+                "id": 73,
+                "question": "What is 'vertical integration' in business strategy?",
+                "options": ["A company’s acquisition of its suppliers or distributors", "Selling products in international markets", "Introducing new products to an existing market", "Outsourcing business processes"],
+                "answer": "A company’s acquisition of its suppliers or distributors"
+              },
+              {
+                "id": 74,
+                "question": "What does the 'balanced scorecard' method measure in business?",
+                "options": ["It measures organizational performance across multiple perspectives, including financial, customer, and internal processes", "It assesses market share", "It tracks customer complaints", "It measures employee satisfaction"],
+                "answer": "It measures organizational performance across multiple perspectives, including financial, customer, and internal processes"
+              },
+              {
+                "id": 75,
+                "question": "What is the purpose of a 'buyback' in business?",
+                "options": ["To repurchase a company’s own shares from the market", "To acquire a competitor", "To hire new employees", "To increase production capacity"],
+                "answer": "To repurchase a company’s own shares from the market"
+              },
+              {
+                "id": 76,
+                "question": "What is 'operational efficiency'?",
+                "options": ["The ability to deliver products or services with minimal waste and cost", "Increasing employee productivity", "Reducing marketing expenditure", "Improving customer service quality"],
+                "answer": "The ability to deliver products or services with minimal waste and cost"
+              },
+              {
+                "id": 77,
+                "question": "What is a 'peer-to-peer' (P2P) business model?",
+                "options": ["A model that allows individuals to exchange goods or services directly", "A model focused on large-scale production", "A model for managing employee performance", "A business strategy that emphasizes corporate social responsibility"],
+                "answer": "A model that allows individuals to exchange goods or services directly"
+              },
+              {
+                "id": 78,
+                "question": "Which term describes the process of leveraging external innovation and expertise for business growth?",
+                "options": ["Open innovation", "Vertical integration", "Corporate restructuring", "Market segmentation"],
+                "answer": "Open innovation"
+              },
+              {
+                "id": 79,
+                "question": "What is the role of a 'Chief Data Officer' (CDO)?",
+                "options": ["To oversee data management and data governance in the organization", "To manage human resources", "To lead the marketing department", "To design financial strategies"],
+                "answer": "To oversee data management and data governance in the organization"
+              },
+              {
+                "id": 80,
+                "question": "What is a 'pivot' in the context of a startup?",
+                "options": ["A significant change in business strategy to adapt to market feedback", "A merger with another company", "A method of cost-cutting", "The acquisition of a competitor"],
+                "answer": "A significant change in business strategy to adapt to market feedback"
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "complexity": "Top Expert",
+            "questions": [
+              {
+                "id": 81,
+                "question": "What is a 'unicorn' in the context of business?",
+                "options": ["A privately held startup valued at over $1 billion", "A market leader in a niche segment", "A company with global operations", "A startup with a focus on innovation"],
+                "answer": "A privately held startup valued at over $1 billion"
+              },
+              {
+                "id": 82,
+                "question": "What is 'disintermediation' in business?",
+                "options": ["The removal of intermediaries from the supply chain", "The process of outsourcing business functions", "A strategy to reduce operating costs", "The introduction of new technologies to improve production"],
+                "answer": "The removal of intermediaries from the supply chain"
+              },
+              {
+                "id": 83,
+                "question": "What is 'synergy' in the context of mergers or acquisitions?",
+                "options": ["The idea that the combined value and performance of two companies will be greater than the sum of the two separate companies", "A reduction in operating costs", "A competitive advantage from economies of scale", "The process of integrating company cultures"],
+                "answer": "The idea that the combined value and performance of two companies will be greater than the sum of the two separate companies"
+              },
+              {
+                "id": 84,
+                "question": "What is the 'winner-takes-all' business model?",
+                "options": ["A model where one company dominates the market and leaves little space for competitors", "A model focused on diversification", "A model that relies on customer loyalty", "A model that encourages market entry from multiple competitors"],
+                "answer": "A model where one company dominates the market and leaves little space for competitors"
+              },
+              {
+                "id": 85,
+                "question": "What does 'net present value' (NPV) measure in investment analysis?",
+                "options": ["The difference between the present value of cash inflows and outflows", "The total revenue of a business", "The level of market competition", "The return on equity"],
+                "answer": "The difference between the present value of cash inflows and outflows"
+              },
+              {
+                "id": 86,
+                "question": "What is the 'blue ocean strategy'?",
+                "options": ["Creating new market spaces with little to no competition", "Focusing on cost leadership", "Competing within existing market boundaries", "Strengthening existing customer relationships"],
+                "answer": "Creating new market spaces with little to no competition"
+              },
+              {
+                "id": 87,
+                "question": "What is 'blockchain technology'?",
+                "options": ["A decentralized digital ledger used to securely record transactions", "A process for tracking inventory", "A method of outsourcing business functions", "A system for conducting customer surveys"],
+                "answer": "A decentralized digital ledger used to securely record transactions"
+              },
+              {
+                "id": 88,
+                "question": "What is the 'sharing economy'?",
+                "options": ["A model where individuals share access to goods and services, typically facilitated by technology", "A strategy to reduce business risks", "A model focused on employee benefits", "A pricing strategy for luxury goods"],
+                "answer": "A model where individuals share access to goods and services, typically facilitated by technology"
+              },
+              {
+                "id": 89,
+                "question": "What is the 'crowdsourcing' business model?",
+                "options": ["Obtaining input or funding from a large group of people, usually via the internet", "Selling products in international markets", "Focusing on a niche customer segment", "Maximizing shareholder wealth"],
+                "answer": "Obtaining input or funding from a large group of people, usually via the internet"
+              },
+              {
+                "id": 90,
+                "question": "What is 'tokenization' in the context of digital assets?",
+                "options": ["Converting assets into digital tokens that represent ownership", "A method for improving supply chain efficiency", "A strategy for improving customer loyalty", "A financial strategy for increasing short-term profit"],
+                "answer": "Converting assets into digital tokens that represent ownership"
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "complexity": "Master Expert",
+            "questions": [
+              {
+                "id": 91,
+                "question": "What is the key feature of 'distributed ledger technology'?",
+                "options": ["It allows data to be stored across multiple locations in a secure and transparent way", "It focuses on centralized data storage", "It enables real-time data analysis", "It requires high levels of government regulation"],
+                "answer": "It allows data to be stored across multiple locations in a secure and transparent way"
+              },
+              {
+                "id": 92,
+                "question": "What is 'quantitative easing' in economic policy?",
+                "options": ["A process in which a central bank increases the money supply to stimulate the economy", "A strategy to increase tax revenue", "A method of reducing national debt", "A policy to limit inflation"],
+                "answer": "A process in which a central bank increases the money supply to stimulate the economy"
+              },
+              {
+                "id": 93,
+                "question": "What does 'economic globalization' refer to?",
+                "options": ["The increasing interconnectedness of markets, economies, and businesses worldwide", "The growth of a single national economy", "The shift towards localized production", "The process of market segmentation"],
+                "answer": "The increasing interconnectedness of markets, economies, and businesses worldwide"
+              },
+              {
+                "id": 94,
+                "question": "What is 'disruptive technology'?",
+                "options": ["Innovations that change industries and displace established technologies", "A process for improving production efficiency", "A model for increasing market share", "A financial strategy for maximizing shareholder value"],
+                "answer": "Innovations that change industries and displace established technologies"
+              },
+              {
+                "id": 95,
+                "question": "What is 'supply chain optimization'?",
+                "options": ["Enhancing the efficiency and effectiveness of the flow of goods, services, and information in the supply chain", "Increasing the number of suppliers", "Improving marketing strategies", "Outsourcing business functions"],
+                "answer": "Enhancing the efficiency and effectiveness of the flow of goods, services, and information in the supply chain"
+              },
+              {
+                "id": 96,
+                "question": "What is 'economic rent'?",
+                "options": ["The excess payment to a factor of production beyond what is required to keep it in its current use", "A form of taxation", "A model for business profitability", "The total income of a business"],
+                "answer": "The excess payment to a factor of production beyond what is required to keep it in its current use"
+              },
+              {
+                "id": 97,
+                "question": "What is a 'global supply chain'?",
+                "options": ["A network of suppliers, manufacturers, and distributors that span multiple countries", "A method for controlling product quality", "A strategy for reducing production costs", "A process for increasing product prices"],
+                "answer": "A network of suppliers, manufacturers, and distributors that span multiple countries"
+              },
+              {
+                "id": 98,
+                "question": "What is 'capital structure' in business?",
+                "options": ["The mix of debt and equity used by a company to finance its operations", "A method for managing operational efficiency", "A process for increasing company revenue", "A strategy for market expansion"],
+                "answer": "The mix of debt and equity used by a company to finance its operations"
+              },
+              {
+                "id": 99,
+                "question": "What does 'asset-backed security' mean?",
+                "options": ["A financial instrument backed by a pool of assets like loans or receivables", "A method of securing business loans", "A strategy for managing business risk", "A type of investment focused on equity ownership"],
+                "answer": "A financial instrument backed by a pool of assets like loans or receivables"
+              },
+              {
+                "id": 100,
+                "question": "What is the 'circular economy'?",
+                "options": ["An economic system aimed at minimizing waste and making the most of resources", "A process of reducing government intervention in business", "A model for maximizing market share", "A strategy for increasing product differentiation"],
+                "answer": "An economic system aimed at minimizing waste and making the most of resources"
+              }
+            ]
+          }
+        ]
+      }

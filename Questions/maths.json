@@ -1,0 +1,671 @@
+{
+    "category": "Mathematics",
+    "levels": [
+      {
+        "level": 1,
+        "complexity": "Easy",
+        "questions": [
+          {
+            "id": 1,
+            "question": "What is the value of 5 + 3?",
+            "options": ["6", "7", "8", "9"],
+            "answer": "8"
+          },
+          {
+            "id": 2,
+            "question": "True or False: A triangle can have more than one right angle.",
+            "options": ["True", "False"],
+            "answer": "False"
+          },
+          {
+            "id": 3,
+            "question": " The sum of the angles in a triangle is ____ degrees.",
+            "options": ["90", "180", "360", "120"],
+            "answer": "180"
+          },
+          {
+            "id": 4,
+            "question": "Which of the following is a prime number?",
+            "options": ["4", "6", "9", "7"],
+            "answer": "7"
+          },
+          {
+            "id": 5,
+            "question": " You have 10 apples and you give 4 to a friend. How many apples do you have left?",
+            "options": ["6", "7", "8", "5"],
+            "answer": "6"
+          },
+          {
+            "id": 6,
+            "question": "What is the square root of 49?",
+            "options": ["5", "6", "7", "8"],
+            "answer": "7"
+          },
+          {
+            "id": 7,
+            "question": "True or False: Zero is an even number.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 8,
+            "question": "Which shape has four equal sides and four right angles?",
+            "options": ["Rectangle", "Triangle", "Square", "Circle"],
+            "answer": "Square"
+          },
+          {
+            "id": 9,
+            "question": " The perimeter of a rectangle is calculated as ____.",
+            "options": ["Length + Breadth", "2 × (Length + Breadth)", "Length × Breadth", "Length - Breadth"],
+            "answer": "2 × (Length + Breadth)"
+          },
+          {
+            "id": 10,
+            "question": "What is 15 ÷ 3?",
+            "options": ["3", "5", "6", "7"],
+            "answer": "5"
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "complexity": "Medium",
+        "questions": [
+          {
+            "id": 11,
+            "question": "What is the value of 7 × 8?",
+            "options": ["48", "54", "56", "64"],
+            "answer": "56"
+          },
+          {
+            "id": 12,
+            "question": "True or False: A parallelogram always has 90-degree angles.",
+            "options": ["True", "False"],
+            "answer": "False"
+          },
+          {
+            "id": 13,
+            "question": " The area of a circle is calculated using the formula ____.",
+            "options": ["π × r", "2 × π × r", "π × r²", "π × d"],
+            "answer": "π × r²"
+          },
+          {
+            "id": 14,
+            "question": "Which of the following is the solution to 3x = 12?",
+            "options": ["x = 3", "x = 4", "x = 5", "x = 6"],
+            "answer": "x = 4"
+          },
+          {
+            "id": 15,
+            "question": " A train travels 60 miles in 2 hours. What is its average speed?",
+            "options": ["20 mph", "30 mph", "40 mph", "50 mph"],
+            "answer": "30 mph"
+          },
+          {
+            "id": 16,
+            "question": "What is the value of 2³?",
+            "options": ["6", "8", "9", "12"],
+            "answer": "8"
+          },
+          {
+            "id": 17,
+            "question": "True or False: The product of any two odd numbers is always odd.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 18,
+            "question": "Which equation represents a linear relationship?",
+            "options": ["y = x²", "y = 3x + 2", "y = 1/x", "y = x³"],
+            "answer": "y = 3x + 2"
+          },
+          {
+            "id": 19,
+            "question": " In a right triangle, the longest side is called the ____.",
+            "options": ["Base", "Height", "Hypotenuse", "Perpendicular"],
+            "answer": "Hypotenuse"
+          },
+          {
+            "id": 20,
+            "question": "What is the value of 100 - (25 + 15)?",
+            "options": ["50", "60", "65", "70"],
+            "answer": "60"
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "complexity": "Intermediate",
+        "questions": [
+          {
+            "id": 21,
+            "question": "What is the derivative of x² with respect to x?",
+            "options": ["1", "2x", "x²", "2"],
+            "answer": "2x"
+          },
+          {
+            "id": 22,
+            "question": "True or False: A square is a special type of rectangle.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 23,
+            "question": " The Pythagorean theorem is expressed as ____.",
+            "options": ["a² + b² = c", "a² + b² = c²", "a + b = c²", "a² - b² = c²"],
+            "answer": "a² + b² = c²"
+          },
+          {
+            "id": 24,
+            "question": "Which of the following is the value of sin(90°)?",
+            "options": ["0", "1", "-1", "Undefined"],
+            "answer": "1"
+          },
+          {
+            "id": 25,
+            "question": " You have a budget of $120. If each item costs $15, how many items can you buy?",
+            "options": ["6", "7", "8", "9"],
+            "answer": "8"
+          },
+          {
+            "id": 26,
+            "question": "What is the solution to the quadratic equation x² - 4 = 0?",
+            "options": ["x = 2", "x = -2", "x = ±2", "x = 0"],
+            "answer": "x = ±2"
+          },
+          {
+            "id": 27,
+            "question": "True or False: The number π is irrational.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 28,
+            "question": "Which property does a parallelogram have?",
+            "options": ["All angles are 90 degrees", "Opposite sides are equal", "Diagonals bisect at right angles", "Only one pair of sides is parallel"],
+            "answer": "Opposite sides are equal"
+          },
+          {
+            "id": 29,
+            "question": " The mean of a dataset is also called the ____.",
+            "options": ["Mode", "Median", "Average", "Range"],
+            "answer": "Average"
+          },
+          {
+            "id": 30,
+            "question": "What is the slope of the line represented by y = 3x + 7?",
+            "options": ["3", "7", "-3", "-7"],
+            "answer": "3"
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "complexity": "Advanced",
+        "questions": [
+          {
+            "id": 31,
+            "question": "What is the integral of 2x dx?",
+            "options": ["x² + C", "2x²", "x + C", "2x + C"],
+            "answer": "x² + C"
+          },
+          {
+            "id": 32,
+            "question": "True or False: In probability, P(A ∩ B) = P(A) × P(B) only if events A and B are independent.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 33,
+            "question": " The determinant of a 2x2 matrix is given by ____.",
+            "options": ["ad + bc", "ad - bc", "ab - cd", "a² + b²"],
+            "answer": "ad - bc"
+          },
+          {
+            "id": 34,
+            "question": "Which of the following is the value of log₃(27)?",
+            "options": ["2", "3", "4", "5"],
+            "answer": "3"
+          },
+          {
+            "id": 35,
+            "question": " If a car travels 150 miles in 3 hours, what is its average speed?",
+            "options": ["40 mph", "45 mph", "50 mph", "55 mph"],
+            "answer": "50 mph"
+          },
+          {
+            "id": 36,
+            "question": "What is the sum of the first 5 natural numbers?",
+            "options": ["10", "15", "20", "25"],
+            "answer": "15"
+          },
+          {
+            "id": 37,
+            "question": "True or False: A system of linear equations with no solution is called inconsistent.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 38,
+            "question": "Which of the following is an example of a geometric sequence?",
+            "options": ["2, 4, 6, 8", "3, 6, 12, 24", "1, 3, 5, 7", "5, 10, 15, 20"],
+            "answer": "3, 6, 12, 24"
+          },
+          {
+            "id": 39,
+            "question": " The highest power of the variable in a polynomial is called its ____.",
+            "options": ["Degree", "Coefficient", "Constant", "Term"],
+            "answer": "Degree"
+          },
+          {
+            "id": 40,
+            "question": "What is the remainder when 17 is divided by 5?",
+            "options": ["0", "1", "2", "3"],
+            "answer": "2"
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "complexity": "Expert",
+        "questions": [
+          {
+            "id": 41,
+            "question": "What is the value of the derivative of sin(x) at x = π/2?",
+            "options": ["1", "0", "-1", "-2"],
+            "answer": "0"
+          },
+          {
+            "id": 42,
+            "question": "True or False: Every square matrix is invertible.",
+            "options": ["True", "False"],
+            "answer": "False"
+          },
+          {
+            "id": 43,
+            "question": " The eigenvectors of a matrix correspond to the directions in which it acts as a ____.",
+            "options": ["Rotation", "Scaling factor", "Reflection", "Translation"],
+            "answer": "Scaling factor"
+          },
+          {
+            "id": 44,
+            "question": "Which of the following is the solution to x³ = 27?",
+            "options": ["x = 2", "x = 3", "x = -3", "x = ±3"],
+            "answer": "x = 3"
+          },
+          {
+            "id": 45,
+            "question": " A bag contains 5 red, 3 blue, and 2 green balls. If a ball is drawn at random, what is the probability it is blue?",
+            "options": ["1/2", "3/10", "2/5", "1/5"],
+            "answer": "3/10"
+          },
+          {
+            "id": 46,
+            "question": "What is the value of the sum of the infinite geometric series with a = 1 and r = 1/2?",
+            "options": ["1", "2", "3", "4"],
+            "answer": "2"
+          },
+          {
+            "id": 47,
+            "question": "True or False: The determinant of an orthogonal matrix is always ±1.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 48,
+            "question": "Which formula is used to calculate the nth term of an arithmetic progression?",
+            "options": ["a + (n - 1)d", "a × rⁿ", "a/(1 - r)", "a × n!"],
+            "answer": "a + (n - 1)d"
+          },
+          {
+            "id": 49,
+            "question": " The Fourier transform converts a function from the time domain to the ____ domain.",
+            "options": ["Frequency", "Spatial", "Amplitude", "Phase"],
+            "answer": "Frequency"
+          },
+          {
+            "id": 50,
+            "question": "What is the solution to the differential equation dy/dx = y with y(0) = 1?",
+            "options": ["y = e^x", "y = x", "y = 1 + x", "y = e^(-x)"],
+            "answer": "y = e^x"
+          }
+        ]
+      },
+          {
+            "level": 6,
+            "complexity": "Advanced-Intermediate",
+            "questions": [
+              {
+                "id": 51,
+                "question": "If a + b = 12 and a - b = 4, what is the value of a?",
+                "options": ["4", "8", "6", "12"],
+                "answer": "8"
+              },
+              {
+                "id": 52,
+                "question": "True or False: The set of natural numbers is closed under subtraction.",
+                "options": ["True", "False"],
+                "answer": "False"
+              },
+              {
+                "id": 53,
+                "question": " A logical statement that is always true is called a ____.",
+                "options": ["Tautology", "Contradiction", "Hypothesis", "Proposition"],
+                "answer": "Tautology"
+              },
+              {
+                "id": 54,
+                "question": "Which of the following numbers is a perfect square?",
+                "options": ["12", "25", "18", "22"],
+                "answer": "25"
+              },
+              {
+                "id": 55,
+                "question": " A jar contains 5 blue marbles and 7 red marbles. What is the probability of drawing a blue marble?",
+                "options": ["5/12", "1/2", "7/12", "5/7"],
+                "answer": "5/12"
+              },
+              {
+                "id": 56,
+                "question": "Which of the following is an example of a logical fallacy?",
+                "options": ["Modus Ponens", "Affirming the Consequent", "Law of Detachment", "Biconditional Introduction"],
+                "answer": "Affirming the Consequent"
+              },
+              {
+                "id": 57,
+                "question": "True or False: An isosceles triangle has at least two equal sides.",
+                "options": ["True", "False"],
+                "answer": "True"
+              },
+              {
+                "id": 58,
+                "question": "If the price of an item increases by 25%, and then decreases by 20%, what is the net change in price?",
+                "options": ["5% increase", "5% decrease", "0%", "10% increase"],
+                "answer": "5% increase"
+              },
+              {
+                "id": 59,
+                "question": " The ____ of a number is the largest integer less than or equal to that number.",
+                "options": ["Floor", "Ceiling", "Round", "Absolute"],
+                "answer": "Floor"
+              },
+              {
+                "id": 60,
+                "question": "Which logical operation is represented by the symbol ∨?",
+                "options": ["AND", "OR", "NOT", "XOR"],
+                "answer": "OR"
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "complexity": "Challenging",
+            "questions": [
+              {
+                "id":61,
+                "question": "If x > 3 and y < 5, which of the following must be true?",
+                "options": ["x + y > 8", "x - y < 0", "y - x < 2", "x > y"],
+                "answer": "y - x < 2"
+              },
+              {
+                "id":62,
+                "question": "True or False: The sum of two irrational numbers is always irrational.",
+                "options": ["True", "False"],
+                "answer": "False"
+              },
+              {
+                "id": 63,
+                "question": " A valid argument is one where if the premises are true, the ____ must also be true.",
+                "options": ["Conclusion", "Hypothesis", "Proposition", "Condition"],
+                "answer": "Conclusion"
+              },
+              {
+                "id": 64,
+                "question": "Which of the following graphs represents a one-to-one function?",
+                "options": ["A straight line passing through the origin", "A parabola opening upwards", "A circle", "A hyperbola"],
+                "answer": "A straight line passing through the origin"
+              },
+              {
+                "id": 65,
+                "question": " You flip two fair coins. What is the probability of getting at least one head?",
+                "options": ["1/4", "1/2", "3/4", "1"],
+                "answer": "3/4"
+              },
+              {
+                "id": 66,
+                "question": "If x² = 16 and x > 0, what is the value of x?",
+                "options": ["-4", "4", "8", "16"],
+                "answer": "4"
+              },
+              {
+                "id": 67,
+                "question": "True or False: The contrapositive of a true statement is also true.",
+                "options": ["True", "False"],
+                "answer": "True"
+              },
+              {
+                "id": 68,
+                "question": "Which of the following statements is a logical equivalence?",
+                "options": ["¬(A ∧ B) ≡ ¬A ∨ ¬B", "A ∨ B ≡ A ∧ B", "A ∧ ¬B ≡ ¬(A ∨ B)", "A → B ≡ A ∨ B"],
+                "answer": "¬(A ∧ B) ≡ ¬A ∨ ¬B"
+              },
+              {
+                "id": 69,
+                "question": " A problem-solving strategy that involves dividing a problem into smaller parts is called ____.",
+                "options": ["Reduction", "Induction", "Decomposition", "Extrapolation"],
+                "answer": "Decomposition"
+              },
+              {
+                "id": 70,
+                "question": "What is the value of (3 + 2i)(3 - 2i)?",
+                "options": ["13", "9", "-13", "5"],
+                "answer": "13"
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "complexity": "High-Logic",
+            "questions": [
+              {
+                "id": 71,
+                "question": "If p → q is true, and p is true, what can be concluded?",
+                "options": ["q is false", "q is true", "p is false", "Nothing can be concluded"],
+                "answer": "q is true"
+              },
+              {
+                "id": 72,
+                "question": "True or False: The product of two negative numbers is always positive.",
+                "options": ["True", "False"],
+                "answer": "True"
+              },
+              {
+                "id": 73,
+                "question": " A statement that cannot be proven or disproven within a system is called ____.",
+                "options": ["Axiom", "Lemma", "Hypothesis", "Undecidable"],
+                "answer": "Undecidable"
+              },
+              {
+                "id": 74,
+                "question": "Which number satisfies the equation log₂x = 5?",
+                "options": ["5", "10", "25", "32"],
+                "answer": "32"
+              },
+              {
+                "id": 75,
+                "question": " A car travels 50 km at 60 km/h and then 50 km at 100 km/h. What is the average speed of the car?",
+                "options": ["72 km/h", "80 km/h", "75 km/h", "65 km/h"],
+                "answer": "72 km/h"
+              },
+              {
+                "id": 76,
+                "question": "What is the greatest common divisor (GCD) of 48 and 18?",
+                "options": ["6", "12", "18", "24"],
+                "answer": "6"
+              },
+              {
+                "id": 77,
+                "question": "True or False: A biconditional statement is true if both components are true or both are false.",
+                "options": ["True", "False"],
+                "answer": "True"
+              },
+              {
+                "id": 78,
+                "question": "Which of the following is a counterexample for the statement 'All prime numbers are odd'?",
+                "options": ["2", "3", "5", "7"],
+                "answer": "2"
+              },
+              {
+                "id": 79,
+                "question": " If the contrapositive of a statement is false, the ____ is also false.",
+                "options": ["Negation", "Inverse", "Original statement", "Converse"],
+                "answer": "Original statement"
+              },
+              {
+                "id": 80,
+                "question": "What is the value of det([[2, 3], [1, 4]])?",
+                "options": ["5", "7", "8", "-2"],
+                "answer": "5"
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "complexity": "Advanced-Logic",
+            "questions": [
+              {
+                "id": 81,
+                "question": "If A = {1, 2, 3} and B = {2, 3, 4}, what is A ∪ B?",
+                "options": ["{1, 2, 3}", "{2, 3, 4}", "{1, 2, 3, 4}", "{3, 4}"],
+                "answer": "{1, 2, 3, 4}"
+              },
+              {
+                "id": 82,
+                "question": "True or False: The sum of the interior angles of a triangle is always 180 degrees.",
+                "options": ["True", "False"],
+                "answer": "True"
+              },
+              {
+                "id": 83,
+                "question": " A sequence that does not converge is called ____.",
+                "options": ["Bounded", "Divergent", "Oscillatory", "Convergent"],
+                "answer": "Divergent"
+              },
+              {
+                "id": 84,
+                "question": "Which of the following matrices is singular?",
+                "options": [
+                  "[[1, 2], [3, 4]]",
+                  "[[2, 4], [1, 2]]",
+                  "[[0, 1], [1, 0]]",
+                  "[[3, 0], [0, 5]]"
+                ],
+                "answer": "[[2, 4], [1, 2]]"
+              },
+              {
+                "id": 85,
+                "question": " A clock shows 3:15. What is the angle between the hour and minute hands?",
+                "options": ["0°", "45°", "90°", "7.5°"],
+                "answer": "7.5°"
+              },
+              {
+                "id": 86,
+                "question": "Solve for x: 2^(x+1) = 16.",
+                "options": ["2", "3", "4", "5"],
+                "answer": "3"
+              },
+              {
+                "id": 87,
+                "question": "True or False: Every bounded sequence is convergent.",
+                "options": ["True", "False"],
+                "answer": "False"
+              },
+              {
+                "id": 88,
+                "question": "What is the derivative of f(x) = x^3 at x = 2?",
+                "options": ["6", "12", "18", "24"],
+                "answer": "12"
+              },
+              {
+                "id": 89,
+                "question": " The inverse of the statement 'If A, then B' is 'If ____.'",
+                "options": ["B, then A", "not A, then not B", "not B, then not A", "A, then not B"],
+                "answer": "not B, then not A"
+              },
+              {
+                "id": 90,
+                "question": "What is the determinant of the matrix [[3, 2], [5, 1]]?",
+                "options": ["-7", "7", "8", "-8"],
+                "answer": "-7"
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "complexity": "Expert-Level",
+            "questions": [
+              {
+                "id": 91,
+                "question": "If a function f(x) is defined as f(x) = 3x^2 - 4x + 1, find f'(x).",
+                "options": ["6x - 4", "6x + 4", "3x^2", "-4"],
+                "answer": "6x - 4"
+              },
+              {
+                "id": 92,
+                "question": "True or False: If a matrix has a determinant of 0, it is invertible.",
+                "options": ["True", "False"],
+                "answer": "False"
+              },
+              {
+                "id": 93,
+                "question": " A proof by ____ assumes the negation of the statement to be proven and derives a contradiction.",
+                "options": ["Contradiction", "Induction", "Deduction", "Counterexample"],
+                "answer": "Contradiction"
+              },
+              {
+                "id": 94,
+                "question": "Solve for x: log₃(27) = x.",
+                "options": ["2", "3", "4", "9"],
+                "answer": "3"
+              },
+              {
+                "id": 95,
+                "question": " A car travels 30 km at 60 km/h and another 60 km at 30 km/h. What is the average speed?",
+                "options": ["36 km/h", "40 km/h", "42 km/h", "48 km/h"],
+                "answer": "36 km/h"
+              },
+              {
+                "id": 96,
+                "question": "Evaluate the integral: ∫(2x dx) from x = 0 to x = 3.",
+                "options": ["3", "6", "9", "18"],
+                "answer": "9"
+              },
+              {
+                "id": 97,
+                "question": "True or False: A convex polygon must have all its interior angles less than 180°.",
+                "options": ["True", "False"],
+                "answer": "True"
+              },
+              {
+                "id": 98,
+                "question": "What is the rank of the matrix [[1, 2], [2, 4]]?",
+                "options": ["0", "1", "2", "3"],
+                "answer": "1"
+              },
+              {
+                "id": 99,
+                "question": " The ____ theorem states that every differentiable function is continuous.",
+                "options": ["Bolzano's", "Intermediate Value", "Mean Value", "Differentiability"],
+                "answer": "Differentiability"
+              },
+              {
+                "id": 100,
+                "question": "Solve the logic puzzle: If today is Monday, two days ago was Saturday. True or False?",
+                "options": ["True", "False"],
+                "answer": "True"
+              }
+            ]
+          }
+    ]
+  }
+  

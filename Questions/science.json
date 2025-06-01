@@ -1,0 +1,668 @@
+{
+    "category": "Science",
+    "levels": [
+      {
+        "level": 1,
+        "complexity": "Easy",
+        "questions": [
+          {
+            "id": 1,
+            "question": "What is the chemical symbol for water?",
+            "options": ["H2O", "CO2", "O2", "H2"],
+            "answer": "H2O"
+          },
+          {
+            "id": 2,
+            "question": " The Earth is the third planet from the Sun.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 3,
+            "question": " The process by which plants make their food is called _____.",
+            "options": ["Photosynthesis", "Respiration", "Digestion", "Excretion"],
+            "answer": "Photosynthesis"
+          },
+          {
+            "id": 4,
+            "question": "Which is the largest planet in our solar system?",
+            "options": ["Jupiter", "Saturn", "Earth", "Mars"],
+            "answer": "Jupiter"
+          },
+          {
+            "id": 5,
+            "question": "Where do humans breathe from?",
+            "options": ["Nose", "Mouth", "Both", "Skin"],
+            "answer": "Both"
+          },
+          {
+            "id": 6,
+            "question": " The speed of light is faster than the speed of sound.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 7,
+            "question": "What is the boiling point of water at sea level?",
+            "options": ["90°C", "100°C", "110°C", "120°C"],
+            "answer": "100°C"
+          },
+          {
+            "id": 8,
+            "question": " The chemical symbol for gold is _____.",
+            "options": ["Au", "Ag", "Cu", "Fe"],
+            "answer": "Au"
+          },
+          {
+            "id": 9,
+            "question": " If you accidentally touch a hot object, what should be your immediate response?",
+            "options": ["Hold the object longer", "Put it under cold water", "Ignore the pain", "Shout for help"],
+            "answer": "Put it under cold water"
+          },
+          {
+            "id": 10,
+            "question": "Which gas do plants take in for photosynthesis?",
+            "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+            "answer": "Carbon Dioxide"
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "complexity": "Medium",
+        "questions": [
+          {
+            "id": 11,
+            "question": "Which planet is known as the Red Planet?",
+            "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+            "answer": "Mars"
+          },
+          {
+            "id": 12,
+            "question": " DNA stands for Deoxyribonucleic Acid.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 13,
+            "question": " The atomic number of Carbon is _____.",
+            "options": ["6", "12", "8", "10"],
+            "answer": "6"
+          },
+          {
+            "id": 14,
+            "question": "What is the powerhouse of the cell?",
+            "options": ["Nucleus", "Mitochondria", "Ribosome", "Endoplasmic Reticulum"],
+            "answer": "Mitochondria"
+          },
+          {
+            "id": 15,
+            "question": "Which type of energy is stored in food?",
+            "options": ["Kinetic", "Potential", "Chemical", "Thermal"],
+            "answer": "Chemical"
+          },
+          {
+            "id": 16,
+            "question": " The human body has 5 senses.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 17,
+            "question": "Which element has the atomic number 1?",
+            "options": ["Oxygen", "Carbon", "Hydrogen", "Nitrogen"],
+            "answer": "Hydrogen"
+          },
+          {
+            "id": 18,
+            "question": " The process by which an organism makes copies of itself is called _____.",
+            "options": ["Reproduction", "Respiration", "Excretion", "Growth"],
+            "answer": "Reproduction"
+          },
+          {
+            "id": 19,
+            "question": " If the sun suddenly disappeared, what would happen to Earth?",
+            "options": ["Earth would continue in its orbit", "Earth would immediately crash into the Sun", "Earth would freeze and stop rotating", "Earth would burn up"],
+            "answer": "Earth would freeze and stop rotating"
+          },
+          {
+            "id": 20,
+            "question": "What is the process of water turning into vapor called?",
+            "options": ["Evaporation", "Condensation", "Precipitation", "Transpiration"],
+            "answer": "Evaporation"
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "complexity": "Hard",
+        "questions": [
+          {
+            "id": 21,
+            "question": "Which of the following is the smallest unit of matter?",
+            "options": ["Molecule", "Atom", "Proton", "Electron"],
+            "answer": "Atom"
+          },
+          {
+            "id": 22,
+            "question": " All animals are warm-blooded.",
+            "options": ["True", "False"],
+            "answer": "False"
+          },
+          {
+            "id": 23,
+            "question": " The largest organ in the human body is the _____.",
+            "options": ["Skin", "Heart", "Lungs", "Liver"],
+            "answer": "Skin"
+          },
+          {
+            "id": 24,
+            "question": "Which of the following is a renewable source of energy?",
+            "options": ["Coal", "Natural Gas", "Solar Power", "Oil"],
+            "answer": "Solar Power"
+          },
+          {
+            "id": 25,
+            "question": "What is the atomic number of Oxygen?",
+            "options": ["6", "8", "10", "12"],
+            "answer": "8"
+          },
+          {
+            "id": 26,
+            "question": " Light travels faster in water than in air.",
+            "options": ["True", "False"],
+            "answer": "False"
+          },
+          {
+            "id": 27,
+            "question": "What gas makes up most of the Earth's atmosphere?",
+            "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+            "answer": "Nitrogen"
+          },
+          {
+            "id": 28,
+            "question": " A group of cells that work together to perform a specific function is called a _____.",
+            "options": ["Tissue", "Organ", "System", "Molecule"],
+            "answer": "Tissue"
+          },
+          {
+            "id": 29,
+            "question": " If you are working in a laboratory and accidentally spill a chemical on your skin, what is the first action you should take?",
+            "options": ["Wipe it off with a towel", "Rinse the area with water", "Call for help", "Rub it with alcohol"],
+            "answer": "Rinse the area with water"
+          },
+          {
+            "id": 30,
+            "question": "Which scientist is known for developing the theory of general relativity?",
+            "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Niels Bohr"],
+            "answer": "Albert Einstein"
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "complexity": "Very Hard",
+        "questions": [
+          {
+            "id": 31,
+            "question": "Which planet is known for having a ring system?",
+            "options": ["Venus", "Saturn", "Mars", "Jupiter"],
+            "answer": "Saturn"
+          },
+          {
+            "id": 32,
+            "question": " Humans have 206 bones in their body.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 33,
+            "question": " The most common element in the Earth's crust is _____.",
+            "options": ["Oxygen", "Silicon", "Iron", "Aluminum"],
+            "answer": "Oxygen"
+          },
+          {
+            "id": 34,
+            "question": "Which organ is responsible for pumping blood throughout the human body?",
+            "options": ["Heart", "Lungs", "Kidney", "Liver"],
+            "answer": "Heart"
+          },
+          {
+            "id": 35,
+            "question": "What is the process by which cells divide to form two identical daughter cells?",
+            "options": ["Mitosis", "Meiosis", "Fission", "Binary Fission"],
+            "answer": "Mitosis"
+          },
+          {
+            "id": 36,
+            "question": " The moon has no atmosphere.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 37,
+            "question": "What is the chemical formula for methane?",
+            "options": ["CH4", "CO2", "O2", "H2O"],
+            "answer": "CH4"
+          },
+          {
+            "id": 38,
+            "question": " The process of converting sunlight into energy by plants is called _____.",
+            "options": ["Photosynthesis", "Respiration", "Transpiration", "Fermentation"],
+            "answer": "Photosynthesis"
+          },
+          {
+            "id": 39,
+            "question": " If you are stuck in a high-altitude environment, what is the immediate health risk?",
+            "options": ["Dehydration", "Hypothermia", "Oxygen deprivation", "Malnutrition"],
+            "answer": "Oxygen deprivation"
+          },
+          {
+            "id": 40,
+            "question": "Which is the most abundant gas in Earth's atmosphere?",
+            "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Argon"],
+            "answer": "Nitrogen"
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "complexity": "Expert",
+        "questions": [
+          {
+            "id": 41,
+            "question": "Which of the following is an example of a noble gas?",
+            "options": ["Oxygen", "Nitrogen", "Helium", "Hydrogen"],
+            "answer": "Helium"
+          },
+          {
+            "id": 42,
+            "question": " The speed of light in a vacuum is approximately 299,792 kilometers per second.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 43,
+            "question": " The study of heredity is called _____.",
+            "options": ["Genetics", "Evolution", "Ecology", "Biology"],
+            "answer": "Genetics"
+          },
+          {
+            "id": 44,
+            "question": "Which branch of science studies the physical properties of the Earth?",
+            "options": ["Geology", "Chemistry", "Astronomy", "Biology"],
+            "answer": "Geology"
+          },
+          {
+            "id": 45,
+            "question": "What is the name of the force that keeps planets in orbit around the Sun?",
+            "options": ["Gravitational force", "Electromagnetic force", "Nuclear force", "Centripetal force"],
+            "answer": "Gravitational force"
+          },
+          {
+            "id": 46,
+            "question": " DNA and RNA both play a role in protein synthesis.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 47,
+            "question": "Which type of rock is formed from cooled magma or lava?",
+            "options": ["Igneous", "Sedimentary", "Metamorphic", "Carbonate"],
+            "answer": "Igneous"
+          },
+          {
+            "id": 48,
+            "question": " The Earth's atmosphere is composed of approximately 78% _____.",
+            "options": ["Nitrogen", "Oxygen", "Carbon Dioxide", "Argon"],
+            "answer": "Nitrogen"
+          },
+          {
+            "id": 49,
+            "question": " If a spacecraft travels beyond Earth's gravitational pull, what will it experience?",
+            "options": ["Zero gravity", "Increased gravitational force", "High temperature", "Low oxygen"],
+            "answer": "Zero gravity"
+          },
+          {
+            "id": 50,
+            "question": "What is the law that states energy cannot be created or destroyed, only transformed?",
+            "options": ["Newton's Law", "Conservation of Energy", "Thermodynamics Law", "Law of Motion"],
+            "answer": "Conservation of Energy"
+          }
+        ]
+      },
+      
+          {
+            "level": 6,
+            "complexity": "Advanced",
+            "questions": [
+              {
+                "id": 51,
+                "question": "Which element has the highest atomic number in the periodic table?",
+                "options": ["Uranium", "Oganesson", "Neptunium", "Plutonium"],
+                "answer": "Oganesson"
+              },
+              {
+                "id": 52,
+                "question": " The human body has more bacterial cells than human cells.",
+                "options": ["True", "False"],
+                "answer": "True"
+              },
+              {
+                "id": 53,
+                "question": " The branch of science that deals with the study of stars and planets is called _____.",
+                "options": ["Astrophysics", "Astronomy", "Geology", "Meteorology"],
+                "answer": "Astronomy"
+              },
+              {
+                "id": 54,
+                "question": "Which of the following particles is not found in the nucleus of an atom?",
+                "options": ["Proton", "Neutron", "Electron", "All of the above"],
+                "answer": "Electron"
+              },
+              {
+                "id": 55,
+                "question": "What is the process by which plants lose water through their leaves called?",
+                "options": ["Evaporation", "Transpiration", "Condensation", "Precipitation"],
+                "answer": "Transpiration"
+              },
+              {
+                "id": 56,
+                "question": " Sound can travel through a vacuum.",
+                "options": ["True", "False"],
+                "answer": "False"
+              },
+              {
+                "id": 57,
+                "question": "Which of these is an example of an acid?",
+                "options": ["Sodium hydroxide", "Hydrochloric acid", "Sodium chloride", "Ammonia"],
+                "answer": "Hydrochloric acid"
+              },
+              {
+                "id": 58,
+                "question": " The part of the brain responsible for voluntary movements is called the _____.",
+                "options": ["Cerebellum", "Medulla", "Cerebrum", "Hypothalamus"],
+                "answer": "Cerebrum"
+              },
+              {
+                "id": 59,
+                "question": " If an astronaut goes on a spacewalk outside the International Space Station, they would need to wear a special suit. What is the primary reason for wearing this suit?",
+                "options": ["To protect against harmful UV radiation", "To maintain body temperature", "To provide oxygen", "All of the above"],
+                "answer": "All of the above"
+              },
+              {
+                "id": 60,
+                "question": "Which chemical element is essential for the formation of thyroid hormones?",
+                "options": ["Iodine", "Iron", "Calcium", "Magnesium"],
+                "answer": "Iodine"
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "complexity": "Expert",
+            "questions": [
+              {
+                "id": 61,
+                "question": "What is the term for the transfer of heat in a fluid (liquid or gas) through the movement of the fluid itself?",
+                "options": ["Conduction", "Convection", "Radiation", "Insulation"],
+                "answer": "Convection"
+              },
+              {
+                "id": 62,
+                "question": " The only element that is a liquid at room temperature is Mercury.",
+                "options": ["True", "False"],
+                "answer": "True"
+              },
+              {
+                "id": 63,
+                "question": " The process by which light bends as it passes through different mediums is called _____.",
+                "options": ["Refraction", "Reflection", "Diffraction", "Absorption"],
+                "answer": "Refraction"
+              },
+              {
+                "id": 64,
+                "question": "What is the primary component of the Earth's atmosphere that protects us from harmful UV rays?",
+                "options": ["Ozone", "Oxygen", "Carbon Dioxide", "Nitrogen"],
+                "answer": "Ozone"
+              },
+              {
+                "id": 65,
+                "question": "Which of the following elements is a noble gas?",
+                "options": ["Argon", "Oxygen", "Carbon", "Hydrogen"],
+                "answer": "Argon"
+              },
+              {
+                "id": 66,
+                "question": " A black hole has infinite mass and zero volume.",
+                "options": ["True", "False"],
+                "answer": "True"
+              },
+              {
+                "id": 67,
+                "question": "Which type of radiation has the highest energy?",
+                "options": ["Gamma rays", "X-rays", "UV rays", "Infrared radiation"],
+                "answer": "Gamma rays"
+              },
+              {
+                "id": 68,
+                "question": " The process of nuclear fusion primarily occurs in the _____.",
+                "options": ["Sun", "Earth", "Moon", "Mars"],
+                "answer": "Sun"
+              },
+              {
+                "id": 69,
+                "question": " If a person is exposed to high altitudes for an extended period of time, what might they experience?",
+                "options": ["Shortness of breath", "Increased oxygen supply", "Higher body temperature", "Improved lung function"],
+                "answer": "Shortness of breath"
+              },
+              {
+                "id": 70,
+                "question": "What is the name of the closest galaxy to the Milky Way?",
+                "options": ["Andromeda Galaxy", "Triangulum Galaxy", "Whirlpool Galaxy", "Sombrero Galaxy"],
+                "answer": "Andromeda Galaxy"
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "complexity": "Very Expert",
+            "questions": [
+              {
+                "id": 71,
+                "question": "Which type of quantum particle is involved in the weak nuclear force?",
+                "options": ["Neutrinos", "Electrons", "Quarks", "Photons"],
+                "answer": "Neutrinos"
+              },
+              {
+                "id": 72,
+                "question": " The force of gravity can be measured in units called Joules.",
+                "options": ["True", "False"],
+                "answer": "False"
+              },
+              {
+                "id": 73,
+                "question": " The smallest unit of an element that retains its chemical properties is called an _____.",
+                "options": ["Atom", "Ion", "Molecule", "Electron"],
+                "answer": "Atom"
+              },
+              {
+                "id": 74,
+                "question": "Which type of electromagnetic wave has the longest wavelength?",
+                "options": ["Radio waves", "Microwaves", "Infrared", "X-rays"],
+                "answer": "Radio waves"
+              },
+              {
+                "id": 75,
+                "question": "What is the name of the process that forms new oceanic crust at mid-ocean ridges?",
+                "options": ["Subduction", "Convection", "Seafloor spreading", "Plate tectonics"],
+                "answer": "Seafloor spreading"
+              },
+              {
+                "id": 76,
+                "question": " The surface temperature of Venus is hotter than that of Mercury, despite being farther from the Sun.",
+                "options": ["True", "False"],
+                "answer": "True"
+              },
+              {
+                "id": 77,
+                "question": "What type of bond forms when two atoms share electrons?",
+                "options": ["Ionic bond", "Covalent bond", "Hydrogen bond", "Metallic bond"],
+                "answer": "Covalent bond"
+              },
+              {
+                "id": 78,
+                "question": " The process of cell division that produces gametes is called _____.",
+                "options": ["Mitosis", "Meiosis", "Fission", "Binary fission"],
+                "answer": "Meiosis"
+              },
+              {
+                "id": 79,
+                "question": " If you are conducting a lab experiment using a strong acid, what is the first safety measure you should take?",
+                "options": ["Wear goggles and gloves", "Use a fume hood", "Read the safety data sheet", "All of the above"],
+                "answer": "All of the above"
+              },
+              {
+                "id": 80,
+                "question": "Which famous scientist developed the theory of general relativity?",
+                "options": ["Isaac Newton", "Albert Einstein", "Niels Bohr", "Galileo Galilei"],
+                "answer": "Albert Einstein"
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "complexity": "Highly Expert",
+            "questions": [
+              {
+                "id": 81,
+                "question": "Which element is responsible for the green color in plants?",
+                "options": ["Chlorophyll", "Carotenoids", "Anthocyanins", "Lignin"],
+                "answer": "Chlorophyll"
+              },
+              {
+                "id": 82,
+                "question": " Black holes can be detected by their gravitational waves.",
+                "options": ["True", "False"],
+                "answer": "True"
+              },
+              {
+                "id": 83,
+                "question": " The Earth's core is primarily composed of _____.",
+                "options": ["Iron and Nickel", "Oxygen and Silicon", "Carbon and Hydrogen", "Magnesium and Aluminum"],
+                "answer": "Iron and Nickel"
+              },
+              {
+                "id": 84,
+                "question": "What is the concept of 'dark matter' in modern physics?",
+                "options": ["Matter that emits light", "Invisible matter that does not interact with light", "A form of antimatter", "Matter created by black holes"],
+                "answer": "Invisible matter that does not interact with light"
+              },
+              {
+                "id": 85,
+                "question": "Which of the following principles explains why objects fall towards the Earth?",
+                "options": ["Gravitational pull", "Centrifugal force", "Electromagnetic force", "Newton's Third Law"],
+                "answer": "Gravitational pull"
+              },
+              {
+                "id": 86,
+                "question": " A chemical reaction that absorbs heat is called exothermic.",
+                "options": ["True", "False"],
+                "answer": "False"
+              },
+              {
+                "id": 87,
+                "question": "What is the term for the time it takes for half of a sample of a radioactive isotope to decay?",
+                "options": ["Half-life", "Decay period", "Radioactive constant", "Decay time"],
+                "answer": "Half-life"
+              },
+              {
+                "id": 88,
+                "question": " The process of water moving through plants and into the atmosphere is called _____.",
+                "options": ["Transpiration", "Evaporation", "Condensation", "Precipitation"],
+                "answer": "Transpiration"
+              },
+              {
+                "id": 89,
+                "question": " If a person is exposed to high levels of radiation, what is the primary risk?",
+                "options": ["Cancer", "Fever", "Dizziness", "Cold sensitivity"],
+                "answer": "Cancer"
+              },
+              {
+                "id": 90,
+                "question": "Which of the following laws states that energy cannot be created or destroyed, only converted from one form to another?",
+                "options": ["Conservation of energy", "Laws of motion", "Newton's law", "Thermodynamics"],
+                "answer": "Conservation of energy"
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "complexity": "Mastery",
+            "questions": [
+              {
+                "id": 91,
+                "question": "What is the current theory explaining the expansion of the universe?",
+                "options": ["Big Bang Theory", "Steady State Theory", "String Theory", "Quantum Theory"],
+                "answer": "Big Bang Theory"
+              },
+              {
+                "id": 92,
+                "question": " Quantum mechanics allows for the possibility of objects being in multiple states at once.",
+                "options": ["True", "False"],
+                "answer": "True"
+              },
+              {
+                "id": 93,
+                "question": " The type of bond formed by the sharing of electron pairs between atoms is known as _____.",
+                "options": ["Covalent bond", "Ionic bond", "Metallic bond", "Hydrogen bond"],
+                "answer": "Covalent bond"
+              },
+              {
+                "id": 94,
+                "question": "What is the name of the force that opposes the motion of an object through a fluid?",
+                "options": ["Gravity", "Friction", "Drag", "Inertia"],
+                "answer": "Drag"
+              },
+              {
+                "id": 95,
+                "question": "Which element is most abundant in the universe?",
+                "options": ["Hydrogen", "Oxygen", "Helium", "Carbon"],
+                "answer": "Hydrogen"
+              },
+              {
+                "id": 96,
+                "question": " The human genome consists of approximately 3 billion base pairs of DNA.",
+                "options": ["True", "False"],
+                "answer": "True"
+              },
+              {
+                "id": 97,
+                "question": "What is the term for the phenomenon where light bends around corners or obstacles?",
+                "options": ["Refraction", "Reflection", "Diffraction", "Absorption"],
+                "answer": "Diffraction"
+              },
+              {
+                "id": 98,
+                "question": " The movement of Earth's tectonic plates is driven by _____.",
+                "options": ["Mantle convection", "Gravitational pull", "Solar radiation", "Earth's rotation"],
+                "answer": "Mantle convection"
+              },
+              {
+                "id": 99,
+                "question": " If you are at a high altitude, which physiological change is most likely?",
+                "options": ["Increased red blood cell count", "Lower blood pressure", "Decreased oxygen saturation", "Increased heart rate"],
+                "answer": "Increased red blood cell count"
+              },
+              {
+                "id": 100,
+                "question": "Which scientist developed the uncertainty principle, a fundamental concept in quantum mechanics?",
+                "options": ["Albert Einstein", "Werner Heisenberg", "Max Planck", "Niels Bohr"],
+                "answer": "Werner Heisenberg"
+              }
+            ]
+          }
+      
+    ]
+  }
+  

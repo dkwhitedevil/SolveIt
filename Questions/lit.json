@@ -1,0 +1,649 @@
+{
+    "category": "Literature",
+    "levels": [
+      {
+        "level": 1,
+        "complexity": "Easy",
+        "questions": [
+          {
+            "id": 1,
+            "question": "Who wrote 'Romeo and Juliet'?",
+            "options": ["William Shakespeare", "Charles Dickens", "Jane Austen", "George Orwell"],
+            "answer": "William Shakespeare"
+          },
+          {
+            "id": 2,
+            "question": "True or False: 'Moby-Dick' is a novel written by Mark Twain.",
+            "options": ["True", "False"],
+            "answer": "False"
+          },
+          {
+            "id": 3,
+            "question": "Which of the following novels is written by F. Scott Fitzgerald?",
+            "options": ["The Great Gatsby", "Pride and Prejudice", "1984", "To Kill a Mockingbird"],
+            "answer": "The Great Gatsby"
+          },
+          {
+            "id": 4,
+            "question": "Fill in the blank: The novel '_____ in the Rye' is written by J.D. Salinger.",
+            "answer": "Catcher"
+          },
+          {
+            "id": 5,
+            "question": "Which country is the author Gabriel García Márquez from?",
+            "options": ["Argentina", "Colombia", "Spain", "Mexico"],
+            "answer": "Colombia"
+          },
+          {
+            "id": 6,
+            "question": "True or False: 'The Odyssey' was written by Homer.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 7,
+            "question": "Where does the story of 'The Lord of the Rings' take place?",
+            "options": ["Middle-earth", "Narnia", "Hogwarts", "Wakanda"],
+            "answer": "Middle-earth"
+          },
+          {
+            "id": 8,
+            "question": "Which of the following characters is a famous detective created by Arthur Conan Doyle?",
+            "options": ["Sherlock Holmes", "Dracula", "Hercule Poirot", "Tom Sawyer"],
+            "answer": "Sherlock Holmes"
+          },
+          {
+            "id": 9,
+            "question": "Fill in the blank: The novel 'Pride and _______' was written by Jane Austen.",
+            "answer": "Prejudice"
+          },
+          {
+            "id": 10,
+            "question": "Scenario: You're reading a story where a young wizard attends a magical school. What book could this be?",
+            "options": ["Harry Potter and the Sorcerer's Stone", "The Hobbit", "Percy Jackson and the Olympians", "The Hunger Games"],
+            "answer": "Harry Potter and the Sorcerer's Stone"
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "complexity": "Medium",
+        "questions": [
+          {
+            "id": 11,
+            "question": "Who wrote the novel '1984'?",
+            "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "H.G. Wells"],
+            "answer": "George Orwell"
+          },
+          {
+            "id": 12,
+            "question": "True or False: 'The Catcher in the Rye' is considered a work of science fiction.",
+            "options": ["True", "False"],
+            "answer": "False"
+          },
+          {
+            "id": 13,
+            "question": "Which novel is set in the dystopian world of Panem?",
+            "options": ["The Hunger Games", "Divergent", "Maze Runner", "The Giver"],
+            "answer": "The Hunger Games"
+          },
+          {
+            "id": 14,
+            "question": "Fill in the blank: The famous poem 'The Raven' was written by ______.",
+            "answer": "Edgar Allan Poe"
+          },
+          {
+            "id": 15,
+            "question": "Which novel is based on the story of a young orphan girl named Jane Eyre?",
+            "options": ["Wuthering Heights", "Jane Eyre", "Great Expectations", "The Secret Garden"],
+            "answer": "Jane Eyre"
+          },
+          {
+            "id": 16,
+            "question": "True or False: 'Brave New World' was written by J.R.R. Tolkien.",
+            "options": ["True", "False"],
+            "answer": "False"
+          },
+          {
+            "id": 17,
+            "question": "Which character from 'The Chronicles of Narnia' is a lion?",
+            "options": ["Aslan", "Frodo", "Edmund", "Gollum"],
+            "answer": "Aslan"
+          },
+          {
+            "id": 18,
+            "question": "Fill in the blank: The famous line 'It was the best of times, it was the worst of times' is from ________ by Charles Dickens.",
+            "answer": "A Tale of Two Cities"
+          },
+          {
+            "id": 19,
+            "question": "Scenario: A young boy named Harry Potter attends a magical school. Which author wrote this series?",
+            "options": ["J.K. Rowling", "J.R.R. Tolkien", "C.S. Lewis", "George R.R. Martin"],
+            "answer": "J.K. Rowling"
+          },
+          {
+            "id": 20,
+            "question": "Which of the following is a tragedy written by William Shakespeare?",
+            "options": ["Macbeth", "A Midsummer Night's Dream", "Twelfth Night", "The Taming of the Shrew"],
+            "answer": "Macbeth"
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "complexity": "Hard",
+        "questions": [
+          {
+            "id": 21,
+            "question": "Who wrote 'The Divine Comedy'?",
+            "options": ["Dante Alighieri", "Geoffrey Chaucer", "Homer", "Virgil"],
+            "answer": "Dante Alighieri"
+          },
+          {
+            "id": 22,
+            "question": "True or False: The novel 'Frankenstein' was written by Mary Shelley.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 23,
+            "question": "Which of the following novels was written by Leo Tolstoy?",
+            "options": ["War and Peace", "Anna Karenina", "The Brothers Karamazov", "Crime and Punishment"],
+            "answer": "War and Peace"
+          },
+          {
+            "id": 24,
+            "question": "Fill in the blank: The poem 'Ozymandias' was written by ______.",
+            "answer": "Percy Bysshe Shelley"
+          },
+          {
+            "id": 25,
+            "question": "What is the name of the protagonist in the novel 'The Catcher in the Rye'?",
+            "options": ["Holden Caulfield", "Jay Gatsby", "Atticus Finch", "Hester Prynne"],
+            "answer": "Holden Caulfield"
+          },
+          {
+            "id": 26,
+            "question": "True or False: The play 'Macbeth' is one of the earliest works of William Shakespeare.",
+            "options": ["True", "False"],
+            "answer": "False"
+          },
+          {
+            "id": 27,
+            "question": "Where does the story of 'The Great Gatsby' take place?",
+            "options": ["New York", "Chicago", "California", "London"],
+            "answer": "New York"
+          },
+          {
+            "id": 28,
+            "question": "Fill in the blank: 'In the ______ of the night, when the moon was full' is a famous line from Edgar Allan Poe's work.",
+            "answer": "heart"
+          },
+          {
+            "id": 29,
+            "question": "Scenario: A group of friends find themselves in a dystopian world after a disaster. Which book series might this be?",
+            "options": ["The Hunger Games", "The Maze Runner", "The Walking Dead", "Divergent"],
+            "answer": "The Maze Runner"
+          },
+          {
+            "id": 30,
+            "question": "Which classic novel by Herman Melville tells the story of a man’s obsessive quest to hunt a white whale?",
+            "options": ["Moby-Dick", "The Odyssey", "Treasure Island", "The Old Man and the Sea"],
+            "answer": "Moby-Dick"
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "complexity": "Very Hard",
+        "questions": [
+          {
+            "id": 31,
+            "question": "Who wrote 'One Hundred Years of Solitude'?",
+            "options": ["Gabriel García Márquez", "Mario Vargas Llosa", "Julio Cortázar", "Carlos Fuentes"],
+            "answer": "Gabriel García Márquez"
+          },
+          {
+            "id": 32,
+            "question": "True or False: 'The Brothers Karamazov' was written by Fyodor Dostoevsky.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 33,
+            "question": "Which novel is set in the fictional land of Gilead?",
+            "options": ["The Handmaid's Tale", "Brave New World", "The Left Hand of Darkness", "The Dispossessed"],
+            "answer": "The Handmaid's Tale"
+          },
+          {
+            "id": 34,
+            "question": "Fill in the blank: The character 'Holden Caulfield' appears in 'The _______ in the Rye'.",
+            "answer": "Catcher"
+          },
+          {
+            "id": 35,
+            "question": "Who wrote the famous poem 'The Raven'?",
+            "options": ["Edgar Allan Poe", "William Blake", "John Keats", "Walt Whitman"],
+            "answer": "Edgar Allan Poe"
+          },
+          {
+            "id": 36,
+            "question": "True or False: 'Crime and Punishment' was written by Anton Chekhov.",
+            "options": ["True", "False"],
+            "answer": "False"
+          },
+          {
+            "id": 37,
+            "question": "Which of these books is by Jane Austen?",
+            "options": ["Emma", "Brave New World", "The Stranger", "Beloved"],
+            "answer": "Emma"
+          },
+          {
+            "id": 38,
+            "question": "Where does the novel 'The Picture of Dorian Gray' take place?",
+            "options": ["London", "Paris", "New York", "Rome"],
+            "answer": "London"
+          },
+          {
+            "id": 39,
+            "question": "Scenario: You find a book about a man stranded on an island after a shipwreck. Which classic work could this be?",
+            "options": ["Robinson Crusoe", "Swiss Family Robinson", "The Odyssey", "Treasure Island"],
+            "answer": "Robinson Crusoe"
+          },
+          {
+            "id": 40,
+            "question": "What is the name of the pirate in 'Treasure Island'?",
+            "options": ["Long John Silver", "Blackbeard", "Captain Hook", "Davy Jones"],
+            "answer": "Long John Silver"
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "complexity": "Expert",
+        "questions": [
+          {
+            "id": 41,
+            "question": "Which epic poem tells the story of Achilles and the Trojan War?",
+            "options": ["The Iliad", "The Aeneid", "The Odyssey", "Beowulf"],
+            "answer": "The Iliad"
+          },
+          {
+            "id": 42,
+            "question": "True or False: 'Les Misérables' was written by Victor Hugo.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 43,
+            "question": "Who is the author of 'The Master and Margarita'?",
+            "options": ["Mikhail Bulgakov", "Leo Tolstoy", "Fyodor Dostoevsky", "Anton Chekhov"],
+            "answer": "Mikhail Bulgakov"
+          },
+          {
+            "id": 44,
+            "question": "Fill in the blank: The novel '______ of the Baskervilles' is a famous Sherlock Holmes mystery.",
+            "answer": "The Hound"
+          },
+          {
+            "id": 45,
+            "question": "Which character from 'Wuthering Heights' is known for his passionate and obsessive love?",
+            "options": ["Heathcliff", "Edgar Linton", "Mr. Darcy", "John Watson"],
+            "answer": "Heathcliff"
+          },
+          {
+            "id": 46,
+            "question": "True or False: 'Dracula' is a novel written by Bram Stoker.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 47,
+            "question": "Who wrote 'The Brothers Karamazov'?",
+            "options": ["Fyodor Dostoevsky", "Anton Chekhov", "Leo Tolstoy", "Nikolai Gogol"],
+            "answer": "Fyodor Dostoevsky"
+          },
+          {
+            "id": 48,
+            "question": "Fill in the blank: The novel 'Frankenstein' is subtitled 'The ______ Prometheus'.",
+            "answer": "Modern"
+          },
+          {
+            "id": 49,
+            "question": "Scenario: A writer who has written about the corruption of the American Dream and the disillusionment of post-World War I society. Who could this author be?",
+            "options": ["F. Scott Fitzgerald", "Ernest Hemingway", "William Faulkner", "John Steinbeck"],
+            "answer": "F. Scott Fitzgerald"
+          },
+          {
+            "id": 50,
+            "question": "What is the title of the final book in the 'Lord of the Rings' trilogy?",
+            "options": ["The Return of the King", "The Two Towers", "The Fellowship of the Ring", "The Hobbit"],
+            "answer": "The Return of the King"
+          }
+        ]
+      },
+          {
+            "level": 6,
+            "complexity": "Advanced",
+            "questions": [
+              {
+                "id": 51,
+                "question": "Who is the author of 'The Sound and the Fury'?",
+                "options": ["William Faulkner", "F. Scott Fitzgerald", "Ernest Hemingway", "John Steinbeck"],
+                "answer": "William Faulkner"
+              },
+              {
+                "id": 52,
+                "question": "True or False: The novel 'One Hundred Years of Solitude' was written by Gabriel García Márquez.",
+                "options": ["True", "False"],
+                "answer": "True"
+              },
+              {
+                "id": 53,
+                "question": "Which of these novels is considered a classic of Russian literature?",
+                "options": ["War and Peace", "Crime and Punishment", "Anna Karenina", "All of the above"],
+                "answer": "All of the above"
+              },
+              {
+                "id": 54,
+                "question": "Fill in the blank: 'The _______ and the Fury' is a novel by William Faulkner.",
+                "answer": "Sound"
+              },
+              {
+                "id": 55,
+                "question": "Which of the following characters is a central figure in 'The Metamorphosis' by Franz Kafka?",
+                "options": ["Gregor Samsa", "Dr. Jekyll", "Gulliver", "Hester Prynne"],
+                "answer": "Gregor Samsa"
+              },
+              {
+                "id": 56,
+                "question": "True or False: The novel 'The Catcher in the Rye' takes place during World War II.",
+                "options": ["True", "False"],
+                "answer": "False"
+              },
+              {
+                "id": 57,
+                "question": "Which of the following authors is known for writing the 'A Song of Ice and Fire' series?",
+                "options": ["J.R.R. Tolkien", "George R.R. Martin", "C.S. Lewis", "J.K. Rowling"],
+                "answer": "George R.R. Martin"
+              },
+              {
+                "id": 58,
+                "question": "Fill in the blank: 'The ________ of the King' is the final book in the Lord of the Rings trilogy.",
+                "answer": "Return"
+              },
+              {
+                "id": 59,
+                "question": "Scenario: A young orphan raised by his aunt and uncle learns that he is a wizard and must battle the dark lord who killed his parents. Which book is this?",
+                "options": ["Harry Potter and the Sorcerer's Stone", "Percy Jackson and the Olympians", "The Hobbit", "The Chronicles of Narnia"],
+                "answer": "Harry Potter and the Sorcerer's Stone"
+              },
+              {
+                "id": 60,
+                "question": "What is the name of the magical world in 'The Chronicles of Narnia'?",
+                "options": ["Middle-Earth", "Narnia", "Oz", "Hogwarts"],
+                "answer": "Narnia"
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "complexity": "Expert",
+            "questions": [
+              {
+                "id": 61,
+                "question": "Who wrote 'The Trial'?",
+                "options": ["Franz Kafka", "Albert Camus", "Dostoevsky", "Victor Hugo"],
+                "answer": "Franz Kafka"
+              },
+              {
+                "id": 62,
+                "question": "True or False: 'The Brothers Karamazov' is a novel by Leo Tolstoy.",
+                "options": ["True", "False"],
+                "answer": "False"
+              },
+              {
+                "id": 63,
+                "question": "Which of these novels was written by James Joyce?",
+                "options": ["Ulysses", "The Great Gatsby", "The Picture of Dorian Gray", "The Grapes of Wrath"],
+                "answer": "Ulysses"
+              },
+              {
+                "id": 64,
+                "question": "Fill in the blank: The novel 'Brave New ______' was written by Aldous Huxley.",
+                "answer": "World"
+              },
+              {
+                "id": 65,
+                "question": "In which book does the character Holden Caulfield appear?",
+                "options": ["The Catcher in the Rye", "To Kill a Mockingbird", "The Great Gatsby", "Catch-22"],
+                "answer": "The Catcher in the Rye"
+              },
+              {
+                "id": 66,
+                "question": "True or False: The novel 'War and Peace' was set in the backdrop of World War II.",
+                "options": ["True", "False"],
+                "answer": "False"
+              },
+              {
+                "id": 67,
+                "question": "Who wrote 'The Old Man and the Sea'?",
+                "options": ["Ernest Hemingway", "John Steinbeck", "F. Scott Fitzgerald", "William Faulkner"],
+                "answer": "Ernest Hemingway"
+              },
+              {
+                "id": 68,
+                "question": "Which work of literature features the character of Ishmael, the narrator of the story?",
+                "options": ["Moby-Dick", "The Odyssey", "War and Peace", "The Catcher in the Rye"],
+                "answer": "Moby-Dick"
+              },
+              {
+                "id": 69,
+                "question": "Fill in the blank: The poem 'The Raven' was written by _______ Allan Poe.",
+                "answer": "Edgar"
+              },
+              {
+                "id": 70,
+                "question": "Scenario: A scientist's experiment goes wrong, turning a man into a monster. Which novel is this?",
+                "options": ["Frankenstein", "Dr. Jekyll and Mr. Hyde", "The Strange Case of Dr. Jekyll", "The Invisible Man"],
+                "answer": "Frankenstein"
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "complexity": "Advanced Expert",
+            "questions": [
+              {
+                "id": 71,
+                "question": "Which writer is known for creating the character of Sherlock Holmes?",
+                "options": ["Arthur Conan Doyle", "Agatha Christie", "Raymond Chandler", "Dashiell Hammett"],
+                "answer": "Arthur Conan Doyle"
+              },
+              {
+                "id": 72,
+                "question": "True or False: 'Catch-22' was written by Joseph Heller.",
+                "options": ["True", "False"],
+                "answer": "True"
+              },
+              {
+                "id": 73,
+                "question": "Which of these novels is known as a dark satire of Soviet life?",
+                "options": ["Animal Farm", "1984", "Brave New World", "The Handmaid's Tale"],
+                "answer": "Animal Farm"
+              },
+              {
+                "id": 74,
+                "question": "Fill in the blank: The famous novel 'Don Quixote' was written by _______ de Cervantes.",
+                "answer": "Miguel"
+              },
+              {
+                "id": 75,
+                "question": "Who wrote 'The Picture of Dorian Gray'?",
+                "options": ["Oscar Wilde", "Henry James", "Virginia Woolf", "Thomas Hardy"],
+                "answer": "Oscar Wilde"
+              },
+              {
+                "id": 76,
+                "question": "True or False: 'The Divine Comedy' was written by Geoffrey Chaucer.",
+                "options": ["True", "False"],
+                "answer": "False"
+              },
+              {
+                "id": 77,
+                "question": "Which of the following novels was written by Gabriel García Márquez?",
+                "options": ["One Hundred Years of Solitude", "The Alchemist", "The Sun Also Rises", "The Road"],
+                "answer": "One Hundred Years of Solitude"
+              },
+              {
+                "id": 78,
+                "question": "Fill in the blank: 'The _______ of the Baskervilles' is a famous Sherlock Holmes novel.",
+                "answer": "Hound"
+              },
+              {
+                "id": 79,
+                "question": "Scenario: A famous detective solves mysteries in Victorian London with the help of his companion, Dr. Watson. Who is the detective?",
+                "options": ["Sherlock Holmes", "Hercule Poirot", "Sam Spade", "Philip Marlowe"],
+                "answer": "Sherlock Holmes"
+              },
+              {
+                "id": 80,
+                "question": "Which poet wrote the epic 'Paradise Lost'?",
+                "options": ["John Milton", "William Blake", "Percy Bysshe Shelley", "T.S. Eliot"],
+                "answer": "John Milton"
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "complexity": "Master",
+            "questions": [
+              {
+                "id": 81,
+                "question": "Who wrote 'The Brothers Karamazov'?",
+                "options": ["Fyodor Dostoevsky", "Leo Tolstoy", "Anton Chekhov", "Vladimir Nabokov"],
+                "answer": "Fyodor Dostoevsky"
+              },
+              {
+                "id": 82,
+                "question": "True or False: The novel 'Crime and Punishment' is set in St. Petersburg, Russia.",
+                "options": ["True", "False"],
+                "answer": "True"
+              },
+              {
+                "id": 83,
+                "question": "Which of these works is part of the modernist literary movement?",
+                "options": ["Ulysses", "Pride and Prejudice", "War and Peace", "Wuthering Heights"],
+                "answer": "Ulysses"
+              },
+              {
+                "id": 84,
+                "question": "Fill in the blank: The novel 'To the Lighthouse' was written by _______ Woolf.",
+                "answer": "Virginia"
+              },
+              {
+                "id": 85,
+                "question": "Who wrote 'The Road'?",
+                "options": ["Cormac McCarthy", "Stephen King", "John Grisham", "Dan Brown"],
+                "answer": "Cormac McCarthy"
+              },
+              {
+                "id": 86,
+                "question": "True or False: 'Wuthering Heights' was written by Emily Brontë.",
+                "options": ["True", "False"],
+                "answer": "True"
+              },
+              {
+                "id": 87,
+                "question": "Which of these novels was written by William Faulkner?",
+                "options": ["The Sound and the Fury", "The Grapes of Wrath", "Of Mice and Men", "The Catcher in the Rye"],
+                "answer": "The Sound and the Fury"
+              },
+              {
+                "id": 88,
+                "question": "Fill in the blank: The character of 'Gollum' is from 'The Lord of the ________'.",
+                "answer": "Rings"
+              },
+              {
+                "id": 89,
+                "question": "Scenario: A tale of a poor, orphaned girl who later becomes a governess in a mysterious house. Which novel could this be?",
+                "options": ["Jane Eyre", "Wuthering Heights", "Rebecca", "The Secret Garden"],
+                "answer": "Jane Eyre"
+              },
+              {
+                "id": 90,
+                "question": "Who wrote 'The Grapes of Wrath'?",
+                "options": ["John Steinbeck", "F. Scott Fitzgerald", "Ernest Hemingway", "William Faulkner"],
+                "answer": "John Steinbeck"
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "complexity": "Genius",
+            "questions": [
+              {
+                "id": 91,
+                "question": "Who wrote 'Infinite Jest'?",
+                "options": ["David Foster Wallace", "Thomas Pynchon", "Don DeLillo", "John Barth"],
+                "answer": "David Foster Wallace"
+              },
+              {
+                "id": 92,
+                "question": "True or False: 'Blood Meridian' was written by Cormac McCarthy.",
+                "options": ["True", "False"],
+                "answer": "True"
+              },
+              {
+                "id": 93,
+                "question": "Which of these novels was written by Virginia Woolf?",
+                "options": ["Mrs. Dalloway", "The Bell Jar", "The Catcher in the Rye", "The Great Gatsby"],
+                "answer": "Mrs. Dalloway"
+              },
+              {
+                "id": 94,
+                "question": "Fill in the blank: 'Slaughterhouse-Five' was written by _______ Vonnegut.",
+                "answer": "Kurt"
+              },
+              {
+                "id": 95,
+                "question": "Who wrote 'The Master and Margarita'?",
+                "options": ["Mikhail Bulgakov", "Fyodor Dostoevsky", "Leo Tolstoy", "Anton Chekhov"],
+                "answer": "Mikhail Bulgakov"
+              },
+              {
+                "id": 96,
+                "question": "True or False: 'The Road' is a post-apocalyptic novel set in a barren world.",
+                "options": ["True", "False"],
+                "answer": "True"
+              },
+              {
+                "id": 97,
+                "question": "Which writer is best known for the 'Hunger Games' trilogy?",
+                "options": ["Suzanne Collins", "Veronica Roth", "J.K. Rowling", "Stephenie Meyer"],
+                "answer": "Suzanne Collins"
+              },
+              {
+                "id": 98,
+                "question": "Fill in the blank: 'The Book _______' is a bestselling novel by Markus Zusak.",
+                "answer": "Thief"
+              },
+              {
+                "id": 99,
+                "question": "Scenario: An author wrote a novel about the fate of a fictional African American family in the 1930s. Who is the author?",
+                "options": ["Toni Morrison", "Maya Angelou", "Alice Walker", "James Baldwin"],
+                "answer": "Toni Morrison"
+              },
+              {
+                "id": 100,
+                "question": "What is the title of the book by George Orwell that critiques totalitarian governments?",
+                "options": ["1984", "Brave New World", "The Handmaid's Tale", "Fahrenheit 451"],
+                "answer": "1984"
+              }
+            ]
+          }
+        ]
+      }
+      
+  
+  

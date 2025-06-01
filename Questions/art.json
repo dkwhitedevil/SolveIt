@@ -1,0 +1,665 @@
+{
+    "category": "Art and Culture",
+    "levels": [
+      {
+        "level": 1,
+        "complexity": "Easy",
+        "questions": [
+          {
+            "id": 1,
+            "question": "Who painted the Mona Lisa?",
+            "options": ["Leonardo da Vinci", "Vincent van Gogh", "Pablo Picasso", "Claude Monet"],
+            "answer": "Leonardo da Vinci"
+          },
+          {
+            "id": 2,
+            "question": "What is the famous art museum in Paris?",
+            "options": ["The Louvre", "The British Museum", "The Vatican Museums", "The Hermitage"],
+            "answer": "The Louvre"
+          },
+          {
+            "id": 3,
+            "question": "Who is the Greek god of the sun?",
+            "options": ["Apollo", "Zeus", "Hades", "Hermes"],
+            "answer": "Apollo"
+          },
+          {
+            "id": 4,
+            "question": "What is the name of the famous sculpture by Michelangelo in Italy?",
+            "options": ["David", "The Thinker", "Venus de Milo", "The Kiss"],
+            "answer": "David"
+          },
+          {
+            "id": 5,
+            "question": "Which of these is a type of classical dance from India?",
+            "options": ["Ballet", "Salsa", "Bharatanatyam", "Tap Dance"],
+            "answer": "Bharatanatyam"
+          },
+          {
+            "id": 6,
+            "question": "Which city is home to the famous statue of Christ the Redeemer?",
+            "options": ["Rio de Janeiro", "Buenos Aires", "Lima", "Mexico City"],
+            "answer": "Rio de Janeiro"
+          },
+          {
+            "id": 7,
+            "question": "Which famous musician is known as the King of Pop?",
+            "options": ["Elvis Presley", "Michael Jackson", "Prince", "Freddie Mercury"],
+            "answer": "Michael Jackson"
+          },
+          {
+            "id": 8,
+            "question": "Who is known as the 'Father of Modern Art'?",
+            "options": ["Pablo Picasso", "Claude Monet", "Vincent van Gogh", "Henri Matisse"],
+            "answer": "Pablo Picasso"
+          },
+          {
+            "id": 9,
+            "question": "Which famous art movement is associated with Salvador Dalí?",
+            "options": ["Surrealism", "Impressionism", "Cubism", "Expressionism"],
+            "answer": "Surrealism"
+          },
+          {
+            "id": 10,
+            "question": "Which famous play by William Shakespeare features the characters Romeo and Juliet?",
+            "options": ["Hamlet", "Macbeth", "A Midsummer Night's Dream", "Romeo and Juliet"],
+            "answer": "Romeo and Juliet"
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "complexity": "Medium",
+        "questions": [
+          {
+            "id": 11,
+            "question": "What is the name of the famous painting by Edvard Munch featuring a figure screaming?",
+            "options": ["The Scream", "The Persistence of Memory", "Starry Night", "Guernica"],
+            "answer": "The Scream"
+          },
+          {
+            "id": 12,
+            "question": "Which famous composer wrote 'The Four Seasons'?",
+            "options": ["Ludwig van Beethoven", "Johann Sebastian Bach", "Antonio Vivaldi", "Wolfgang Amadeus Mozart"],
+            "answer": "Antonio Vivaldi"
+          },
+          {
+            "id": 13,
+            "question": "What style of art is associated with artists like Pablo Picasso and Georges Braque?",
+            "options": ["Cubism", "Realism", "Baroque", "Impressionism"],
+            "answer": "Cubism"
+          },
+          {
+            "id": 14,
+            "question": "Which famous museum is located in New York City and is known for its vast collection of modern art?",
+            "options": ["The Metropolitan Museum of Art", "The Guggenheim", "The Museum of Modern Art", "The Louvre"],
+            "answer": "The Museum of Modern Art"
+          },
+          {
+            "id": 15,
+            "question": "Which 19th-century artist painted 'The Birth of Venus'?",
+            "options": ["Sandro Botticelli", "Leonardo da Vinci", "Michelangelo", "Raphael"],
+            "answer": "Sandro Botticelli"
+          },
+          {
+            "id": 16,
+            "question": "What type of dance is associated with Argentina and often performed to tango music?",
+            "options": ["Waltz", "Tango", "Salsa", "Flamenco"],
+            "answer": "Tango"
+          },
+          {
+            "id": 17,
+            "question": "Which famous French artist painted 'Water Lilies'?",
+            "options": ["Paul Cézanne", "Claude Monet", "Henri Matisse", "Edgar Degas"],
+            "answer": "Claude Monet"
+          },
+          {
+            "id": 18,
+            "question": "Which architectural landmark in India is considered a symbol of love?",
+            "options": ["Qutub Minar", "Red Fort", "Taj Mahal", "Gateway of India"],
+            "answer": "Taj Mahal"
+          },
+          {
+            "id": 19,
+            "question": "Which artist is famous for painting the ceiling of the Sistine Chapel?",
+            "options": ["Vincent van Gogh", "Claude Monet", "Michelangelo", "Raphael"],
+            "answer": "Michelangelo"
+          },
+          {
+            "id": 20,
+            "question": "What is the name of the famous abstract artist known for his works using bright colors and shapes?",
+            "options": ["Piet Mondrian", "Jackson Pollock", "Wassily Kandinsky", "Andy Warhol"],
+            "answer": "Wassily Kandinsky"
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "complexity": "Hard",
+        "questions": [
+          {
+            "id": 21,
+            "question": "Which famous artist is known for his 'Campbell's Soup Cans' artwork?",
+            "options": ["Andy Warhol", "Roy Lichtenstein", "Jackson Pollock", "Pablo Picasso"],
+            "answer": "Andy Warhol"
+          },
+          {
+            "id": 22,
+            "question": "In which country did the Impressionist art movement originate?",
+            "options": ["Italy", "France", "Germany", "United States"],
+            "answer": "France"
+          },
+          {
+            "id": 23,
+            "question": "What is the name of the famous 15th-century work by Leonardo da Vinci depicting the last meal of Jesus Christ?",
+            "options": ["The Last Supper", "The Birth of Venus", "The School of Athens", "The Creation of Adam"],
+            "answer": "The Last Supper"
+          },
+          {
+            "id": 24,
+            "question": "Who is considered the 'Father of Modern Architecture'?",
+            "options": ["Frank Lloyd Wright", "Le Corbusier", "Antoni Gaudí", "Zaha Hadid"],
+            "answer": "Le Corbusier"
+          },
+          {
+            "id": 25,
+            "question": "Which artist is famous for the 'Guernica' painting, depicting the horrors of war?",
+            "options": ["Salvador Dalí", "Pablo Picasso", "Henri Matisse", "Claude Monet"],
+            "answer": "Pablo Picasso"
+          },
+          {
+            "id": 26,
+            "question": "What is the name of the famous painting by Johannes Vermeer that depicts a young woman wearing a pearl earring?",
+            "options": ["The Girl with a Pearl Earring", "The Starry Night", "The Scream", "Mona Lisa"],
+            "answer": "The Girl with a Pearl Earring"
+          },
+          {
+            "id": 27,
+            "question": "Which architect is known for designing the Guggenheim Museum in New York City?",
+            "options": ["Frank Lloyd Wright", "Zaha Hadid", "I. M. Pei", "Antoni Gaudí"],
+            "answer": "Frank Lloyd Wright"
+          },
+          {
+            "id": 28,
+            "question": "Which famous opera composer wrote 'The Magic Flute'?",
+            "options": ["Ludwig van Beethoven", "Giuseppe Verdi", "Wolfgang Amadeus Mozart", "Richard Wagner"],
+            "answer": "Wolfgang Amadeus Mozart"
+          },
+          {
+            "id": 29,
+            "question": "What movement is associated with the artist Jackson Pollock?",
+            "options": ["Surrealism", "Abstract Expressionism", "Impressionism", "Cubism"],
+            "answer": "Abstract Expressionism"
+          },
+          {
+            "id": 30,
+            "question": "What famous museum is home to the statue of 'Venus de Milo'?",
+            "options": ["The British Museum", "The Louvre", "The Vatican Museums", "The Metropolitan Museum of Art"],
+            "answer": "The Louvre"
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "complexity": "Very Hard",
+        "questions": [
+          {
+            "id": 31,
+            "question": "Which artist is known for his 'Campbell's Soup Cans' artwork?",
+            "options": ["Andy Warhol", "Roy Lichtenstein", "Jackson Pollock", "Pablo Picasso"],
+            "answer": "Andy Warhol"
+          },
+          {
+            "id": 32,
+            "question": "What is the name of the famous artist who painted 'The Persistence of Memory'?",
+            "options": ["Salvador Dalí", "Pablo Picasso", "Vincent van Gogh", "Claude Monet"],
+            "answer": "Salvador Dalí"
+          },
+          {
+            "id": 33,
+            "question": "Which Italian artist is famous for the frescoes painted on the ceiling of the Sistine Chapel?",
+            "options": ["Leonardo da Vinci", "Raphael", "Michelangelo", "Caravaggio"],
+            "answer": "Michelangelo"
+          },
+          {
+            "id": 34,
+            "question": "What artist is known for creating the sculpture 'The Thinker'?",
+            "options": ["Auguste Rodin", "Henry Moore", "David Smith", "Constantin Brâncuși"],
+            "answer": "Auguste Rodin"
+          },
+          {
+            "id": 35,
+            "question": "Which artist is credited with founding the Abstract Expressionism movement?",
+            "options": ["Jackson Pollock", "Willem de Kooning", "Mark Rothko", "Andy Warhol"],
+            "answer": "Jackson Pollock"
+          },
+          {
+            "id": 36,
+            "question": "Who created the painting 'The School of Athens'?",
+            "options": ["Leonardo da Vinci", "Raphael", "Michelangelo", "Titian"],
+            "answer": "Raphael"
+          },
+          {
+            "id": 37,
+            "question": "What is the famous large-scale work by Pablo Picasso that depicts the bombing of Guernica?",
+            "options": ["Guernica", "The Old Guitarist", "Les Demoiselles d'Avignon", "The Weeping Woman"],
+            "answer": "Guernica"
+          },
+          {
+            "id": 38,
+            "question": "Which artist is known for painting 'The Birth of Venus'?",
+            "options": ["Sandro Botticelli", "Michelangelo", "Leonardo da Vinci", "Caravaggio"],
+            "answer": "Sandro Botticelli"
+          },
+          {
+            "id": 39,
+            "question": "Which modern art movement is associated with artists like Andy Warhol and Roy Lichtenstein?",
+            "options": ["Pop Art", "Dadaism", "Futurism", "Cubism"],
+            "answer": "Pop Art"
+          },
+          {
+            "id": 40,
+            "question": "Which famous French artist is known for his series of paintings of water lilies?",
+            "options": ["Claude Monet", "Paul Cézanne", "Henri Matisse", "Edgar Degas"],
+            "answer": "Claude Monet"
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "complexity": "Expert",
+        "questions": [
+          {
+            "id": 41,
+            "question": "What famous American artist is known for his 'drip paintings' and was a key figure in Abstract Expressionism?",
+            "options": ["Jackson Pollock", "Andy Warhol", "Robert Rauschenberg", "Willem de Kooning"],
+            "answer": "Jackson Pollock"
+          },
+          {
+            "id": 42,
+            "question": "Which 20th-century artist's work is associated with the 'pop art' movement and commercial culture?",
+            "options": ["Andy Warhol", "Roy Lichtenstein", "David Hockney", "Keith Haring"],
+            "answer": "Andy Warhol"
+          },
+          {
+            "id": 43,
+            "question": "Which sculptor is known for creating monumental public art, including the 'Cloud Gate' in Chicago?",
+            "options": ["Anish Kapoor", "Henry Moore", "Alexander Calder", "David Smith"],
+            "answer": "Anish Kapoor"
+          },
+          {
+            "id": 44,
+            "question": "Which artist is best known for creating the 'Hanging Gardens' in Babylon?",
+            "options": ["Homer", "Claude Monet", "Saddam Hussein", "The Babylonian Empire"],
+            "answer": "The Babylonian Empire"
+          },
+          {
+            "id": 45,
+            "question": "Who designed the famous 'Fallingwater' house in Pennsylvania?",
+            "options": ["Frank Lloyd Wright", "Le Corbusier", "Zaha Hadid", "I. M. Pei"],
+            "answer": "Frank Lloyd Wright"
+          },
+          {
+            "id": 46,
+            "question": "What artist is known for his series of 'Campbell’s Soup Cans' and his 'Marilyn Monroe' silkscreens?",
+            "options": ["Andy Warhol", "Roy Lichtenstein", "Pablo Picasso", "David Hockney"],
+            "answer": "Andy Warhol"
+          },
+          {
+            "id": 47,
+            "question": "Which artist painted 'Guernica' in response to the Spanish Civil War?",
+            "options": ["Pablo Picasso", "Salvador Dalí", "Marc Chagall", "Henri Matisse"],
+            "answer": "Pablo Picasso"
+          },
+          {
+            "id": 48,
+            "question": "What 1960s art movement was characterized by bold colors, commercial imagery, and the use of mass media?",
+            "options": ["Pop Art", "Dadaism", "Expressionism", "Surrealism"],
+            "answer": "Pop Art"
+          },
+          {
+            "id": 49,
+            "question": "Which artist is known for the iconic series of 'Campbell’s Soup Can' paintings?",
+            "options": ["Andy Warhol", "David Hockney", "Keith Haring", "Willem de Kooning"],
+            "answer": "Andy Warhol"
+          },
+          {
+            "id": 50,
+            "question": "Who painted 'The Last Supper' in the late 15th century?",
+            "options": ["Leonardo da Vinci", "Michelangelo", "Raphael", "Donatello"],
+            "answer": "Leonardo da Vinci"
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "complexity": "Master",
+        "questions": [
+          {
+            "id": 51,
+            "question": "Which famous Dutch painter is known for his painting 'The Night Watch'?",
+            "options": ["Rembrandt", "Vincent van Gogh", "Johannes Vermeer", "Pieter Bruegel"],
+            "answer": "Rembrandt"
+          },
+          {
+            "id": 52,
+            "question": "What architectural style is the 'Eiffel Tower' designed in?",
+            "options": ["Iron Architecture", "Art Nouveau", "Baroque", "Gothic"],
+            "answer": "Iron Architecture"
+          },
+          {
+            "id": 53,
+            "question": "Which Spanish artist is known for his surrealist works, particularly 'The Persistence of Memory'?",
+            "options": ["Salvador Dalí", "Pablo Picasso", "Diego Rivera", "Francisco Goya"],
+            "answer": "Salvador Dalí"
+          },
+          {
+            "id": 54,
+            "question": "Who painted the 'School of Athens' fresco in the Vatican?",
+            "options": ["Michelangelo", "Raphael", "Leonardo da Vinci", "Caravaggio"],
+            "answer": "Raphael"
+          },
+          {
+            "id": 55,
+            "question": "Who is considered the father of modern architecture, responsible for the design of the Villa Savoye?",
+            "options": ["Le Corbusier", "Frank Lloyd Wright", "I. M. Pei", "Antoni Gaudí"],
+            "answer": "Le Corbusier"
+          },
+          {
+            "id": 56,
+            "question": "Which artist’s work is often associated with the abstract geometric style known as neoplasticism?",
+            "options": ["Piet Mondrian", "Jackson Pollock", "Wassily Kandinsky", "Roy Lichtenstein"],
+            "answer": "Piet Mondrian"
+          },
+          {
+            "id": 57,
+            "question": "What 20th-century movement focused on the spontaneous expression of emotion and was popularized by Jackson Pollock?",
+            "options": ["Abstract Expressionism", "Pop Art", "Dadaism", "Cubism"],
+            "answer": "Abstract Expressionism"
+          },
+          {
+            "id": 58,
+            "question": "Which sculptor is known for his use of abstract shapes and monumental sculptures like 'The Kiss'?",
+            "options": ["Constantin Brâncuși", "Henry Moore", "David Smith", "Alberto Giacometti"],
+            "answer": "Constantin Brâncuși"
+          },
+          {
+            "id": 59,
+            "question": "Which 20th-century painter is known for his colorful paintings of American life, such as 'American Gothic'?",
+            "options": ["Grant Wood", "Edward Hopper", "Georgia O'Keeffe", "Thomas Hart Benton"],
+            "answer": "Grant Wood"
+          },
+          {
+            "id": 60,
+            "question": "Who was the artist behind the 'Mona Lisa'?",
+            "options": ["Leonardo da Vinci", "Michelangelo", "Raphael", "Claude Monet"],
+            "answer": "Leonardo da Vinci"
+          }
+        ]
+      },
+      {
+        "level": 7,
+        "complexity": "Advanced",
+        "questions": [
+          {
+            "id": 61,
+            "question": "Which modern art movement is known for its focus on geometric shapes and abstraction?",
+            "options": ["Cubism", "Surrealism", "Abstract Expressionism", "Futurism"],
+            "answer": "Cubism"
+          },
+          {
+            "id": 62,
+            "question": "Which 20th-century Spanish artist was a leader in the Cubist movement?",
+            "options": ["Pablo Picasso", "Salvador Dalí", "Joan Miró", "Diego Rivera"],
+            "answer": "Pablo Picasso"
+          },
+          {
+            "id": 63,
+            "question": "Which early 20th-century artist was known for his abstract works and was associated with the Russian avant-garde movement?",
+            "options": ["Wassily Kandinsky", "Kazimir Malevich", "Piet Mondrian", "Jackson Pollock"],
+            "answer": "Wassily Kandinsky"
+          },
+          {
+            "id": 64,
+            "question": "Which Spanish surrealist artist painted 'The Great Masturbator'?",
+            "options": ["Salvador Dalí", "René Magritte", "Max Ernst", "Joan Miró"],
+            "answer": "Salvador Dalí"
+          },
+          {
+            "id": 65,
+            "question": "Which artist is famous for his series 'Marilyn Diptych' and his use of mass-produced objects?",
+            "options": ["Andy Warhol", "Roy Lichtenstein", "Robert Rauschenberg", "David Hockney"],
+            "answer": "Andy Warhol"
+          },
+          {
+            "id": 66,
+            "question": "Which famous modernist painter created works such as 'The Persistence of Memory' and 'The Sacrament of the Last Supper'?",
+            "options": ["Salvador Dalí", "Pablo Picasso", "Marc Chagall", "Henri Matisse"],
+            "answer": "Salvador Dalí"
+          },
+          {
+            "id": 67,
+            "question": "Which Italian artist is famous for painting the Sistine Chapel ceiling?",
+            "options": ["Michelangelo", "Leonardo da Vinci", "Raphael", "Caravaggio"],
+            "answer": "Michelangelo"
+          },
+          {
+            "id": 68,
+            "question": "Which 19th-century French artist was a leader in the Impressionist movement?",
+            "options": ["Claude Monet", "Pierre-Auguste Renoir", "Edgar Degas", "Camille Pissarro"],
+            "answer": "Claude Monet"
+          },
+          {
+            "id": 69,
+            "question": "Which architect is known for designing the Guggenheim Museum in New York City?",
+            "options": ["Frank Lloyd Wright", "I. M. Pei", "Zaha Hadid", "Renzo Piano"],
+            "answer": "Frank Lloyd Wright"
+          },
+          {
+            "id": 70,
+            "question": "Who painted the famous artwork 'Guernica' in 1937?",
+            "options": ["Pablo Picasso", "Vincent van Gogh", "Salvador Dalí", "Claude Monet"],
+            "answer": "Pablo Picasso"
+          }
+        ]
+      },
+      {
+        "level": 8,
+        "complexity": "Masterclass",
+        "questions": [
+          {
+            "id": 71,
+            "question": "Which artist is famous for creating the 'Water Lilies' series?",
+            "options": ["Claude Monet", "Edgar Degas", "Vincent van Gogh", "Paul Cézanne"],
+            "answer": "Claude Monet"
+          },
+          {
+            "id": 72,
+            "question": "Which Dutch painter is considered one of the greatest figures in the history of Western art and is known for 'The Night Watch'?",
+            "options": ["Rembrandt", "Johannes Vermeer", "Vincent van Gogh", "Frans Hals"],
+            "answer": "Rembrandt"
+          },
+          {
+            "id": 73,
+            "question": "Which artist was responsible for the development of the 'Futurism' movement?",
+            "options": ["Umberto Boccioni", "Pablo Picasso", "Giorgio de Chirico", "Marcel Duchamp"],
+            "answer": "Umberto Boccioni"
+          },
+          {
+            "id": 74,
+            "question": "Which modern artist is known for the series 'Campbell's Soup Cans' and his role in the Pop Art movement?",
+            "options": ["Andy Warhol", "Roy Lichtenstein", "Richard Hamilton", "Keith Haring"],
+            "answer": "Andy Warhol"
+          },
+          {
+            "id": 75,
+            "question": "Which German painter and printmaker is known for his woodcut works like 'The Apocalypse'?",
+            "options": ["Albrecht Dürer", "Hans Holbein the Younger", "Lucas Cranach", "Martin Schongauer"],
+            "answer": "Albrecht Dürer"
+          },
+          {
+            "id": 76,
+            "question": "Which artist is associated with the 'Dada' movement, known for his collage and readymade sculptures?",
+            "options": ["Marcel Duchamp", "Salvador Dalí", "Jackson Pollock", "Willem de Kooning"],
+            "answer": "Marcel Duchamp"
+          },
+          {
+            "id": 77,
+            "question": "Which artist painted 'The Birth of Venus'?",
+            "options": ["Sandro Botticelli", "Leonardo da Vinci", "Michelangelo", "Caravaggio"],
+            "answer": "Sandro Botticelli"
+          },
+          {
+            "id": 78,
+            "question": "Which artist is famous for the abstract works 'Composition VIII' and 'Victory Boogie Woogie'?",
+            "options": ["Piet Mondrian", "Wassily Kandinsky", "Kazimir Malevich", "Pablo Picasso"],
+            "answer": "Piet Mondrian"
+          },
+          {
+            "id": 79,
+            "question": "Which artist created the large-scale work 'Guernica' as a response to the Spanish Civil War?",
+            "options": ["Pablo Picasso", "Salvador Dalí", "Henri Matisse", "Marc Chagall"],
+            "answer": "Pablo Picasso"
+          },
+          {
+            "id": 80,
+            "question": "Which Italian sculptor is known for his works such as 'David' and 'Pietà'?",
+            "options": ["Michelangelo", "Donatello", "Gian Lorenzo Bernini", "Antonio Canova"],
+            "answer": "Michelangelo"
+          }
+        ]
+      },
+      {
+        "level": 9,
+        "complexity": "Supreme",
+        "questions": [
+          {
+            "id": 81,
+            "question": "Which sculptor is famous for creating the 'The Thinker' statue?",
+            "options": ["Auguste Rodin", "Alberto Giacometti", "Henry Moore", "Constantin Brâncuși"],
+            "answer": "Auguste Rodin"
+          },
+          {
+            "id": 82,
+            "question": "Which famous painter is known for creating 'The Night Watch'?",
+            "options": ["Rembrandt", "Vincent van Gogh", "Johannes Vermeer", "Claude Monet"],
+            "answer": "Rembrandt"
+          },
+          {
+            "id": 83,
+            "question": "Who is known as the 'Father of Modern Sculpture'?",
+            "options": ["Auguste Rodin", "Antoni Gaudí", "Henry Moore", "Gian Lorenzo Bernini"],
+            "answer": "Auguste Rodin"
+          },
+          {
+            "id": 84,
+            "question": "Which architect designed the Sydney Opera House?",
+            "options": ["Jørn Utzon", "Frank Lloyd Wright", "I. M. Pei", "Zaha Hadid"],
+            "answer": "Jørn Utzon"
+          },
+          {
+            "id": 85,
+            "question": "Which artist is known for his 'Water Lilies' series?",
+            "options": ["Claude Monet", "Paul Cézanne", "Vincent van Gogh", "Edgar Degas"],
+            "answer": "Claude Monet"
+          },
+          {
+            "id": 86,
+            "question": "Which famous American artist is known for his 'drip paintings' and his role in Abstract Expressionism?",
+            "options": ["Jackson Pollock", "Mark Rothko", "Willem de Kooning", "Robert Motherwell"],
+            "answer": "Jackson Pollock"
+          },
+          {
+            "id": 87,
+            "question": "Which artist is known for his use of 'found objects' and creating the 'readymade' art movement?",
+            "options": ["Marcel Duchamp", "Pablo Picasso", "Andy Warhol", "David Hockney"],
+            "answer": "Marcel Duchamp"
+          },
+          {
+            "id": 88,
+            "question": "Which painter is considered the founder of the Cubism movement?",
+            "options": ["Pablo Picasso", "Georges Braque", "Juan Gris", "Fernand Léger"],
+            "answer": "Pablo Picasso"
+          },
+          {
+            "id": 89,
+            "question": "Which artist is credited with creating the modern style of painting known as 'Abstract Expressionism'?",
+            "options": ["Jackson Pollock", "Willem de Kooning", "Mark Rothko", "Franz Kline"],
+            "answer": "Jackson Pollock"
+          },
+          {
+            "id": 90,
+            "question": "Which 19th-century painter is known for his works such as 'Starry Night' and 'Sunflowers'?",
+            "options": ["Vincent van Gogh", "Claude Monet", "Paul Gauguin", "Henri Matisse"],
+            "answer": "Vincent van Gogh"
+          }
+        ]
+      },
+      {
+        "level": 10,
+        "complexity": "Legendary",
+        "questions": [
+          {
+            "id": 91,
+            "question": "Which artist is known for pioneering the style of Surrealism?",
+            "options": ["Salvador Dalí", "Pablo Picasso", "Joan Miró", "Max Ernst"],
+            "answer": "Salvador Dalí"
+          },
+          {
+            "id": 92,
+            "question": "Which Italian architect and designer is known for his contribution to modernism, including the design of the Barcelona Pavilion?",
+            "options": ["Ludwig Mies van der Rohe", "Le Corbusier", "Frank Lloyd Wright", "Zaha Hadid"],
+            "answer": "Ludwig Mies van der Rohe"
+          },
+          {
+            "id": 93,
+            "question": "Which artist is known for his colorful works 'Campbell's Soup Can' and 'Marilyn Diptych'?",
+            "options": ["Andy Warhol", "Roy Lichtenstein", "Richard Hamilton", "Keith Haring"],
+            "answer": "Andy Warhol"
+          },
+          {
+            "id": 94,
+            "question": "Who is regarded as one of the greatest painters of the High Renaissance?",
+            "options": ["Leonardo da Vinci", "Michelangelo", "Raphael", "Donatello"],
+            "answer": "Leonardo da Vinci"
+          },
+          {
+            "id": 95,
+            "question": "Which famous artist painted the 'Guernica' in response to the Spanish Civil War?",
+            "options": ["Pablo Picasso", "Marc Chagall", "Salvador Dalí", "Henri Matisse"],
+            "answer": "Pablo Picasso"
+          },
+          {
+            "id": 96,
+            "question": "Which Spanish artist is known for his abstract works and influence on the development of Cubism?",
+            "options": ["Pablo Picasso", "Joan Miró", "Salvador Dalí", "Francisco Goya"],
+            "answer": "Pablo Picasso"
+          },
+          {
+            "id": 97,
+            "question": "Who was a key figure in the development of Cubism?",
+            "options": ["Pablo Picasso", "Wassily Kandinsky", "Paul Cézanne", "Georges Braque"],
+            "answer": "Pablo Picasso"
+          },
+          {
+            "id": 98,
+            "question": "Which Renaissance painter is famous for works such as 'The Birth of Venus'?",
+            "options": ["Sandro Botticelli", "Leonardo da Vinci", "Michelangelo", "Raphael"],
+            "answer": "Sandro Botticelli"
+          },
+          {
+            "id": 99,
+            "question": "Which artist was known for creating the 'Campbell’s Soup Can' series, helping define pop art?",
+            "options": ["Andy Warhol", "Roy Lichtenstein", "David Hockney", "Keith Haring"],
+            "answer": "Andy Warhol"
+          },
+          {
+            "id": 100,
+            "question": "Which French Impressionist painter is famous for his 'Water Lilies' series?",
+            "options": ["Claude Monet", "Pierre-Auguste Renoir", "Edgar Degas", "Camille Pissarro"],
+            "answer": "Claude Monet"
+          }
+        ]
+      }
+    ]
+  }

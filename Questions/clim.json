@@ -1,0 +1,667 @@
+{
+    "category": "Climate and Environment",
+    "levels": [
+      {
+        "level": 1,
+        "complexity": "Beginner",
+        "questions": [
+          {
+            "id": 1,
+            "question": "What is the primary cause of climate change?",
+            "options": ["Human activities such as burning fossil fuels", "Natural volcanic eruptions", "Sunspot cycles", "Ocean currents"],
+            "answer": "Human activities such as burning fossil fuels"
+          },
+          {
+            "id": 2,
+            "question": "What is the greenhouse effect?",
+            "options": ["The trapping of heat in the Earth's atmosphere by gases", "The process of water evaporating from oceans", "The reflection of sunlight from clouds", "The heat from volcanic eruptions"],
+            "answer": "The trapping of heat in the Earth's atmosphere by gases"
+          },
+          {
+            "id": 3,
+            "question": "Which gas is most responsible for global warming?",
+            "options": ["Carbon dioxide (CO2)", "Oxygen (O2)", "Methane (CH4)", "Nitrous oxide (N2O)"],
+            "answer": "Carbon dioxide (CO2)"
+          },
+          {
+            "id": 4,
+            "question": "What is deforestation?",
+            "options": ["The removal of trees from forests", "The planting of trees in urban areas", "The process of converting forests to agricultural land", "The prevention of forest fires"],
+            "answer": "The removal of trees from forests"
+          },
+          {
+            "id": 5,
+            "question": "What is an example of a renewable energy source?",
+            "options": ["Solar power", "Coal", "Natural gas", "Oil"],
+            "answer": "Solar power"
+          },
+          {
+            "id": 6,
+            "question": "What is the purpose of recycling?",
+            "options": ["To reduce waste and conserve resources", "To create more landfill space", "To increase energy consumption", "To decrease biodiversity"],
+            "answer": "To reduce waste and conserve resources"
+          },
+          {
+            "id": 7,
+            "question": "Which of the following is a consequence of global warming?",
+            "options": ["Rising sea levels", "More stable weather patterns", "Decreased temperature", "Reduced rainfall"],
+            "answer": "Rising sea levels"
+          },
+          {
+            "id": 8,
+            "question": "What is the ozone layer responsible for?",
+            "options": ["Protecting Earth from harmful ultraviolet (UV) radiation", "Trapping heat from the sun", "Creating greenhouse gases", "Regulating global temperatures"],
+            "answer": "Protecting Earth from harmful ultraviolet (UV) radiation"
+          },
+          {
+            "id": 9,
+            "question": "What is a carbon footprint?",
+            "options": ["The total amount of greenhouse gases emitted by human activities", "A method of calculating the number of trees planted", "The measurement of a person’s weight", "The total energy consumption of a country"],
+            "answer": "The total amount of greenhouse gases emitted by human activities"
+          },
+          {
+            "id": 10,
+            "question": "Which of the following is a non-renewable resource?",
+            "options": ["Coal", "Wind energy", "Biomass", "Solar energy"],
+            "answer": "Coal"
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "complexity": "Intermediate",
+        "questions": [
+          {
+            "id": 11,
+            "question": "Which human activity contributes the most to carbon emissions?",
+            "options": ["Burning fossil fuels for energy", "Recycling materials", "Planting trees", "Reducing waste"],
+            "answer": "Burning fossil fuels for energy"
+          },
+          {
+            "id": 12,
+            "question": "Which of the following is a direct consequence of ocean acidification?",
+            "options": ["Harming marine life, especially coral reefs", "Increasing the temperature of oceans", "Decreasing rainfall", "Melting glaciers"],
+            "answer": "Harming marine life, especially coral reefs"
+          },
+          {
+            "id": 13,
+            "question": "What is the Paris Agreement?",
+            "options": ["An international treaty to limit global temperature rise", "A global initiative to plant trees", "A law to regulate carbon emissions in the U.S.", "A treaty to stop deforestation"],
+            "answer": "An international treaty to limit global temperature rise"
+          },
+          {
+            "id": 14,
+            "question": "What is a carbon sink?",
+            "options": ["A natural or artificial reservoir that absorbs and stores carbon dioxide", "A machine that reduces emissions from cars", "A method to recycle plastics", "A device to capture solar energy"],
+            "answer": "A natural or artificial reservoir that absorbs and stores carbon dioxide"
+          },
+          {
+            "id": 15,
+            "question": "What is the main cause of sea level rise?",
+            "options": ["Melting glaciers and ice sheets", "Increased rainfall", "Wind patterns", "Water vapor in the atmosphere"],
+            "answer": "Melting glaciers and ice sheets"
+          },
+          {
+            "id": 16,
+            "question": "What is a major cause of habitat destruction?",
+            "options": ["Deforestation", "Energy conservation", "Wind energy", "Recycling"],
+            "answer": "Deforestation"
+          },
+          {
+            "id": 17,
+            "question": "Which renewable energy source is most commonly used for electricity generation?",
+            "options": ["Wind energy", "Natural gas", "Coal", "Oil"],
+            "answer": "Wind energy"
+          },
+          {
+            "id": 18,
+            "question": "Which of the following is a greenhouse gas?",
+            "options": ["Methane (CH4)", "Oxygen (O2)", "Nitrogen (N2)", "Argon (Ar)"],
+            "answer": "Methane (CH4)"
+          },
+          {
+            "id": 19,
+            "question": "What is 'sustainable development'?",
+            "options": ["Meeting the needs of the present without compromising the ability of future generations to meet their own needs", "Developing new technology to increase industrial growth", "Maximizing the use of natural resources", "Minimizing waste at all costs"],
+            "answer": "Meeting the needs of the present without compromising the ability of future generations to meet their own needs"
+          },
+          {
+            "id": 20,
+            "question": "What is the Kyoto Protocol?",
+            "options": ["An international agreement that sets targets for reducing greenhouse gas emissions", "A law to prevent ocean pollution", "An agreement to protect wildlife habitats", "A treaty to regulate waste management"],
+            "answer": "An international agreement that sets targets for reducing greenhouse gas emissions"
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "complexity": "Advanced",
+        "questions": [
+          {
+            "id": 21,
+            "question": "What is a 'carbon credit'?",
+            "options": ["A certificate that allows the holder to emit a certain amount of CO2", "A certificate for reducing carbon emissions", "A unit of energy produced from renewable sources", "A tax break for environmentally friendly businesses"],
+            "answer": "A certificate that allows the holder to emit a certain amount of CO2"
+          },
+          {
+            "id": 22,
+            "question": "What is 'greenwashing'?",
+            "options": ["Deceptive marketing to appear environmentally friendly", "A process of cleaning up polluted areas", "The creation of eco-friendly products", "A government regulation to reduce waste"],
+            "answer": "Deceptive marketing to appear environmentally friendly"
+          },
+          {
+            "id": 23,
+            "question": "What is 'geoengineering'?",
+            "options": ["Deliberate large-scale intervention in the Earth's climate system", "A method of recycling carbon emissions", "The process of planting trees to absorb CO2", "A system to monitor climate data"],
+            "answer": "Deliberate large-scale intervention in the Earth's climate system"
+          },
+          {
+            "id": 24,
+            "question": "Which of the following is a non-renewable resource used in energy production?",
+            "options": ["Natural gas", "Wind", "Solar", "Hydroelectric"],
+            "answer": "Natural gas"
+          },
+          {
+            "id": 25,
+            "question": "What is a major contributor to ocean pollution?",
+            "options": ["Plastic waste", "Wind energy", "Solar radiation", "Water evaporation"],
+            "answer": "Plastic waste"
+          },
+          {
+            "id": 26,
+            "question": "What is 'carbon capture and storage'?",
+            "options": ["The process of capturing CO2 emissions and storing them underground", "A method of recycling carbon from air pollution", "A technique to increase plant growth", "A process to clean up the oceans"],
+            "answer": "The process of capturing CO2 emissions and storing them underground"
+          },
+          {
+            "id": 27,
+            "question": "What is the significance of the Amazon Rainforest in climate regulation?",
+            "options": ["It acts as a major carbon sink and regulates global climate", "It produces the most CO2 emissions", "It increases the Earth’s temperature", "It filters harmful chemicals from the air"],
+            "answer": "It acts as a major carbon sink and regulates global climate"
+          },
+          {
+            "id": 28,
+            "question": "What is 'climate adaptation'?",
+            "options": ["Adjusting systems and practices to minimize climate change impacts", "Developing new greenhouse gases", "Increasing energy consumption to keep up with climate change", "Focusing on fossil fuel production"],
+            "answer": "Adjusting systems and practices to minimize climate change impacts"
+          },
+          {
+            "id": 29,
+            "question": "What is the main goal of reforestation?",
+            "options": ["To restore forests that have been depleted or destroyed", "To increase logging operations", "To build new urban areas", "To increase agricultural production"],
+            "answer": "To restore forests that have been depleted or destroyed"
+          },
+          {
+            "id": 30,
+            "question": "What is the term 'climate refugees'?",
+            "options": ["People who are forced to leave their homes due to climate-related events", "People who migrate to cities for better job opportunities", "People displaced by political conflicts", "People moving due to economic reasons"],
+            "answer": "People who are forced to leave their homes due to climate-related events"
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "complexity": "Expert",
+        "questions": [
+          {
+            "id": 31,
+            "question": "What is the role of the Intergovernmental Panel on Climate Change (IPCC)?",
+            "options": ["To provide scientific assessments on climate change", "To regulate emissions from industries", "To promote climate change skepticism", "To reduce deforestation worldwide"],
+            "answer": "To provide scientific assessments on climate change"
+          },
+          {
+            "id": 32,
+            "question": "What is the concept of 'sustainable agriculture'?",
+            "options": ["Farming methods that meet current needs without harming future generations", "Increasing crop production at any cost", "Farming without the use of pesticides", "Monoculture farming to increase efficiency"],
+            "answer": "Farming methods that meet current needs without harming future generations"
+          },
+          {
+            "id": 33,
+            "question": "Which of these renewable energy sources relies on the movement of air to generate power?",
+            "options": ["Wind energy", "Solar energy", "Geothermal energy", "Hydropower"],
+            "answer": "Wind energy"
+          },
+          {
+            "id": 34,
+            "question": "What is the concept of 'climate justice'?",
+            "options": ["The idea that those who are least responsible for climate change should not bear the greatest burden", "The idea that all countries should contribute equally to emissions", "The belief that climate change is a natural process", "The belief that all businesses should reduce their carbon footprint equally"],
+            "answer": "The idea that those who are least responsible for climate change should not bear the greatest burden"
+          },
+          {
+            "id": 35,
+            "question": "What is 'carbon neutrality'?",
+            "options": ["Achieving a balance between the amount of carbon emitted and the amount removed from the atmosphere", "Eliminating all carbon emissions", "Increased production of renewable energy", "Decreasing energy consumption across all sectors"],
+            "answer": "Achieving a balance between the amount of carbon emitted and the amount removed from the atmosphere"
+          },
+          {
+            "id": 36,
+            "question": "Which international agreement aims to limit global temperature rise to below 2°C above pre-industrial levels?",
+            "options": ["The Paris Agreement", "The Kyoto Protocol", "The Montreal Protocol", "The Copenhagen Accord"],
+            "answer": "The Paris Agreement"
+          },
+          {
+            "id": 37,
+            "question": "What is 'climate mitigation'?",
+            "options": ["Efforts to reduce or prevent the emission of greenhouse gases", "The process of adapting to climate change", "Increasing the resilience of natural habitats", "Increasing global population growth"],
+            "answer": "Efforts to reduce or prevent the emission of greenhouse gases"
+          },
+          {
+            "id": 38,
+            "question": "What is the relationship between biodiversity and climate change?",
+            "options": ["Biodiversity loss can exacerbate climate change by reducing the resilience of ecosystems", "Biodiversity and climate change are unrelated", "Biodiversity helps in reducing carbon emissions", "Climate change only affects human populations, not biodiversity"],
+            "answer": "Biodiversity loss can exacerbate climate change by reducing the resilience of ecosystems"
+          },
+          {
+            "id": 39,
+            "question": "What is a key driver of ocean acidification?",
+            "options": ["Increased CO2 emissions absorbed by oceans", "Decreased plastic waste in the ocean", "Increase in global temperature", "Reduction in marine life"],
+            "answer": "Increased CO2 emissions absorbed by oceans"
+          },
+          {
+            "id": 40,
+            "question": "What is the significance of the United Nations Framework Convention on Climate Change (UNFCCC)?",
+            "options": ["It is the international treaty to combat climate change", "It regulates the production of renewable energy", "It monitors deforestation levels worldwide", "It promotes the use of fossil fuels for development"],
+            "answer": "It is the international treaty to combat climate change"
+          }
+        ]
+      },
+      {
+        "category": "Climate and Environment",
+        "levels": [
+          {
+            "level": 5,
+            "complexity": "Intermediate",
+            "questions": [
+              {
+                "id": 41,
+                "question": "The ozone layer is primarily responsible for absorbing which type of radiation?",
+                "options": ["Ultraviolet", "Infrared", "X-rays", "Visible light"],
+                "answer": "Ultraviolet"
+              },
+              {
+                "id": 42,
+                "question": "True or False: Deforestation can contribute to the increase of greenhouse gases in the atmosphere.",
+                "options": ["True", "False"],
+                "answer": "True"
+              },
+              {
+                "id": 43,
+                "question": "How does planting trees help the environment?",
+                "options": ["Absorbing carbon dioxide", "Producing ozone", "Releasing methane", "Increasing temperatures"],
+                "answer": "Absorbing carbon dioxide"
+              },
+              {
+                "id": 44,
+                "question": "Which phenomenon results from the melting of polar ice caps?",
+                "options": ["Sea level rise", "Decrease in humidity", "Expansion of deserts", "Increase in ocean salinity"],
+                "answer": "Sea level rise"
+              },
+              {
+                "id": 45,
+                "question": "In what way do ocean currents influence global climate patterns?",
+                "options": ["By distributing heat around the Earth", "By controlling rainfall distribution", "By forming new clouds", "By absorbing sunlight"],
+                "answer": "By distributing heat around the Earth"
+              },
+              {
+                "id": 46,
+                "question": "Greenhouse gases are primarily responsible for trapping which kind of radiation in the Earth's atmosphere?",
+                "options": ["Infrared radiation", "X-rays", "Gamma rays", "Ultraviolet radiation"],
+                "answer": "Infrared radiation"
+              },
+              {
+                "id": 47,
+                "question": "The Paris Agreement, signed in 2015, aims to limit global temperature rise to how many degrees Celsius above pre-industrial levels?",
+                "options": ["1.5°C", "2°C", "3°C", "4°C"],
+                "answer": "1.5°C"
+              },
+              {
+                "id": 48,
+                "question": "True or False: Solar energy is a renewable resource.",
+                "options": ["True", "False"],
+                "answer": "True"
+              },
+              {
+                "id": 49,
+                "question": "Which of these is considered a direct consequence of acid rain?",
+                "options": ["Damage to aquatic ecosystems", "Reduction in soil fertility", "Corrosion of buildings", "All of the above"],
+                "answer": "All of the above"
+              },
+              {
+                "id": 50,
+                "question": "Increased emissions of carbon dioxide primarily come from which human activity?",
+                "options": ["Burning fossil fuels", "Planting trees", "Using wind energy", "Building solar farms"],
+                "answer": "Burning fossil fuels"
+              }
+            ]
+          },
+              {
+                "id": 51,
+                "question": "What is the primary cause of the depletion of the ozone layer?",
+                "options": ["Chlorofluorocarbons (CFCs)", "Carbon dioxide", "Nitrogen oxides", "Methane"],
+                "answer": "Chlorofluorocarbons (CFCs)"
+              },
+              {
+                "id": 52,
+                "question": "Which country is the largest emitter of carbon dioxide in the world as of 2023?",
+                "options": ["China", "United States", "India", "Russia"],
+                "answer": "China"
+              },
+              {
+                "id": 53,
+                "question": "Which greenhouse gas is released by livestock and contributes to global warming?",
+                "options": ["Methane", "Carbon dioxide", "Nitrous oxide", "Sulfur dioxide"],
+                "answer": "Methane"
+              },
+              {
+                "id": 54,
+                "question": "True or False: Climate change can lead to the extinction of some species due to habitat loss.",
+                "options": ["True", "False"],
+                "answer": "True"
+              },
+              {
+                "id": 55,
+                "question": "What is the effect of deforestation on the water cycle?",
+                "options": ["Decreases precipitation", "Increases humidity", "Reduces evaporation", "None of the above"],
+                "answer": "Decreases precipitation"
+              },
+              {
+                "id": 56,
+                "question": "The Great Barrier Reef, which is threatened by climate change, is located off the coast of which country?",
+                "options": ["Australia", "United States", "Brazil", "South Africa"],
+                "answer": "Australia"
+              },
+              {
+                "id": 57,
+                "question": "What role do wetlands play in combating climate change?",
+                "options": ["Absorbing carbon dioxide", "Releasing methane", "Increasing global temperatures", "Producing ozone"],
+                "answer": "Absorbing carbon dioxide"
+              },
+              {
+                "id": 58,
+                "question": "Which of the following is a major contributor to ocean acidification?",
+                "options": ["Carbon dioxide absorption by oceans", "Plastic pollution", "Oil spills", "Overfishing"],
+                "answer": "Carbon dioxide absorption by oceans"
+              },
+              {
+                "id": 59,
+                "question": "True or False: Green roofs help reduce urban heat islands by cooling the air.",
+                "options": ["True", "False"],
+                "answer": "True"
+              },
+              {
+                "id": 60,
+                "question": "What is the term for the gradual increase in the Earth's average surface temperature due to human activities?",
+                "options": ["Global warming", "Climate change", "Ocean acidification", "Ozone depletion"],
+                "answer": "Global warming"
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "complexity": "Expert",
+            "questions": [
+              {
+                "id": 61,
+                "question": "How does global warming affect the frequency and intensity of extreme weather events?",
+                "options": ["It increases both", "It decreases both", "It has no effect", "It increases the frequency but decreases the intensity"],
+                "answer": "It increases both"
+              },
+              {
+                "id": 62,
+                "question": "Which region is most vulnerable to rising sea levels?",
+                "options": ["Coastal regions", "Mountainous areas", "Deserts", "Polar regions"],
+                "answer": "Coastal regions"
+              },
+              {
+                "id": 63,
+                "question": "Which of the following is an example of a negative feedback loop in the context of climate change?",
+                "options": ["Increased cloud cover cooling the Earth", "Increased carbon dioxide causing more temperature rise", "Melting ice leading to more heat absorption", "Deforestation increasing carbon emissions"],
+                "answer": "Increased cloud cover cooling the Earth"
+              },
+              {
+                "id": 64,
+                "question": "True or False: Melting glaciers contribute to rising sea levels.",
+                "options": ["True", "False"],
+                "answer": "True"
+              },
+              {
+                "id": 65,
+                "question": "What is the term for the gradual increase in the acidity of the oceans due to carbon dioxide absorption?",
+                "options": ["Ocean acidification", "Coral bleaching", "Thermal expansion", "Eutrophication"],
+                "answer": "Ocean acidification"
+              },
+              {
+                "id": 66,
+                "question": "What is the Kyoto Protocol?",
+                "options": ["An international treaty on climate change", "A scientific model for climate prediction", "A national plan to reduce air pollution", "A technology for carbon capture and storage"],
+                "answer": "An international treaty on climate change"
+              },
+              {
+                "id": 67,
+                "question": "Which type of energy source is considered carbon-neutral?",
+                "options": ["Wind energy", "Coal", "Natural gas", "Oil"],
+                "answer": "Wind energy"
+              },
+              {
+                "id": 68,
+                "question": "True or False: The melting of permafrost can release large amounts of methane into the atmosphere.",
+                "options": ["True", "False"],
+                "answer": "True"
+              },
+              {
+                "id": 69,
+                "question": "What does the term 'carbon footprint' refer to?",
+                "options": ["The total amount of greenhouse gases emitted by human activities", "The total amount of carbon dioxide in the atmosphere", "The amount of carbon absorbed by forests", "The amount of carbon released from volcanoes"],
+                "answer": "The total amount of greenhouse gases emitted by human activities"
+              },
+              {
+                "id": 70,
+                "question": "Which international body monitors the progress of climate change mitigation efforts globally?",
+                "options": ["United Nations Framework Convention on Climate Change (UNFCCC)", "World Health Organization (WHO)", "International Monetary Fund (IMF)", "World Trade Organization (WTO)"],
+                "answer": "United Nations Framework Convention on Climate Change (UNFCCC)"
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "complexity": "Advanced Expert",
+            "questions": [
+              {
+                "id": 71,
+                "question": "Which greenhouse gas has the highest global warming potential per molecule?",
+                "options": ["Methane", "Carbon dioxide", "Nitrous oxide", "Ozone"],
+                "answer": "Methane"
+              },
+              {
+                "id": 72,
+                "question": "What is geoengineering?",
+                "options": ["Deliberate modification of the Earth's environment to counteract climate change", "A method of generating renewable energy", "A technique to reduce ocean pollution", "A type of environmental law"],
+                "answer": "Deliberate modification of the Earth's environment to counteract climate change"
+              },
+              {
+                "id": 73,
+                "question": "The term 'climate refugees' refers to people who are displaced due to which of the following?",
+                "options": ["Climate change", "War", "Famine", "Religious persecution"],
+                "answer": "Climate change"
+              },
+              {
+                "id": 74,
+                "question": "Which of the following is a technique used to capture and store carbon dioxide from the atmosphere?",
+                "options": ["Carbon capture and storage (CCS)", "Biofuels", "Hydropower", "Nuclear fusion"],
+                "answer": "Carbon capture and storage (CCS)"
+              },
+              {
+                "id": 75,
+                "question": "True or False: Carbon trading is a market-based approach to controlling pollution by providing economic incentives for reducing emissions.",
+                "options": ["True", "False"],
+                "answer": "True"
+              },
+              {
+                "id": 76,
+                "question": "Which country is the largest producer of solar energy?",
+                "options": ["China", "Germany", "United States", "India"],
+                "answer": "China"
+              },
+              {
+                "id": 77,
+                "question": "Which form of renewable energy has the potential to significantly reduce carbon emissions from transportation?",
+                "options": ["Electric vehicles powered by solar energy", "Biofuels", "Wind power", "Nuclear power"],
+                "answer": "Electric vehicles powered by solar energy"
+              },
+              {
+                "id": 78,
+                "question": "What is the most common method of measuring a region's carbon emissions?",
+                "options": ["Carbon intensity", "Carbon footprint", "Air quality index", "Ozone concentration"],
+                "answer": "Carbon footprint"
+              },
+              {
+                "id": 79,
+                "question": "What effect does deforestation have on local weather patterns?",
+                "options": ["It can lead to drier conditions", "It can increase rainfall", "It has no impact on weather patterns", "It can cool the local environment"],
+                "answer": "It can lead to drier conditions"
+              },
+              {
+                "id": 80,
+                "question": "The 'carbon budget' refers to what?",
+                "options": ["The allowable amount of carbon emissions to limit temperature rise to 1.5°C", "The total amount of carbon in the atmosphere", "The amount of carbon stored in forests", "The rate of global carbon emissions per year"],
+                "answer": "The allowable amount of carbon emissions to limit temperature rise to 1.5°C"
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "complexity": "Challenger",
+            "questions": [
+              {
+                "id": 81,
+                "question": "Which region is most at risk from the effects of melting ice sheets?",
+                "options": ["Coastal regions", "Mountain ranges", "Deserts", "Tropical rainforests"],
+                "answer": "Coastal regions"
+              },
+              {
+                "id": 82,
+                "question": "Which event is considered the largest emitter of greenhouse gases globally?",
+                "options": ["Burning fossil fuels", "Agriculture", "Waste management", "Deforestation"],
+                "answer": "Burning fossil fuels"
+              },
+              {
+                "id": 83,
+                "question": "True or False: The Earth's temperature is predicted to rise by over 3°C by the end of the century if current emissions continue.",
+                "options": ["True", "False"],
+                "answer": "True"
+              },
+              {
+                "id": 84,
+                "question": "How does the melting of polar ice contribute to climate change?",
+                "options": ["It reduces the Earth's ability to reflect sunlight", "It increases ocean salinity", "It causes more volcanic eruptions", "It increases the absorption of CO2 by oceans"],
+                "answer": "It reduces the Earth's ability to reflect sunlight"
+              },
+              {
+                "id": 85,
+                "question": "Which atmospheric layer contains the majority of the world's greenhouse gases?",
+                "options": ["Troposphere", "Stratosphere", "Mesosphere", "Exosphere"],
+                "answer": "Troposphere"
+              },
+              {
+                "id": 86,
+                "question": "What is the main objective of the 'Green New Deal' proposed in the United States?",
+                "options": ["To address climate change and economic inequality", "To reduce fossil fuel usage by 50%", "To eliminate the use of coal within 10 years", "To promote natural gas as a primary energy source"],
+                "answer": "To address climate change and economic inequality"
+              },
+              {
+                "id": 87,
+                "question": "What impact does climate change have on the oceans?",
+                "options": ["Rising sea levels", "Coral bleaching", "Ocean acidification", "All of the above"],
+                "answer": "All of the above"
+              },
+              {
+                "id": 88,
+                "question": "Which of the following is an example of a positive feedback loop in climate change?",
+                "options": ["Melting ice leading to more heat absorption", "Cloud cover cooling the Earth", "Increased plant growth absorbing more CO2", "Increased wind speeds reducing global temperatures"],
+                "answer": "Melting ice leading to more heat absorption"
+              },
+              {
+                "id": 89,
+                "question": "True or False: The effects of climate change are evenly distributed across the globe.",
+                "options": ["True", "False"],
+                "answer": "False"
+              },
+              {
+                "id": 90,
+                "question": "Which of the following countries has committed to reaching net-zero carbon emissions by 2050?",
+                "options": ["United Kingdom", "United States", "China", "India"],
+                "answer": "United Kingdom"
+              }
+            ]
+          },
+          {
+            "level": 10,
+            "complexity": "Master",
+            "questions": [
+              {
+                "id": 91,
+                "question": "Which of the following carbon removal methods involves injecting CO2 into deep ocean waters?",
+                "options": ["Ocean fertilization", "Afforestation", "Direct air capture", "Bioenergy with carbon capture and storage (BECCS)"],
+                "answer": "Ocean fertilization"
+              },
+              {
+                "id": 92,
+                "question": "What was the primary purpose of the 'Cap and Trade' system implemented in some countries?",
+                "options": ["To reduce overall emissions through market-based mechanisms", "To limit the production of carbon credits", "To control carbon dioxide levels in water bodies", "To fund climate research programs"],
+                "answer": "To reduce overall emissions through market-based mechanisms"
+              },
+              {
+                "id": 93,
+                "question": "Which of the following describes the 'Paris Agreement'?",
+                "options": ["An international treaty to limit global warming to below 2°C", "A protocol to end the use of fossil fuels by 2030", "A worldwide initiative to plant 1 trillion trees", "A policy to reduce the production of greenhouse gases by 50% by 2040"],
+                "answer": "An international treaty to limit global warming to below 2°C"
+              },
+              {
+                "id": 94,
+                "question": "True or False: Climate change has no significant impact on human health.",
+                "options": ["True", "False"],
+                "answer": "False"
+              },
+              {
+                "id": 95,
+                "question": "Which international body provides guidelines and reports related to climate science?",
+                "options": ["Intergovernmental Panel on Climate Change (IPCC)", "World Health Organization (WHO)", "United Nations Environment Programme (UNEP)", "World Bank"],
+                "answer": "Intergovernmental Panel on Climate Change (IPCC)"
+              },
+              {
+                "id": 96,
+                "question": "Which of the following renewable energy sources is considered the most reliable for providing consistent power?",
+                "options": ["Geothermal energy", "Solar energy", "Wind energy", "Hydropower"],
+                "answer": "Hydropower"
+              },
+              {
+                "id": 97,
+                "question": "What is the key difference between carbon capture and storage (CCS) and carbon dioxide removal (CDR)?",
+                "options": ["CCS captures emissions from industrial processes, while CDR removes CO2 from the atmosphere", "CCS is more expensive than CDR", "CCS is used in oceans, while CDR is used in the atmosphere", "CCS can only be used in plants, while CDR is only used for trees"],
+                "answer": "CCS captures emissions from industrial processes, while CDR removes CO2 from the atmosphere"
+              },
+              {
+                "id": 98,
+                "question": "How much would the global temperature increase if all countries met their current climate commitments by 2100?",
+                "options": ["2.7°C", "4.5°C", "1.5°C", "3.2°C"],
+                "answer": "2.7°C"
+              },
+              {
+                "id": 99,
+                "question": "Which of the following is not a direct result of climate change?",
+                "options": ["Increased frequency of extreme weather events", "Declining agricultural productivity", "Rising water levels in inland lakes", "Melting ice sheets in polar regions"],
+                "answer": "Rising water levels in inland lakes"
+              },
+              {
+                "id": 100,
+                "question": "What is a major challenge in the implementation of renewable energy sources globally?",
+                "options": ["Energy storage and reliability", "High operational costs", "Inadequate raw materials", "Insufficient demand for clean energy"],
+                "answer": "Energy storage and reliability"
+              }
+            ]
+          }
+        ]
+      }
+      
+  
+  

@@ -1,0 +1,716 @@
+{
+    "category": "Sports",
+    "levels": [
+      {
+        "level": 1,
+        "complexity": "Easy",
+        "questions": [
+          {
+            "id": 1,
+            "question": "What is the maximum number of overs a bowler can bowl in a T20 match?",
+            "options": ["4", "5", "6", "8"],
+            "answer": "4"
+          },
+          {
+            "id": 2,
+            "question": "Which country won the 2019 ICC Cricket World Cup?",
+            "options": ["India", "Australia", "England", "New Zealand"],
+            "answer": "England"
+          },
+          {
+            "id": 3,
+            "question": " A cricket match can end in a draw.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 4,
+            "question": "Where is the headquarters of the International Cricket Council (ICC)?",
+            "options": ["London", "Dubai", "Sydney", "New Delhi"],
+            "answer": "Dubai"
+          },
+          {
+            "id": 5,
+            "question": " The number of players in a standard cricket team is ____.",
+            "options": ["9", "10", "11", "12"],
+            "answer": "11"
+          },
+          {
+            "id": 6,
+            "question": "What is the main objective of a batsman in cricket?",
+            "options": ["To bowl the ball", "To score runs", "To field", "To get the opponent out"],
+            "answer": "To score runs"
+          },
+          {
+            "id": 7,
+            "question": "Which of the following is the correct order of the cricket playing positions? (Choose the correct sequence)",
+            "options": ["Batsman, Bowler, Fielder", "Bowler, Fielder, Batsman", "Batsman, Fielder, Bowler", "Fielder, Bowler, Batsman"],
+            "answer": "Batsman, Bowler, Fielder"
+          },
+          {
+            "id": 8,
+            "question": " A No Ball is counted as one of the six balls in an over.",
+            "options": ["True", "False"],
+            "answer": "False"
+          },
+          {
+            "id": 9,
+            "question": "Which of the following is a type of cricket shot?",
+            "options": ["Hook", "Bouncer", "Swing", "Overthrow"],
+            "answer": "Hook"
+          },
+          {
+            "id": 10,
+            "question": " In a T20 match, the batting team has scored 180 runs in 20 overs. The opponent needs 181 runs to win. What should the bowling team aim for?",
+            "options": [
+              "To score 181 runs",
+              "To restrict the batting team to fewer runs",
+              "To take as many wickets as possible",
+              "To allow the batting team to score freely"
+            ],
+            "answer": "To restrict the batting team to fewer runs"
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "complexity": "Intermediate",
+        "questions": [
+          {
+            "id": 11,
+            "question": "Which of the following players is known as the 'Master Blaster' of cricket?",
+            "options": ["Virat Kohli", "Shane Warne", "Sachin Tendulkar", "Chris Gayle"],
+            "answer": "Sachin Tendulkar"
+          },
+          {
+            "id": 12,
+            "question": " In cricket, a bowler can bowl more than one bouncer in an over.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 13,
+            "question": " A cricket match consists of ____ innings for each team.",
+            "options": ["1", "2", "3", "4"],
+            "answer": "2"
+          },
+          {
+            "id": 14,
+            "question": "What is the maximum number of overs allowed in a One Day International (ODI) match?",
+            "options": ["40", "50", "60", "70"],
+            "answer": "50"
+          },
+          {
+            "id": 15,
+            "question": "Where was the first-ever cricket World Cup held in 1975?",
+            "options": ["Australia", "India", "England", "New Zealand"],
+            "answer": "England"
+          },
+          {
+            "id": 16,
+            "question": " A batsman hits the ball and it goes into the air but lands within the boundary line. What type of score does the batsman get?",
+            "options": [
+              "1 run",
+              "2 runs",
+              "4 runs",
+              "6 runs"
+            ],
+            "answer": "4 runs"
+          },
+          {
+            "id": 17,
+            "question": "Which cricket format has a maximum of 20 overs per side?",
+            "options": ["Test Match", "T20", "ODI", "First-class"],
+            "answer": "T20"
+          },
+          {
+            "id": 18,
+            "question": "Who holds the record for the most runs in a single World Cup match?",
+            "options": ["Sachin Tendulkar", "Ricky Ponting", "Virat Kohli", "Gary Kirsten"],
+            "answer": "Gary Kirsten"
+          },
+          {
+            "id": 19,
+            "question": "Which of the following is NOT a type of dismissal in cricket?",
+            "options": ["Catch", "Run Out", "Offside", "Bowled"],
+            "answer": "Offside"
+          },
+          {
+            "id": 20,
+            "question": " The longest format of cricket is Test cricket.",
+            "options": ["True", "False"],
+            "answer": "True"
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "complexity": "Advanced",
+        "questions": [
+          {
+            "id": 21,
+            "question": "What is the record for the most runs scored by a player in a single ODI match?",
+            "options": ["189", "200", "264", "175"],
+            "answer": "264"
+          },
+          {
+            "id": 22,
+            "question": "Which bowler has the most wickets in Test cricket?",
+            "options": ["Muttiah Muralitharan", "Shane Warne", "James Anderson", "Wasim Akram"],
+            "answer": "Muttiah Muralitharan"
+          },
+          {
+            "id": 23,
+            "question": " A player can be run out by hitting the ball with their bat if the ball is in play.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 24,
+            "question": " A bowler delivers a ball with the intention of taking a wicket, this type of ball is called a ____.",
+            "options": ["Leg Break", "Yorker", "Delivery", "Wicket Ball"],
+            "answer": "Delivery"
+          },
+          {
+            "id": 25,
+            "question": "Which country holds the most ICC Champions Trophy titles?",
+            "options": ["India", "Australia", "England", "Pakistan"],
+            "answer": "India"
+          },
+          {
+            "id": 26,
+            "question": " During an international match, a batsman gets injured, and a substitute fielder comes in to take their place. What is this called?",
+            "options": [
+              "Fielding Substitution",
+              "Temporary Replacement",
+              "Player Substitution",
+              "Injury Replacement"
+            ],
+            "answer": "Injury Replacement"
+          },
+          {
+            "id": 27,
+            "question": "Where does the IPL (Indian Premier League) take place annually?",
+            "options": ["Australia", "India", "South Africa", "England"],
+            "answer": "India"
+          },
+          {
+            "id": 28,
+            "question": "Which cricketer was known as the 'Little Master'?",
+            "options": ["Sunil Gavaskar", "Brian Lara", "Virat Kohli", "Shane Warne"],
+            "answer": "Sunil Gavaskar"
+          },
+          {
+            "id": 29,
+            "question": "Which country won the ICC T20 World Cup in 2007?",
+            "options": ["India", "Pakistan", "England", "Sri Lanka"],
+            "answer": "India"
+          },
+          {
+            "id": 30,
+            "question": " A century is when a batsman scores 100 or more runs in an innings.",
+            "options": ["True", "False"],
+            "answer": "True"
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "complexity": "Expert",
+        "questions": [
+          {
+            "id": 31,
+            "question": "Who holds the record for the highest individual score in a Test match?",
+            "options": ["Donald Bradman", "Nathan Astle", "Brian Lara", "Virat Kohli"],
+            "answer": "Brian Lara"
+          },
+          {
+            "id": 32,
+            "question": " The Duckworth-Lewis method is used in limited overs cricket to calculate a target score in rain-affected matches.",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": 33,
+            "question": " A bowler who delivers the ball with a wrist spin is called a ____.",
+            "options": ["Off-spinner", "Leg-spinner", "Medium-fast", "Fast bowler"],
+            "answer": "Leg-spinner"
+          },
+          {
+            "id": 34,
+            "question": "Which cricketer is known for the most number of centuries in ODIs?",
+            "options": ["Sachin Tendulkar", "Ricky Ponting", "Virat Kohli", "Brian Lara"],
+            "answer": "Sachin Tendulkar"
+          },
+          {
+            "id": 35,
+            "question": "Where did the 2015 ICC Cricket World Cup final take place?",
+            "options": ["India", "Australia", "New Zealand", "South Africa"],
+            "answer": "Australia"
+          },
+          {
+            "id": 36,
+            "question": " A batsman is dismissed but leaves the field to attend an emergency. The team is allowed to continue their innings with a substitute for the injured player. What is this called?",
+            "options": [
+              "Substitute Fielding",
+              "Injury Replacement",
+              "Temporary Absence",
+              "Disqualification"
+            ],
+            "answer": "Injury Replacement"
+          },
+          {
+            "id": 37,
+            "question": "Which cricketer has the highest number of wickets in T20 internationals?",
+            "options": ["Shahid Afridi", "Lasith Malinga", "Dwayne Bravo", "Sunil Narine"],
+            "answer": "Shahid Afridi"
+          },
+          {
+            "id": 38,
+            "question": "Which cricket stadium is known as the 'Mecca of Cricket'?",
+            "options": ["Eden Gardens", "Lord's", "Melbourne Cricket Ground", "Wankhede Stadium"],
+            "answer": "Lord's"
+          },
+          {
+            "id": 39,
+            "question": "Who is the fastest bowler to reach 400 wickets in ODI cricket?",
+            "options": ["Shane Warne", "Muttiah Muralitharan", "Wasim Akram", "Waqar Younis"],
+            "answer": "Wasim Akram"
+          },
+          {
+            "id": 40,
+            "question": " The first-ever T20 international cricket match was played between Australia and New Zealand in 2005.",
+            "options": ["True", "False"],
+            "answer": "False"
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "complexity": "Master",
+        "questions": [
+          {
+            "id": 41,
+            "question": "What is the fastest delivery ever bowled in cricket?",
+            "options": ["161.3 km/h", "155.2 km/h", "160.0 km/h", "163.5 km/h"],
+            "answer": "161.3 km/h"
+          },
+          {
+            "id": 42,
+            "question": "Which cricketer has the highest batting average in Test cricket?",
+            "options": ["Sir Donald Bradman", "Virat Kohli", "Jacques Kallis", "Ricky Ponting"],
+            "answer": "Sir Donald Bradman"
+          },
+          {
+            "id": 43,
+            "question": " The first-ever T20 World Cup was played in 2009.",
+            "options": ["True", "False"],
+            "answer": "False"
+          },
+          {
+            "id": 44,
+            "question": " The highest score in a single innings in ODIs is ____ runs.",
+            "options": ["189", "264", "175", "200"],
+            "answer": "264"
+          },
+          {
+            "id": 45,
+            "question": "Who was the first cricketer to score a double century in a T20 international match?",
+            "options": ["Virat Kohli", "Chris Gayle", "Martin Guptill", "Shane Watson"],
+            "answer": "Chris Gayle"
+          },
+          {
+            "id": 46,
+            "question": "Where was the 2019 ICC Cricket World Cup final played?",
+            "options": ["Lord's", "Melbourne Cricket Ground", "Eden Gardens", "Wankhede Stadium"],
+            "answer": "Lord's"
+          },
+          {
+            "id": 47,
+            "question": " A bowler bowls a full toss and is caught by a fielder. Is this legal?",
+            "options": [
+              "Yes, as long as the ball is caught",
+              "No, a full toss is always a no ball",
+              "Yes, but only in Test matches",
+              "No, a full toss is never legal"
+            ],
+            "answer": "Yes, as long as the ball is caught"
+          },
+          {
+            "id": 48,
+            "question": "Which cricketer has the most runs in a single World Cup?",
+            "options": ["Sachin Tendulkar", "Ricky Ponting", "Brian Lara", "Virat Kohli"],
+            "answer": "Sachin Tendulkar"
+          },
+          {
+            "id": 49,
+            "question": "Who is the highest wicket-taker in ICC T20 World Cup history?",
+            "options": ["Shahid Afridi", "Lasith Malinga", "Dwayne Bravo", "Saeed Ajmal"],
+            "answer": "Shahid Afridi"
+          },
+          {
+            "id": 50,
+            "question": " A batsman is out if they hit the ball over the boundary line without the ball touching the ground.",
+            "options": ["True", "False"],
+            "answer": "True"
+          }
+        ]
+      },
+          {
+            "level": 6,
+            "complexity": "Expert Plus",
+            "questions": [
+              {
+                "id": 51,
+                "question": "What is the highest individual score in a T20 International match?",
+                "options": ["175", "180", "208", "156"],
+                "answer": "208"
+              },
+              {
+                "id": 52,
+                "question": "Which football club has won the most UEFA Champions League titles?",
+                "options": ["Real Madrid", "FC Barcelona", "AC Milan", "Bayern Munich"],
+                "answer": "Real Madrid"
+              },
+              {
+                "id": 53,
+                "question": " In basketball, the length of a regular NBA game is 48 minutes.",
+                "options": ["True", "False"],
+                "answer": "True"
+              },
+              {
+                "id": 54,
+                "question": " The Grand Slam in tennis refers to winning all four major ____ in a calendar year.",
+                "options": ["Tournaments", "Titles", "Matches", "Championships"],
+                "answer": "Tournaments"
+              },
+              {
+                "id": 55,
+                "question": "Where did the 2016 Summer Olympics take place?",
+                "options": ["London", "Beijing", "Rio de Janeiro", "Tokyo"],
+                "answer": "Rio de Janeiro"
+              },
+              {
+                "id": 56,
+                "question": " A football player receives a red card during a match. What does this mean?",
+                "options": [
+                  "They must leave the field for a specified time.",
+                  "They can return to the field after five minutes.",
+                  "They are sent off and cannot return to the match.",
+                  "They are substituted out."
+                ],
+                "answer": "They are sent off and cannot return to the match."
+              },
+              {
+                "id": 57,
+                "question": "Which rugby team won the 2019 Rugby World Cup?",
+                "options": ["South Africa", "New Zealand", "England", "Australia"],
+                "answer": "South Africa"
+              },
+              {
+                "id": 58,
+                "question": " A basketball player can be given a foul if they dribble the ball with both hands at once.",
+                "options": ["True", "False"],
+                "answer": "True"
+              },
+              {
+                "id": 59,
+                "question": "What is the maximum number of players a football team can have on the field during a match?",
+                "options": ["10", "11", "12", "14"],
+                "answer": "11"
+              },
+              {
+                "id": 60,
+                "question": "Which tennis player holds the record for the most Grand Slam singles titles?",
+                "options": ["Roger Federer", "Rafael Nadal", "Novak Djokovic", "Pete Sampras"],
+                "answer": "Margaret Court"
+              }
+            ]
+          },
+          {
+            "level": 7,
+            "complexity": "Master Plus",
+            "questions": [
+              {
+                "id": 61,
+                "question": "Which cricketer holds the record for the most wickets in Test cricket?",
+                "options": ["Muttiah Muralitharan", "Shane Warne", "James Anderson", "Wasim Akram"],
+                "answer": "Muttiah Muralitharan"
+              },
+              {
+                "id": 62,
+                "question": "Which NBA team has won the most championships?",
+                "options": ["Boston Celtics", "Los Angeles Lakers", "Chicago Bulls", "Golden State Warriors"],
+                "answer": "Los Angeles Lakers"
+              },
+              {
+                "id": 63,
+                "question": " The offside rule in football applies only to players who are in the opponent’s half of the field.",
+                "options": ["True", "False"],
+                "answer": "False"
+              },
+              {
+                "id": 64,
+                "question": " The FIFA World Cup is held every ____ years.",
+                "options": ["4", "5", "6", "8"],
+                "answer": "4"
+              },
+              {
+                "id": 65,
+                "question": "Which football club has won the most Premier League titles?",
+                "options": ["Manchester United", "Chelsea", "Arsenal", "Liverpool"],
+                "answer": "Manchester United"
+              },
+              {
+                "id": 66,
+                "question": " In tennis, if the server hits the net on their first serve and the ball lands in, what happens next?",
+                "options": [
+                  "The server loses their serve.",
+                  "The point is replayed.",
+                  "The server is penalized one point.",
+                  "The server gets a second chance."
+                ],
+                "answer": "The point is replayed."
+              },
+              {
+                "id": 67,
+                "question": "Which basketball player is known for his 'Air Jordan' shoes?",
+                "options": ["LeBron James", "Kobe Bryant", "Michael Jordan", "Kevin Durant"],
+                "answer": "Michael Jordan"
+              },
+              {
+                "id": 68,
+                "question": "What is the maximum time a rugby team has to set up a scrum after the referee calls for it?",
+                "options": ["30 seconds", "60 seconds", "90 seconds", "120 seconds"],
+                "answer": "60 seconds"
+              },
+              {
+                "id": 69,
+                "question": "Who holds the record for the most goals scored in a single World Cup tournament?",
+                "options": ["Marta", "Miroslav Klose", "Ronaldo", "Pele"],
+                "answer": "Miroslav Klose"
+              },
+              {
+                "id": 70,
+                "question": " In rugby, a player can be substituted at any point during the match without restrictions.",
+                "options": ["True", "False"],
+                "answer": "False"
+              }
+            ]
+          },
+          {
+            "level": 8,
+            "complexity": "International",
+            "questions": [
+              {
+                "id": 71,
+                "question": "What is the highest score ever recorded in a single basketball game by an individual player?",
+                "options": ["81 points", "100 points", "74 points", "92 points"],
+                "answer": "100 points"
+              },
+              {
+                "id": 72,
+                "question": "Which footballer has won the most Ballon d'Or awards?",
+                "options": ["Lionel Messi", "Cristiano Ronaldo", "Michel Platini", "Johan Cruyff"],
+                "answer": "Lionel Messi"
+              },
+              {
+                "id": 73,
+                "question": " In rugby, a try is worth 6 points.",
+                "options": ["True", "False"],
+                "answer": "True"
+              },
+              {
+                "id": 74,
+                "question": " The tennis tournament 'Wimbledon' is played on ____ courts.",
+                "options": ["Clay", "Grass", "Hard", "Indoor"],
+                "answer": "Grass"
+              },
+              {
+                "id": 75,
+                "question": "Which cricketer has scored the most runs in an ODI match?",
+                "options": ["Virat Kohli", "Shikhar Dhawan", "Ricky Ponting", "Sachin Tendulkar"],
+                "answer": "Ricky Ponting"
+              },
+              {
+                "id": 76,
+                "question": " A football player is fouled in the penalty box and the referee awards a penalty kick. If the player misses the penalty, can they retake it?",
+                "options": [
+                  "Yes, if the ball hits the post.",
+                  "No, the penalty kick is final.",
+                  "Yes, if the goalkeeper moves early.",
+                  "No, the ball is considered out of play."
+                ],
+                "answer": "Yes, if the goalkeeper moves early."
+              },
+              {
+                "id": 77,
+                "question": "Which tennis player has won the most Wimbledon singles titles?",
+                "options": ["Roger Federer", "Pete Sampras", "Björn Borg", "Novak Djokovic"],
+                "answer": "Roger Federer"
+              },
+              {
+                "id": 78,
+                "question": "What is the maximum number of players allowed on the field for a rugby union team?",
+                "options": ["13", "15", "16", "11"],
+                "answer": "15"
+              },
+              {
+                "id": 79,
+                "question": "Which country won the 2018 FIFA World Cup?",
+                "options": ["Germany", "Brazil", "France", "Argentina"],
+                "answer": "France"
+              },
+              {
+                "id": 80,
+                "question": " In basketball, a player can score 3 points by shooting from anywhere beyond the 3-point line.",
+                "options": ["True", "False"],
+                "answer": "True"
+              }
+            ]
+          },
+          {
+            "level": 9,
+            "complexity": "Elite",
+            "questions": [
+              {
+                "id": 81,
+                "question": "Which basketball player has won the most NBA MVP awards?",
+                "options": ["Michael Jordan", "LeBron James", "Kareem Abdul-Jabbar", "Bill Russell"],
+                "answer": "Kareem Abdul-Jabbar"
+              },
+              {
+                "id": 82,
+                "question": "Which cricketer has scored the fastest century in ODI history?",
+                "options": ["Shahid Afridi", "Brian Lara", "Virat Kohli", "AB de Villiers"],
+                "answer": "Shahid Afridi"
+              },
+              {
+                "id": 83,
+                "question": " In football, a penalty kick is taken from the penalty mark, which is 12 yards from the goal line.",
+                "options": ["True", "False"],
+                "answer": "True"
+              },
+              {
+                "id": 84,
+                "question": " The 'World Rugby Player of the Year' award was first introduced in ____.",
+                "options": ["2001", "1999", "2003", "2005"],
+                "answer": "2001"
+              },
+              {
+                "id": 85,
+                "question": "Which football player holds the record for the most goals scored in a single season in Europe's top 5 leagues?",
+                "options": ["Cristiano Ronaldo", "Lionel Messi", "Robert Lewandowski", "Kylian Mbappé"],
+                "answer": "Lionel Messi"
+              },
+              {
+                "id": 86,
+                "question": " During a rugby match, a player is penalized for a high tackle. What will the referee typically do?",
+                "options": [
+                  "Give the player a yellow card.",
+                  "Award a scrum to the opposing team.",
+                  "Award a free-kick to the opposing team.",
+                  "Award a penalty to the opposing team."
+                ],
+                "answer": "Award a penalty to the opposing team."
+              },
+              {
+                "id": 87,
+                "question": "Which tennis player has won the most Masters 1000 titles?",
+                "options": ["Roger Federer", "Novak Djokovic", "Rafael Nadal", "Andy Murray"],
+                "answer": "Novak Djokovic"
+              },
+              {
+                "id": 88,
+                "question": "Which country won the 2019 ICC Cricket World Cup?",
+                "options": ["India", "Australia", "England", "New Zealand"],
+                "answer": "England"
+              },
+              {
+                "id": 89,
+                "question": " In basketball, a player's first shot attempt is always considered a field goal attempt.",
+                "options": ["True", "False"],
+                "answer": "True"
+              },
+              {
+                "id": 90,
+                "question": "What is the maximum number of substitutions allowed in a football match for a team?",
+                "options": ["2", "3", "5", "6"],
+                "answer": "3"
+              }
+            ]
+          },
+              {
+                "level": 10,
+                "complexity": "Elite Plus",
+                "questions": [
+                  {
+                    "id": 91,
+                    "question": "Which cricketer has the most centuries in Test cricket?",
+                    "options": ["Ricky Ponting", "Sachin Tendulkar", "Jacques Kallis", "Virat Kohli"],
+                    "answer": "Sachin Tendulkar"
+                  },
+                  {
+                    "id": 92,
+                    "question": "Which football club holds the record for the most La Liga titles?",
+                    "options": ["Real Madrid", "FC Barcelona", "Atletico Madrid", "Valencia"],
+                    "answer": "Real Madrid"
+                  },
+                  {
+                    "id": 93,
+                    "question": " The NBA was founded in 1946 as the Basketball Association of America (BAA).",
+                    "options": ["True", "False"],
+                    "answer": "True"
+                  },
+                  {
+                    "id": 94,
+                    "question": " The world's most prestigious tennis tournament, Wimbledon, was first held in ____.",
+                    "options": ["1877", "1884", "1900", "1920"],
+                    "answer": "1877"
+                  },
+                  {
+                    "id": 95,
+                    "question": "Which player holds the record for the most goals scored in a single FIFA World Cup tournament?",
+                    "options": ["Miroslav Klose", "Ronaldo Nazário", "Pele", "Just Fontaine"],
+                    "answer": "Just Fontaine"
+                  },
+                  {
+                    "id": 96,
+                    "question": " In rugby, if a team commits a forward pass, what is the resulting action?",
+                    "options": [
+                      "The opposing team is awarded a scrum.",
+                      "The opposing team is awarded a penalty kick.",
+                      "The game restarts with a free kick.",
+                      "The team loses possession immediately."
+                    ],
+                    "answer": "The opposing team is awarded a scrum."
+                  },
+                  {
+                    "id": 97,
+                    "question": "Which cricket team won the first ICC T20 World Cup in 2007?",
+                    "options": ["India", "Pakistan", "Sri Lanka", "South Africa"],
+                    "answer": "India"
+                  },
+                  {
+                    "id": 98,
+                    "question": " In football, if a player receives a yellow card, they are immediately sent off the field.",
+                    "options": ["True", "False"],
+                    "answer": "False"
+                  },
+                  {
+                    "id": 99,
+                    "question": "Which tennis player has won the most Grand Slam titles in men's singles?",
+                    "options": ["Roger Federer", "Rafael Nadal", "Novak Djokovic", "Pete Sampras"],
+                    "answer": "Novak Djokovic"
+                  },
+                  {
+                    "id": 100,
+                    "question": "What is the maximum number of players a rugby team can have on the field during a match, excluding substitutes?",
+                    "options": ["11", "12", "13", "15"],
+                    "answer": "15"
+                  }
+                ]
+              }
+   ]
+  }
+  
